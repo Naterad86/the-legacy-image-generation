@@ -17,7 +17,8 @@ Verified visual authority set: [01 Canonical Masters](https://drive.google.com/d
 1. Read `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`.
 2. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
 3. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
-4. For a fresh ChatGPT project, follow `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md`.
+4. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
+5. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
 
 ## Constitutional rule
 
