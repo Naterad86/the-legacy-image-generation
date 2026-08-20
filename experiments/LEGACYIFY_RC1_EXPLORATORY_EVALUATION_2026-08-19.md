@@ -72,11 +72,17 @@ Candidate 3 is retained because it reveals a valuable design direction. It is no
 
 The exploratory RC1 cycle ends after Candidate 3. Do not generate a Candidate 4, repair Candidate 3, crop it, remove its cloud, perfect its surfboards, or select a best-of descendant inside this cycle.
 
-## Recommended next cycle — not frozen
+## Subsequent decision — 2026-08-20
+
+Nate accepted `L0-E` for model-led design under his direct discernment, optimized for the soonest responsible stable rollout. This does not retroactively convert the RC1 recommendation into a frozen packet or authorize generation. The earlier `3/3` rule is an advisory design input, not an automatic advancement rule; Nate controls advancement and rollout after reviewing the complete distribution.
+
+The live non-executable design record is `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`.
+
+## Recommendation recorded at cycle close — not frozen
 
 ### `L0-E` — Perspective-Aware Environmental Embodiment
 
-**Recommendation state:** PROPOSED; not accepted, frozen, preregistered, or authorized to run.
+**Recommendation state at cycle close:** PROPOSED; not accepted, frozen, preregistered, or authorized to run as of 2026-08-19. Superseded for current design status by the subsequent-decision note above.
 
 **Question:** Can one complete Legacy emblem-shape embodiment be integrated into a designated architectural surface, under perspective, while preserving the original unbranded environment and avoiding motif multiplication?
 
