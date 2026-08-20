@@ -26,6 +26,7 @@ Candidates 1–3 are excluded as source material. No office, character, or Allst
 - Introduce exactly one scene-native architectural relief or façade integration derived directly from the canonical emblem.
 - Shape recognition is primary; black-and-gold color is secondary.
 - Permit only the deformation required for projective perspective, architectural material, depth, and scene-native integration.
+- Use a moderate bas-relief integrated into the building's native stone/concrete material. Natural sunlight and cast shadow provide depth; windows and balconies remain architecturally readable.
 - Preserve recognizable mirrored topology, defining lion silhouettes, central rise, and major negative spaces.
 - Preserve the base scene outside the predesignated target envelope.
 - Do not test literal stamping, atmospheric embodiment, or broad Legacy styling in this cycle.
@@ -60,6 +61,7 @@ No model-generated score automatically advances the program.
 - the broad front-facing façade of the tallest upper-right high-rise as the sole target surface;
 - at least 5% clearance from every canvas boundary, at least 10% inset from every usable façade edge, and an emblem targeted at approximately 70% of the façade's usable height; shrink as needed to preserve both margins and never enlarge through them;
 - one emblem, one scale band, one orientation, one perspective relationship, and one material treatment;
+- one façade-native stone/concrete bas-relief treatment with moderate depth and natural light/shadow; no separate signboard, black backing field, gold tracing, glow, or decal-like application;
 - original coastal palette outside the target envelope;
 - identical prompt and source set for all three scheduled outputs;
 - no crop and no target contact with a canvas edge.
@@ -82,7 +84,7 @@ Resolve these sequentially under Nate's discernment:
 
 1. **D1 — Target surface and envelope:** `[RESOLVED 2026-08-20]` Use the broad front-facing façade of the tallest upper-right high-rise as the sole target surface. Keep the eventual emblem entirely inset from the top and right canvas boundaries. D2 will set the exact safe margin and scale.
 2. **D2 — Safe margin and permitted emblem scale:** `[RESOLVED 2026-08-20]` Require at least 5% canvas clearance and 10% inset from every usable façade edge. Target approximately 70% of the façade's usable height, shrinking whenever necessary to preserve both margins and never enlarging through them.
-3. **D3 — Material behavior and depth:** `[UNRESOLVED]`
+3. **D3 — Material behavior and depth:** `[RESOLVED 2026-08-20]` Use a moderate bas-relief integrated into the building's native stone/concrete material. Natural sunlight and cast shadow provide the depth cue while windows and balconies remain architecturally readable. Forbid a separate signboard, black backing field, gold tracing, glow, or decal-like application.
 4. **D4 — Canonical emblem scope and orientation:** `[UNRESOLVED]`
 5. **D5 — Final evaluation wording and advancement rule:** `[UNRESOLVED]`
 6. **D6 — Frozen prompt approval and explicit run authorization:** `[UNRESOLVED]`
@@ -185,3 +187,4 @@ Before releasing `Legacyify v0.1`:
 | 2026-08-20 | Nate accepted `L0-E` for model-led test design under his discernment, optimized for the soonest stable rollout. | Opened draft design only; did not freeze, authorize, or start generation. |
 | 2026-08-20 | D1 approved: the broad front-facing façade of the tallest upper-right high-rise is the sole target surface. | Fixed the target identity; advanced design to D2 without authorizing generation. |
 | 2026-08-20 | D2 approved: 5% canvas clearance, 10% façade inset, and approximately 70% usable-façade-height scale with shrink-only protection. | Locked containment and scale; advanced design to D3 without authorizing generation. |
+| 2026-08-20 | D3 approved: a moderate façade-native stone/concrete bas-relief, modeled by natural light and shadow, with no signboard, backing field, gold tracing, glow, or decal treatment. | Locked material behavior and depth; advanced design to D4 without authorizing generation. |
