@@ -73,8 +73,9 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - `L0-E` D1 is resolved: the broad front-facing façade of the tallest upper-right high-rise is the sole target surface.
 - `L0-E` D2 is resolved: require 5% canvas clearance, 10% façade inset, and approximately 70% usable-façade-height scale with shrink-only margin protection.
 - `L0-E` D3 is resolved: use a moderate façade-native stone/concrete bas-relief modeled by natural light and shadow, preserving readable windows and balconies and forbidding signboard, backing-field, gold-trace, glow, or decal treatments.
+- `L0-E` D4 is resolved: use the canonical mirrored-lion artwork only, without typography, upright and bilaterally intact before whole-unit perspective projection; no independent half transformations or cropping.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Continue the non-executable `L0-E` schema at D4: canonical emblem scope and orientation. Resolve only choices material to stability, then seek Nate's explicit freeze and run authorization. Do not generate before the preregistered packet is released.
+Continue the non-executable `L0-E` schema at D5: final evaluation wording and advancement rule. Resolve only choices material to stability, then assemble the exact frozen-packet candidate for Nate's review. Do not freeze or generate without Nate's explicit authorization.
