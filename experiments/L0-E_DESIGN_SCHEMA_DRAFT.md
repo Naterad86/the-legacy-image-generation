@@ -1,6 +1,6 @@
 # `L0-E` Design Schema Draft — Perspective-Aware Environmental Embodiment
 
-**Status:** ACCEPTED FOR DESIGN — DRAFT / NON-EXECUTABLE  
+**Status:** DESIGN DECISIONS COMPLETE (D1–D5) — FREEZE CANDIDATE ASSEMBLY / NON-EXECUTABLE  
 **Acceptance date:** 2026-08-20  
 **Decision authority:** Nate  
 **Objective:** The shortest responsible path to a stable, human-gated Legacyify rollout  
@@ -87,10 +87,13 @@ Resolve these sequentially under Nate's discernment:
 2. **D2 — Safe margin and permitted emblem scale:** `[RESOLVED 2026-08-20]` Require at least 5% canvas clearance and 10% inset from every usable façade edge. Target approximately 70% of the façade's usable height, shrinking whenever necessary to preserve both margins and never enlarging through them.
 3. **D3 — Material behavior and depth:** `[RESOLVED 2026-08-20]` Use a moderate bas-relief integrated into the building's native stone/concrete material. Natural sunlight and cast shadow provide the depth cue while windows and balconies remain architecturally readable. Forbid a separate signboard, black backing field, gold tracing, glow, or decal-like application.
 4. **D4 — Canonical emblem scope and orientation:** `[RESOLVED 2026-08-20]` Use only the canonical mirrored-lion emblem artwork, without `THE LEGACY` typography. Keep it upright and bilaterally intact, then project the complete emblem as one unit onto the façade perspective. Forbid independent stretching, rotation, mirroring, rearrangement, or cropping of either half.
-5. **D5 — Final evaluation wording and advancement rule:** `[UNRESOLVED]`
-6. **D6 — Frozen prompt approval and explicit run authorization:** `[UNRESOLVED]`
+5. **D5 — Final evaluation wording and advancement rule:** `[RESOLVED 2026-08-20]` Evaluate all three outputs as one distribution. All three must clear every critical gate, and at least two must be genuinely usable by Nate's judgment, to qualify for Nate's holdout-transfer decision. Two critical-clear outputs are partial support with no default advancement. One or fewer, or the same critical defect appearing more than once, stops the mechanism. Meeting the threshold never advances automatically.
+6. **D6a — Freeze candidate approval and packet release:** `[UNRESOLVED]`
+7. **D6b — Explicit Laboratory run authorization:** `[UNRESOLVED]`
 
 Only decisions material to stability should block the freeze. Do not add optional variables to the cycle.
+
+The exact assembled candidate is `experiments/L0-E_FREEZE_CANDIDATE_2026-08-20.md`. It is the live review surface. This schema remains the design rationale and is not an executable control.
 
 ## Planned `L0-E` cycle
 
@@ -190,3 +193,4 @@ Before releasing `Legacyify v0.1`:
 | 2026-08-20 | D2 approved: 5% canvas clearance, 10% façade inset, and approximately 70% usable-façade-height scale with shrink-only protection. | Locked containment and scale; advanced design to D3 without authorizing generation. |
 | 2026-08-20 | D3 approved: a moderate façade-native stone/concrete bas-relief, modeled by natural light and shadow, with no signboard, backing field, gold tracing, glow, or decal treatment. | Locked material behavior and depth; advanced design to D4 without authorizing generation. |
 | 2026-08-20 | D4 approved: canonical mirrored-lion artwork only, no typography, upright and bilaterally intact before whole-unit perspective projection; no independent half transformations or cropping. | Locked emblem scope and orientation; advanced design to D5 without authorizing generation. |
+| 2026-08-20 | D5 approved: all three outputs must clear critical gates and at least two must be Nate-usable to qualify for his holdout decision; two critical-clear outputs are partial support; one or fewer or a repeated critical defect stops the mechanism; advancement is never automatic. | Completed substantive design decisions and authorized assembly of a non-executable freeze candidate only. |
