@@ -70,8 +70,9 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - `L0-E` is the accepted design direction because it isolates the strongest valued mechanism while preventing the observed truncation, motif multiplication, palette overreach, and cloud confound.
 - Nate's direct discernment controls every consequential design, advancement, and rollout decision; evidence informs but does not replace that authority.
 - The rollout objective is the shortest responsible path to a stable human-gated architectural capability, not premature universal coverage.
+- `L0-E` D1 is resolved: the broad front-facing façade of the tallest upper-right high-rise is the sole target surface; exact clearance and scale remain unresolved.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Complete the non-executable `L0-E` schema one decision at a time under Nate's discernment, beginning with the target façade and envelope. Resolve only choices material to stability, then seek Nate's explicit freeze and run authorization. Do not generate before the preregistered packet is released.
+Continue the non-executable `L0-E` schema at D2: safe margin and permitted emblem scale. Resolve only choices material to stability, then seek Nate's explicit freeze and run authorization. Do not generate before the preregistered packet is released.
