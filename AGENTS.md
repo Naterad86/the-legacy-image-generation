@@ -21,13 +21,15 @@ Apply this precedence:
 
 - A source controls only its assigned component.
 - Never infer identity authority from similarity, recency, filename alone, embedded graphics, or prior generations.
-- Never use a generated descendant as character or logo authority unless Nate explicitly promotes it.
+- Never use a generated descendant as character, logo, motif, or scene authority unless Nate explicitly promotes it.
 - Keep Prompt Design, Laboratory generation, Evaluation, Dashboard, and Prototype Studio roles separate.
 - Do not assign PASS/FAIL inside generation prompts or generation workspaces.
 - Stop when a required master is unavailable; do not silently substitute.
 - Every dashboard update begins with the Source Manifest.
 - Preserve exact experiment identifiers and separate observation from interpretation.
 - Store no canonical image master or raw generation in GitHub. GitHub may store filenames, Drive IDs, hashes, status, and text controls only.
+- In Legacyify work, distinguish a literal logo or stamp from a scene-native motif embodiment. A literal application must precisely embody the authorized canonical form; a scene-native embodiment may deform modestly only for perspective or material naturalness while preserving recognizable source topology. Shape is primary and color is secondary.
+- Keep every motif complete and deliberately clear of image boundaries. Truncation is a critical defect, and authorization of one motif does not authorize multiplication.
 
 ## Female master exclusion
 
@@ -36,6 +38,7 @@ Apply this precedence:
 ## Required control files
 
 - `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`
+- `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`
 - `governance/STORAGE_AUTHORITY.md`
 - `manifests/SOURCE_MANIFEST.md`
 - `manifests/SOURCE_INTAKE_REGISTER.md`
