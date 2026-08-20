@@ -29,4 +29,4 @@ Generated descendants are evidence or production outputs. They never become iden
 
 ## Current program status
 
-The five canonical visual masters remain verified in Drive. The first logo-led Legacyify environment exploration is complete and hard-stopped after Candidate 3. Perspective-aware emblem embodiment shows strong potential, but controlled repeatability has not been established. The recommended `L0-E` successor cycle is documented but remains unfrozen and unauthorized pending Nate's review.
+The five canonical visual masters remain verified in Drive. The first logo-led Legacyify environment exploration is complete and hard-stopped after Candidate 3. Perspective-aware emblem embodiment shows strong potential, but controlled repeatability has not been established. Nate accepted `L0-E` for human-gated design on 2026-08-20; its draft schema is non-executable, and the cycle remains unfrozen, unauthorized, and unstarted.
