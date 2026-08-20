@@ -15,10 +15,11 @@ Verified visual authority set: [01 Canonical Masters](https://drive.google.com/d
 ## Start here
 
 1. Read `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`.
-2. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
-3. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
-4. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
-5. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
+2. For unbranded-scene transformations, read `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`.
+3. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
+4. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
+5. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
+6. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
 
 ## Constitutional rule
 
@@ -26,6 +27,6 @@ Verified visual authority set: [01 Canonical Masters](https://drive.google.com/d
 
 Generated descendants are evidence or production outputs. They never become identity authorities unless Nate explicitly promotes one.
 
-## Current migration status
+## Current program status
 
-The Drive repository structure is active, and all five canonical visual masters were explicitly designated by Nate, byte-verified, normalized to truthful `.jpg` extensions, and ingested into `01 Canonical Masters` on 2026-08-19. The prior inaccessible female-sheet record remains historical incident evidence only; it has no authority.
+The five canonical visual masters remain verified in Drive. The first logo-led Legacyify environment exploration is complete and hard-stopped after Candidate 3. Perspective-aware emblem embodiment shows strong potential, but controlled repeatability has not been established. The recommended `L0-E` successor cycle is documented but remains unfrozen and unauthorized pending Nate's review.
