@@ -40,6 +40,12 @@ Only after acceptance:
 
 Until those steps are complete, `L0-E` remains proposed and must not be run.
 
+## Subsequent decision — 2026-08-20
+
+Nate accepted `L0-E` for model-led design under his direct discernment, with the objective of reaching the soonest stable Legacyify rollout. The live resumption artifact is now `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`.
+
+This advances the resumption boundary from proposal review to non-executable draft design only. `L0-E` is not frozen, preregistered, released, authorized to run, or started. Candidate 3 remains hard-stopped and excluded as a source.
+
 ## Deferred branches
 
 - `F0-P` Prompt-Density Discrimination remains planned and unfrozen on the female branch; it is deferred, not canceled or invalidated.
