@@ -1,60 +1,75 @@
 # The Legacy — Current Program State
 
-**Checkpoint:** 2026-08-19 migration snapshot  
-**Current phase:** Female Mechanism Isolation  
-**Female identity viability:** Established  
-**Current precision conclusion:** Identity-level baseline validated; strict precision-level baseline not locked  
-**Current execution status:** Source reconstruction complete; ready for Release Candidate 1 definition
-
 ## Source Manifest
 
-| Canonical source | Expected filename | Current availability |
+| Canonical source | Canonical filename | Drive ID | SHA-256 | Current availability |
+|---|---|---|---|---|
+| `LEGACY_LOGO_MASTER` | `LEGACY_LOGO_MASTER.jpg` | `1bsTHkVg8_pN0E23i_B9NCWsb0WlgDha_` | `68bc3c93ef900e5b3f25e2f7fb1e987661d60f0b6baec93f0ded0bbb841eb76b` | Verified in Drive; sole Legacy logo and emblem authority |
+| `MALE_CHARACTER_MASTER` | `LEGACY_MALE_CHARACTER_MASTER.jpg` | `17VqFYhwXkMB3ez0wU47OadmDg40wKeNw` | `af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a` | Verified in Drive |
+| `FEMALE_CHARACTER_MASTER` | `LEGACY_FEMALE_CHARACTER_MASTER.jpg` | `1jvecveTYFSGw-RtiDQN0Y2jVwCGkbtpl` | `04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0` | Verified in Drive; controlling female authority |
+| `LEGACY_OFFICE_MASTER` | `LEGACY_OFFICE_MASTER.jpg` | `1CiT_-nx5vCGi8KbNa9x9WqwPGIZFBKjm` | `bf5325630ceb0c66cf38b8f8fc4c32b6bf849fe33347aef4ddbd18f9b869648f` | Verified in Drive |
+| `ALLSTATE_LOGO_MASTER` | `ALLSTATE_LOGO_MASTER.jpg` | `1ts0YjEzjjOoaY16SPhIjb6F0gYonE7z_` | `bd3f67826c11295f8be83aa01fc47b30ef8473d96f71363826e9f788ab14a44c` | Verified in Drive |
+
+A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
+
+**Checkpoint:** 2026-08-19 post-RC1 exploratory hard stop  
+**Current phase:** Logo-led Legacyify Environment Transformation — mechanism definition  
+**Current execution status:** RC1 exploration complete and hard-stopped; next cycle recommended but not frozen or authorized  
+**Current program conclusion:** Perspective-aware emblem embodiment shows strong potential; controlled repeatability is not established
+
+## Logo-led Legacyify state
+
+| Record | Status | Distribution-level finding |
 |---|---|---|
-| `LEGACY_LOGO_MASTER` | `LEGACY_LOGO_MASTER.jpg` | Verified in Drive |
-| `MALE_CHARACTER_MASTER` | `LEGACY_MALE_CHARACTER_MASTER.jpg` | Verified in Drive |
-| `FEMALE_CHARACTER_MASTER` | `LEGACY_FEMALE_CHARACTER_MASTER.jpg` | Verified in Drive; controlling female authority |
-| `LEGACY_OFFICE_MASTER` | `LEGACY_OFFICE_MASTER.jpg` | Verified in Drive |
-| `ALLSTATE_LOGO_MASTER` | `ALLSTATE_LOGO_MASTER.jpg` | Verified in Drive |
+| Legacyify beach RC1 exploration | Complete; HARD STOP after Candidate 3 | Potential ceiling demonstrated; controlled repeatability not established |
+| Candidate 3 | Selected exploratory prototype; non-evidentiary; not release-quality | Complete architectural embodiment and strong scene preservation; approximate surfboard stamps and an out-of-bounds cloud prevent clean validation |
+| `L0-E` Perspective-Aware Environmental Embodiment | Recommended only; not accepted, frozen, preregistered, or authorized | Proposed three-cycle repeatability test using one architectural surface and exactly one motif |
 
-A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become identity authorities unless Nate explicitly promotes them.
+The full evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`.
 
-## Evidence state
+## Durable Legacyify priorities
+
+- The emblem's actual shape is primary; black-and-gold color is secondary.
+- A literal stamp must be a perfect canonical embodiment, fully visible, and deliberately placed.
+- A scene-native embodiment may deform modestly for perspective or material behavior while preserving recognizable topology, silhouette, bilateral relationship, and negative spaces.
+- Full containment is non-negotiable; truncation is an automatic critical defect.
+- Restraint is mandatory; motif multiplication is never automatic.
+- By default, a supplied base scene locks subject, composition, camera, framing, and major objects.
+- Generated descendants never become authority without Nate's explicit promotion.
+
+## Female mechanism evidence
+
+**Female identity viability:** Established  
+**Precision conclusion:** Identity-level baseline validated; strict precision-level baseline not locked  
+**Branch state:** Paused without invalidation while the logo-led priority is defined
 
 | Experiment | Status | Distribution-level finding |
 |---|---|---|
 | `F0-R` | Complete; historical `PASS ×2` evidence | Established initial female identity viability; does not control the current strict-precision conclusion |
 | `F1` Pose Isolation | Complete; `MINOR DRIFT ×2` | Pose variation viable within a bounded fidelity cost |
-| `F2` / `F2-C1` Expression Isolation | Complete; `MINOR DRIFT` across initial and retest outputs | Expression variation viable; clear smile condition demonstrated robustness with bounded drift |
-| `F3` Wardrobe Isolation | Complete; `MINOR DRIFT ×2` | Wardrobe variation viable; one partial-compliance cycle and one cleaner compliance cycle |
-| `F0-S` Baseline Reconstruction Surveillance | Complete; `MINOR DRIFT ×3`, compliance PASS | Reproduced drift without an intentional variable; establishes the current baseline control distribution |
-| `F0-V` Within-Master View-Lock Discrimination | Complete; Condition B `MINOR DRIFT ×3` | Partial support for view arbitration; some frontal-geometry improvement, persistent drift |
+| `F2` / `F2-C1` Expression Isolation | Complete; bounded `MINOR DRIFT` | Expression variation viable with bounded drift |
+| `F3` Wardrobe Isolation | Complete; `MINOR DRIFT ×2` | Wardrobe variation viable with bounded drift |
+| `F0-S` Baseline Reconstruction Surveillance | Complete; `MINOR DRIFT ×3`, compliance PASS | Current female baseline control distribution |
+| `F0-V` Within-Master View-Lock Discrimination | Complete; Condition B `MINOR DRIFT ×3` | Partial support for view arbitration with persistent drift |
+| `F0-P` Prompt-Density Discrimination | Planned, unfrozen, deferred | No prompt or held constants may be frozen while the branch is paused |
 
-## Recurring female drift signature
+Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or wider muzzle and whisker-pad region, broader or softer facial construction, increased mane volume or density, and mild muscular emphasis. Ears, tail, overall rendering treatment, and mascot recognizability remain comparatively stable.
 
-- larger or rounder eyes;
-- heavier brows;
-- fuller or wider muzzle and whisker-pad region;
-- broader, softer facial construction;
-- increased mane volume or density;
-- mild muscular emphasis.
+## Other branch state
 
-More stable features: ears, tail, overall rendering treatment, and mascot recognizability.
+- The male branch remains paused after Stage 0 advancement.
+- Multi-source validation has not started.
+- Source reconstruction remains complete; no source-ingestion blocker exists.
+- Laboratory generation and Evaluation remain separate.
 
 ## Current decisions
 
-- Precision, not identity preservation, is the current female blocker.
-- `F0-S` controls the present baseline precision conclusion.
-- `F0-V` is complete and only partially explanatory.
-- The next planned mechanism test is `F0-P` Prompt-Density Discrimination.
-- `F0-P` is not frozen until Release Candidate 1 is defined and exact held constants are confirmed.
-- The male branch is paused after Stage 0 advancement.
-- Multi-source validation has not started.
-- Laboratory generation and Evaluation remain separate.
-
-## Source reconstruction status
-
-Complete as of 2026-08-19. Nate supplied and designated all five canonical sources; each was byte-verified and ingested into Drive. The prior inaccessible female-source record remains historical incident evidence only and no longer blocks resumption.
+- The RC1 exploration will not receive another candidate, repair, crop, or continuation.
+- Candidate 3 is retained in Drive as a useful exploratory prototype, not a baseline or authority.
+- The cloud direction is out-of-scope evidence and is deferred to a separate future material-surface test.
+- `L0-E` is the recommended next cycle because it isolates the strongest valued mechanism while preventing the observed truncation, motif multiplication, palette overreach, and cloud confound.
+- `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Resume the Release Candidate 1 interview with: **What is the first real Legacy image you would most value having in a usable form?** After RC1 is defined, freeze the exact held constants and prepare `F0-P` Prompt-Density Discrimination.
+Review and accept or refine the proposed `L0-E` design one decision at a time. Only then freeze its target envelope, prompt, held constants, exclusions, three-cycle plan, evaluation rubric, and hard-stop rule. Do not generate before the preregistered packet is released.
