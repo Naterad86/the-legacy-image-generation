@@ -12,9 +12,9 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-20 `L0-E` accepted-for-design checkpoint  
+**Checkpoint:** 2026-08-20 `L0-E` freeze-candidate assembly checkpoint  
 **Current phase:** Logo-led Legacyify Environment Transformation — mechanism definition  
-**Current execution status:** `L0-E` accepted for design; draft schema in development; not frozen, preregistered, authorized, or started  
+**Current execution status:** `L0-E` D1–D5 approved; freeze candidate assembled for Nate review; not frozen, released, authorized, or started  
 **Current program conclusion:** Perspective-aware emblem embodiment shows strong potential; controlled repeatability is not established
 
 ## Logo-led Legacyify state
@@ -23,9 +23,9 @@ A source controls only its assigned component. Generated descendants remain evid
 |---|---|---|
 | Legacyify beach RC1 exploration | Complete; HARD STOP after Candidate 3 | Potential ceiling demonstrated; controlled repeatability not established |
 | Candidate 3 | Selected exploratory prototype; non-evidentiary; not release-quality | Complete architectural embodiment and strong scene preservation; approximate surfboard stamps and an out-of-bounds cloud prevent clean validation |
-| `L0-E` Perspective-Aware Environmental Embodiment | ACCEPTED FOR DESIGN; Nate is advancement and rollout decision authority; not frozen or run | Human-gated draft schema targets the shortest responsible path to a stable architectural Legacyify rollout |
+| `L0-E` Perspective-Aware Environmental Embodiment | FREEZE CANDIDATE ASSEMBLY; D1–D5 approved; Nate decision pending; not frozen or run | Exact Laboratory prompt and separate Evaluation handoff assembled in a non-executable candidate packet |
 
-The full RC1 evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`. The live non-executable design artifact is `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`.
+The full RC1 evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`. Design rationale is in `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`. The live non-executable review surface is `experiments/L0-E_FREEZE_CANDIDATE_2026-08-20.md`.
 
 ## Durable Legacyify priorities
 
@@ -74,8 +74,9 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - `L0-E` D2 is resolved: require 5% canvas clearance, 10% façade inset, and approximately 70% usable-façade-height scale with shrink-only margin protection.
 - `L0-E` D3 is resolved: use a moderate façade-native stone/concrete bas-relief modeled by natural light and shadow, preserving readable windows and balconies and forbidding signboard, backing-field, gold-trace, glow, or decal treatments.
 - `L0-E` D4 is resolved: use the canonical mirrored-lion artwork only, without typography, upright and bilaterally intact before whole-unit perspective projection; no independent half transformations or cropping.
+- `L0-E` D5 is resolved: all three outputs must clear every critical gate and at least two must be Nate-usable to qualify for his holdout decision; two critical-clear outputs are partial support with no default advancement; one or fewer or a repeated critical defect stops the mechanism; advancement is never automatic.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Continue the non-executable `L0-E` schema at D5: final evaluation wording and advancement rule. Resolve only choices material to stability, then assemble the exact frozen-packet candidate for Nate's review. Do not freeze or generate without Nate's explicit authorization.
+Review the exact `L0-E` freeze candidate. Nate may approve, revise, or reject it. Only an explicit D6a freeze decision may promote it to a frozen, Drive-released v1 packet; D6b Laboratory run authorization remains a separate explicit gate.
