@@ -12,9 +12,9 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-19 post-RC1 exploratory hard stop  
+**Checkpoint:** 2026-08-20 `L0-E` accepted-for-design checkpoint  
 **Current phase:** Logo-led Legacyify Environment Transformation — mechanism definition  
-**Current execution status:** RC1 exploration complete and hard-stopped; next cycle recommended but not frozen or authorized  
+**Current execution status:** `L0-E` accepted for design; draft schema in development; not frozen, preregistered, authorized, or started  
 **Current program conclusion:** Perspective-aware emblem embodiment shows strong potential; controlled repeatability is not established
 
 ## Logo-led Legacyify state
@@ -23,9 +23,9 @@ A source controls only its assigned component. Generated descendants remain evid
 |---|---|---|
 | Legacyify beach RC1 exploration | Complete; HARD STOP after Candidate 3 | Potential ceiling demonstrated; controlled repeatability not established |
 | Candidate 3 | Selected exploratory prototype; non-evidentiary; not release-quality | Complete architectural embodiment and strong scene preservation; approximate surfboard stamps and an out-of-bounds cloud prevent clean validation |
-| `L0-E` Perspective-Aware Environmental Embodiment | Recommended only; not accepted, frozen, preregistered, or authorized | Proposed three-cycle repeatability test using one architectural surface and exactly one motif |
+| `L0-E` Perspective-Aware Environmental Embodiment | ACCEPTED FOR DESIGN; Nate is advancement and rollout decision authority; not frozen or run | Human-gated draft schema targets the shortest responsible path to a stable architectural Legacyify rollout |
 
-The full evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`.
+The full RC1 evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`. The live non-executable design artifact is `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`.
 
 ## Durable Legacyify priorities
 
@@ -67,9 +67,11 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - The RC1 exploration will not receive another candidate, repair, crop, or continuation.
 - Candidate 3 is retained in Drive as a useful exploratory prototype, not a baseline or authority.
 - The cloud direction is out-of-scope evidence and is deferred to a separate future material-surface test.
-- `L0-E` is the recommended next cycle because it isolates the strongest valued mechanism while preventing the observed truncation, motif multiplication, palette overreach, and cloud confound.
+- `L0-E` is the accepted design direction because it isolates the strongest valued mechanism while preventing the observed truncation, motif multiplication, palette overreach, and cloud confound.
+- Nate's direct discernment controls every consequential design, advancement, and rollout decision; evidence informs but does not replace that authority.
+- The rollout objective is the shortest responsible path to a stable human-gated architectural capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Review and accept or refine the proposed `L0-E` design one decision at a time. Only then freeze its target envelope, prompt, held constants, exclusions, three-cycle plan, evaluation rubric, and hard-stop rule. Do not generate before the preregistered packet is released.
+Complete the non-executable `L0-E` schema one decision at a time under Nate's discernment, beginning with the target façade and envelope. Resolve only choices material to stability, then seek Nate's explicit freeze and run authorization. Do not generate before the preregistered packet is released.
