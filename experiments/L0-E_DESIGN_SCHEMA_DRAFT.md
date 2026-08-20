@@ -57,7 +57,7 @@ No model-generated score automatically advances the program.
 - exact original base-scene bytes for every cycle;
 - original 4:3 framing and perceptual camera position;
 - coastline, road, skyline, buildings, terrain, vehicles, people, foreground surfboards, golf bag, and scene identity;
-- one predesignated target surface and normalized envelope;
+- the broad front-facing façade of the tallest upper-right high-rise as the sole target surface; exact safe margin and scale remain controlled by D2;
 - one emblem, one scale band, one orientation, one perspective relationship, and one material treatment;
 - original coastal palette outside the target envelope;
 - identical prompt and source set for all three scheduled outputs;
@@ -79,7 +79,7 @@ Minor reconstruction noise outside the target may be observed and evaluated; it 
 
 Resolve these sequentially under Nate's discernment:
 
-1. **D1 — Target surface and envelope:** `[UNRESOLVED]`
+1. **D1 — Target surface and envelope:** `[RESOLVED 2026-08-20]` Use the broad front-facing façade of the tallest upper-right high-rise as the sole target surface. Keep the eventual emblem entirely inset from the top and right canvas boundaries. D2 will set the exact safe margin and scale.
 2. **D2 — Safe margin and permitted emblem scale:** `[UNRESOLVED]`
 3. **D3 — Material behavior and depth:** `[UNRESOLVED]`
 4. **D4 — Canonical emblem scope and orientation:** `[UNRESOLVED]`
@@ -182,3 +182,4 @@ Before releasing `Legacyify v0.1`:
 | Date | Decision | Effect |
 |---|---|---|
 | 2026-08-20 | Nate accepted `L0-E` for model-led test design under his discernment, optimized for the soonest stable rollout. | Opened draft design only; did not freeze, authorize, or start generation. |
+| 2026-08-20 | D1 approved: the broad front-facing façade of the tallest upper-right high-rise is the sole target surface. | Fixed the target identity; advanced design to D2 without authorizing generation. |
