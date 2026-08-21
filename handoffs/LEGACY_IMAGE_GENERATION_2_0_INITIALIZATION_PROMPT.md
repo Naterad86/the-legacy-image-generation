@@ -34,12 +34,15 @@ Read these GitHub files in order:
 1. `README.md`
 2. `AGENTS.md`
 3. `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`
-4. `governance/STORAGE_AUTHORITY.md`
-5. `manifests/SOURCE_MANIFEST.md`
-6. `manifests/SOURCE_INTAKE_REGISTER.md`
-7. `dashboard/CURRENT_PROGRAM_STATE.md`
-8. `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md`
-9. `experiments/README.md`
+4. `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`
+5. `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`
+6. `governance/STORAGE_AUTHORITY.md`
+7. `manifests/SOURCE_MANIFEST.md`
+8. `manifests/SOURCE_INTAKE_REGISTER.md`
+9. `dashboard/CURRENT_PROGRAM_STATE.md`
+10. `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md`
+11. `experiments/README.md`
+12. `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`
 
 Then inspect the Drive folder `01 Canonical Masters` and resolve these exact records:
 
@@ -95,21 +98,28 @@ Do not collapse these functions into one conversational stream when doing so wou
 
 ## Current program state
 
-- **Phase:** Female Mechanism Isolation.
-- **Female identity viability:** established.
-- **Precision conclusion:** identity-level baseline validated; strict precision-level baseline not locked.
-- `F0-R`: historical `PASS ×2`; established initial identity viability.
-- `F1` Pose Isolation: complete; `MINOR DRIFT ×2`.
-- `F2` / `F2-C1` Expression Isolation: complete; bounded `MINOR DRIFT` across initial and smile-retest outputs.
-- `F3` Wardrobe Isolation: complete; `MINOR DRIFT ×2`.
-- `F0-S` Baseline Reconstruction Surveillance: complete; `MINOR DRIFT ×3`, experimental compliance PASS; current baseline control distribution.
-- `F0-V` Within-Master View-Lock Discrimination: complete; Condition B `MINOR DRIFT ×3`; partial support for view arbitration, with persistent drift.
-- Recurring female drift: larger or rounder eyes, heavier brows, fuller or wider muzzle and whisker-pad region, broader or softer facial construction, increased mane volume or density, and mild muscular emphasis.
-- More stable female features: ears, tail, overall rendering treatment, and mascot recognizability.
-- `F0-P` Prompt-Density Discrimination is the next planned mechanism test, but it is **not frozen** until Release Candidate 1 is defined and the exact held constants are confirmed.
-- The male branch is paused after Stage 0 advancement.
+- **Phase:** Logo-led Legacyify — bounded general-input transfer validation.
+- **Primary priority:** the canonical logo's actual topology embodied through a restrained, scene-native surface; color is secondary.
+- Legacyify beach RC1 exploration: complete and hard-stopped after Candidate 3; qualitative evidence only.
+- `L0-E` architectural freeze candidate: preserved, unfrozen, unreleased, unauthorized, and unrun; not the current automatic resumption point.
+- Trial `G0`: complete on one third-party, internal-validation-only pixel-art landscape.
+- `G0` Round 1: useful failure under the excellence-only rule; concept viable, but frame control, native pixel vocabulary, and topology precision were inadequate.
+- `G0-C1`: fresh correction from the untouched base; every independent evaluation gate passed; classification `EXCELLENT`.
+- Nate accepted `G0-C1` as release-as-is for the controlled trial. No post-generation correction round occurred after `G0-C1`.
+- Current conclusion: one controlled instance reached excellence within the allowed correction cycle. Arbitrary-image repeatability, production readiness, public release rights, and rollout authority remain unestablished.
+- The `G0` base and descendant are internal-validation evidence in Drive; neither is canonical or a reusable production source.
+- `G1` bounded holdout transfer is the exact resumption point. It is not yet designed, frozen, or authorized.
+- Female identity viability remains established; its mechanism branch is paused without invalidation.
+- `F0-S` and `F0-V` remain complete. `F0-P` remains planned, unfrozen, and deferred.
+- The male branch remains paused after Stage 0 advancement.
 - Multi-source validation has not started.
 - Source reconstruction is complete; no source-ingestion blocker remains.
+
+## Project-only routing behavior
+
+Follow `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`.
+
+Do not append a Chat/Work or reasoning footer unless the response first supplies an explicit prompt, command, or use instruction and explains where and how Nate should use it. Omit routing commentary when no meaningful venue decision exists.
 
 ## Initialization response contract
 
@@ -120,13 +130,13 @@ First return a compact **Initialization Report** containing only:
 1. GitHub control-file accessibility.
 2. A five-row source-readiness table showing Drive existence, visual accessibility, and new-project attachment readiness.
 3. Confirmation of the constitutional rule and the excluded female identifier.
-4. Confirmation of the current phase, completed mechanism tests, and exact resumption point.
+4. Confirmation of the current phase, the `G0-C1` conclusion, and the exact `G1` resumption point.
 5. Any genuine blocker that requires Nate's action.
 
 Do not silently repair missing information from memory. Do not restart completed experiments. Do not propose a generation prompt yet.
 
 If and only if the control files and all five masters are ready, end the initialization response by asking exactly one question:
 
-> **What is the first real Legacy image you would most value having in a usable form?**
+> **Shall I assemble the bounded `G1` holdout-transfer design for your review?**
 
-Wait for Nate's answer. Proceed one decision question at a time to define Release Candidate 1 before freezing or running `F0-P`.
+Wait for Nate's answer. Proceed one decision question at a time. Do not freeze or run `G1` without separate explicit authorization.

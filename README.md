@@ -16,10 +16,11 @@ Verified visual authority set: [01 Canonical Masters](https://drive.google.com/d
 
 1. Read `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`.
 2. For unbranded-scene transformations, read `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`.
-3. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
-4. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
-5. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
-6. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
+3. Read `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md` for the project-only Chat/Work and reasoning teaching layer.
+4. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
+5. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
+6. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
+7. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
 
 ## Constitutional rule
 
@@ -29,4 +30,6 @@ Generated descendants are evidence or production outputs. They never become iden
 
 ## Current program status
 
-The five canonical visual masters remain verified in Drive. The first logo-led Legacyify environment exploration is complete and hard-stopped after Candidate 3. Perspective-aware emblem embodiment shows strong potential, but controlled repeatability has not been established. Nate accepted `L0-E` for human-gated design on 2026-08-20; its draft schema is non-executable, and the cycle remains unfrozen, unauthorized, and unstarted.
+The five canonical visual masters remain verified in Drive. Trial `G0` tested whether a general unbranded image could reach Nate's excellence threshold with no more than one correction cycle. The initial pixel-art landscape result was a useful failure; `G0-C1` restarted from the untouched source with the relaxed frame and rendering-language controls made explicit, then achieved an independently evaluated `EXCELLENT` result that Nate accepted as-is with zero post-generation correction rounds.
+
+This is successful controlled-instance evidence, not proof of arbitrary-image repeatability or authorization for production rollout. The third-party base scene and its descendant are restricted to internal validation evidence in Drive. The next decision surface is a bounded `G1` holdout-transfer design. The assembled `L0-E` architectural freeze candidate remains preserved, unfrozen, and unrun.

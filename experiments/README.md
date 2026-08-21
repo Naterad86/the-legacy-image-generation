@@ -4,9 +4,10 @@ This directory holds versioned preregistrations, experiment definitions, and eva
 
 ## Current status
 
+- [`G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`](G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md): complete; one third-party, internal-validation-only pixel-art scene; initial output was a useful failure; the single permitted fresh correction achieved independent `EXCELLENT` and Nate accepted it as-is with zero post-generation correction rounds; controlled-instance mechanism proof only.
 - [`LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`](LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md): complete; non-preregistered Prototype Studio exploration; HARD STOP after Candidate 3; qualitative evidence only.
-- [`L0-E_DESIGN_SCHEMA_DRAFT.md`](L0-E_DESIGN_SCHEMA_DRAFT.md): D1–D5 resolved; retained as design rationale. It is non-executable and has been superseded as the live assembly surface by the freeze candidate, not superseded as historical authority.
-- [`L0-E_FREEZE_CANDIDATE_2026-08-20.md`](L0-E_FREEZE_CANDIDATE_2026-08-20.md): FREEZE CANDIDATE — ASSEMBLED FOR NATE REVIEW / NON-EXECUTABLE. Exact Laboratory prompt and separate Evaluation handoff are present; the packet is not frozen, released, authorized to run, or started.
+- [`L0-E_DESIGN_SCHEMA_DRAFT.md`](L0-E_DESIGN_SCHEMA_DRAFT.md): D1–D5 resolved; retained as design rationale. It is non-executable and remains unrun.
+- [`L0-E_FREEZE_CANDIDATE_2026-08-20.md`](L0-E_FREEZE_CANDIDATE_2026-08-20.md): assembled, non-executable freeze candidate; not frozen, released, authorized to run, or started. It is preserved but is not the current automatic resumption point.
 - `F0-S`: complete; female baseline control distribution.
 - `F0-V`: complete; partial support for within-master view arbitration.
 - `F0-P`: planned, unfrozen, and deferred on the paused female branch. Do not write or run its final A/B prompts while the branch is paused.
