@@ -1,6 +1,6 @@
 # The Legacy — Durable Visual Grammar
 
-**Status:** Nate-approved policy direction; activation requires merge into `main`  
+**Status:** ACTIVE upon merge into `main`  
 **Version:** 0.1  
 **Decision date:** 2026-08-21
 
