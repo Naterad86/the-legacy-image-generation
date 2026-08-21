@@ -31,8 +31,8 @@ Generated descendants are evidence or production outputs. They never become iden
 
 ## Current program status
 
-The five canonical visual masters remain verified in Drive. `G0-C1` achieved an independently evaluated `EXCELLENT` controlled-instance result in pixel art. `G1-A` then produced one raw photographic-preservation output and hard-stopped for independent Evaluation; no G1 correction has run. `G1-B` and `G1-C` are to remain unrun during the transition.
+The five canonical visual masters remain verified in Drive. `G0-C1` achieved an independently evaluated `EXCELLENT` controlled-instance result in pixel art. `G1-A` then tested photographic-preservation transfer and was independently classified `FINAL FAIL` for multiple defects: source/framing drift, failure of the frozen slab-joint material mechanism, and additional topology/craft degradation. Nate accepted the result, prohibited release and correction, and retired `G1-B` and `G1-C` unrun.
 
-Nate has approved a new production-aesthetic direction: production-facing Legacy environments are deliberately rendered by default, while literal photographic preservation requires explicit validation authorization. Durable visual grammar is translated through modality-specific profiles so pixel art, CGI, illustration, and painterly work keep their native construction logic. The pending `R0` design reuses the untouched Oslo scene as composition authority but tests a high-end CGI Legacy successor; the G1-A descendant is excluded from generation authority.
+Production-facing Legacy environments are now deliberately rendered by default; literal photographic preservation requires explicit validation authorization. Durable visual grammar is translated through modality-specific profiles so pixel art, CGI, illustration, painterly work, and authorized photographic preservation retain their native construction logic.
 
-This transition is staged on a branch until the independent G1-A report and Nate's separate judgment are recorded. It is not yet authorization to generate R0.
+`R0` is the next draft decision surface. It reuses the untouched Oslo source only as scene and composition authority, excludes every G1 descendant, and proposes a high-end CGI Legacy successor. R0 is not frozen and no R0 image generation is authorized.
