@@ -13,6 +13,16 @@ The constitutional rule remains: **A source controls only its assigned component
 3. Any other canonical master applies only when explicitly invoked and only within its assigned jurisdiction.
 4. Generated descendants remain evidence or production outputs. They do not become motif, identity, scene, or style authority unless Nate explicitly promotes them.
 
+
+## Rendering-modality layer
+
+- Production-facing successors use a deliberately rendered modality by default.
+- A photographic input may control held scene properties without forcing a photographic-looking output.
+- Literal photographic preservation requires an explicitly named `PHOTOGRAPHIC_PRESERVATION` validation profile.
+- Every major component must name a profile from `governance/RENDERING_MODALITY_PROFILES.md`.
+- Apply `governance/LEGACY_VISUAL_GRAMMAR.md` through the selected modality's native construction rules; do not impose CGI, cel-shading, painterly, or pixel-specific techniques universally.
+- Input file type never selects the output modality.
+
 ## Two permitted forms
 
 ### Literal logo or stamp
@@ -43,7 +53,7 @@ Unless a frozen packet says otherwise, Legacyify preserves:
 - major buildings, terrain, roads, vehicles, people, and foreground objects;
 - the recognizability of the original environment.
 
-Controlled redesign may affect materials, atmosphere, lighting, and secondary details. An experiment may impose a tighter lock.
+Controlled redesign may affect materials, atmosphere, lighting, rendering modality, and secondary details only when its redesign envelope says so. An experiment may impose a tighter lock.
 
 ## Restraint and containment
 
@@ -61,7 +71,8 @@ Before a Legacyify generation, identify:
 2. the exact `LEGACY_LOGO_MASTER` bytes;
 3. the permitted embodiment form;
 4. the authorized surface and motif count;
-5. the held scene properties and permitted redesign envelope;
-6. the explicit exclusions and hard-stop rule.
+5. the selected rendering profile for every major component;
+6. the held scene properties and permitted redesign envelope;
+7. the explicit exclusions, integration rules, evaluation gates, and hard-stop rule.
 
 If any required source or decision is unresolved, stop rather than substitute.
