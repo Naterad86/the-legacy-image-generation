@@ -1,6 +1,6 @@
 # The Legacy — Rendering Modality Profiles
 
-**Status:** ACTIVE upon merge into `main`  
+**Status:** ACTIVE  
 **Version:** 0.1  
 **Decision date:** 2026-08-21
 
