@@ -12,10 +12,10 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-21 rendered-governance transition checkpoint  
-**Current phase:** Logo-led Legacyify — transition from photographic preservation to rendered-by-default production governance  
-**Current execution status:** `G0` complete; `G1-A` Round 1 generated once and preserved; independent G1-A Evaluation and Nate judgment pending; no correction run; `G1-B` and `G1-C` remain unrun  
-**Current program conclusion:** One controlled pixel-art instance reached excellence; G1-A supplies pending photographic mechanism evidence only; rendered production governance is approved in direction but not yet active on `main`
+**Checkpoint:** 2026-08-21 rendered-governance adoption checkpoint  
+**Current phase:** Logo-led Legacyify — rendered-governance baseline design  
+**Current execution status:** `G0` complete; `G1` closed; `G1-A` independently classified `FINAL FAIL` and accepted by Nate with no release or correction; `G1-B` and `G1-C` retired unrun; `R0` remains a draft and is not authorized to run  
+**Current program conclusion:** One controlled pixel-art instance reached excellence; G1-A exposed independent source-lock and material-mechanism failures under photographic preservation; rendered-by-default governance is active, but no rendered-governance test has run
 
 ## Logo-led Legacyify state
 
@@ -26,7 +26,7 @@ A source controls only its assigned component. Generated descendants remain evid
 | `L0-E` Perspective-Aware Environmental Embodiment | Freeze candidate preserved; not frozen, released, authorized, or run | Architectural test engineering remains available but is not the current automatic resumption point |
 | `G0` Round 1 — pixel-art landscape | Complete; `FINAL FAIL` under excellence-only rule | Scene-native floral concept validated; frame control, native pixel vocabulary, and topology precision required correction |
 | `G0-C1` — fresh controlled correction | Complete; independent `EXCELLENT`; Nate accepted as-is; zero post-generation correction rounds | First controlled instance to satisfy every gate within the trial's maximum-one-correction boundary |
-| `G1` holdout transfer | Transitioning to administrative closure | G1-A ran once under its original photographic contract; no correction will run; G1-B/C remain unrun and do not become failures |
+| `G1` holdout transfer | Complete; administratively closed | G1-A `FINAL FAIL` with no correction; G1-B/C retired unrun; photographic mechanism evidence only |
 | `R0` rendered governance baseline | Draft; not frozen or authorized | First controlled test of a deliberately rendered CGI successor using the untouched Oslo scene as composition authority |
 
 The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The frozen `G1` packet is `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`. Exact visual inputs and raw outputs remain in Drive `03 Laboratory Evidence`. Third-party base scenes and their descendants are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
@@ -35,9 +35,9 @@ The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. Th
 
 | Trial | Visual language | Frozen surface and mechanism | Status |
 |---|---|---|---|
-| `G1-A` | Photoreal exterior | One complete emblem formed by the Oslo Opera House foreground marble plaza's slab joints and stone-value organization | Round 1 complete; raw output preserved; independent Evaluation and Nate judgment pending; no correction authorized |
-| `G1-B` | Photoreal interior | One complete emblem formed by the Fullerton Bay lobby's central polished-stone floor panels, veining, and neighboring values | Unrun; pending administrative retirement |
-| `G1-C` | Painterly atmosphere | One complete emblem formed by one existing central-upper cloud mass through native density, light, shadow, and brushwork | Unrun; pending administrative retirement |
+| `G1-A` | Photoreal exterior | One complete emblem formed by the Oslo Opera House foreground marble plaza's slab joints and stone-value organization | Complete; independent `FINAL FAIL`; Nate accepted; no release; no correction |
+| `G1-B` | Photoreal interior | One complete emblem formed by the Fullerton Bay lobby's central polished-stone floor panels, veining, and neighboring values | Retired unrun; administrative status, not a failure |
+| `G1-C` | Painterly atmosphere | One complete emblem formed by one existing central-upper cloud mass through native density, light, shadow, and brushwork | Retired unrun; administrative status, not a failure |
 
 The original G1 packet fixed run order `G1-A` → `G1-B` → `G1-C`. The packet remains historical authority for judging G1-A and cannot be rewritten retroactively. Nate's superseding aesthetic decision stops further G1 generation: G1-B and G1-C will be retired unrun rather than reinterpreted.
 
@@ -85,16 +85,16 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 
 - The RC1 exploration will not receive another candidate, repair, crop, or continuation.
 - Candidate 3 is retained in Drive as a useful exploratory prototype, not a baseline or authority.
-- The cloud direction is now authorized only as the frozen `G1-C` atmospheric-material test; it remains unrun and does not retroactively change RC1 scope.
+- The frozen G1-C cloud direction was retired unrun during G1 closure. It does not retroactively change RC1 scope or become rendered-governance precedent.
 - `L0-E` remains a preserved architectural freeze candidate. It is not retroactively frozen or run, and `G0-C1` is not evidence from that packet.
 - Trial `G0` permitted an initial attempt and at most one fresh correction from the untouched base; it did not permit descendant editing.
 - `G0-C1` cleared every evaluation gate and Nate accepted it as-is. The G0 trial therefore succeeded on its controlled instance.
 - The successful instance does not establish arbitrary-image transfer, repeatability, production readiness, or autonomous rollout.
-- `G1` freezes three materially different previously unused holdouts, exact source bytes, one surface and mechanism per scene, exact Round 1 prompts, a one-correction limit, independent evaluation, and program-level stop rules.
+- `G1` historically froze three materially different holdouts. Only G1-A ran; its multiple independent defects required `FINAL FAIL`; G1-B/C were retired unrun.
 - The `G1` holdout inputs remain internal-validation evidence in Drive and receive no canonical, reusable-production, or public-release status.
 - Nate's direct discernment controls every consequential design, advancement, and rollout decision; evidence informs but does not replace that authority.
-- G1-A remains governed by its frozen photographic evaluation contract; new rendered-governance rules cannot retroactively change its classification.
-- No G1-A correction will run. G1-B and G1-C remain unrun and will be retired administratively after G1-A Evaluation and Nate judgment are recorded.
+- G1-A was governed by its frozen photographic evaluation contract and independently classified `FINAL FAIL`; the new rendered-governance rules did not retroactively change that result.
+- Nate accepted the G1-A `FINAL FAIL`; it is not released and receives no correction. G1-B and G1-C are retired unrun.
 - The approved new direction separates durable Legacy visual grammar from modality profiles. CGI, illustrated-character, pixel-art, painterly, and explicit photographic-preservation profiles keep their native construction rules.
 - The first rendered-governance candidate is R0: reuse the untouched Oslo base only for held scene properties, exclude every G1 descendant, and test a deliberately authored CGI successor.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
@@ -102,4 +102,4 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 
 ## Next immediate action
 
-Complete the already-started independent G1-A Evaluation in its distinct Work thread using the exact frozen packet and Drive objects. Record the report and Nate's separate release-as-is judgment without running a correction. Then finalize G1 administrative closure, merge the rendered-governance controls, freeze R0 separately, and await explicit authorization for R0 Round 1 only.
+Review `experiments/R0_RENDERED_GOVERNANCE_BASELINE_DRAFT_2026-08-21.md` against the active visual grammar and modality profiles. The next consequential decision is whether to freeze R0. R0 remains unrun, and neither freezing nor merging authorizes image generation.
