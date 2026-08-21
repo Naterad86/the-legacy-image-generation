@@ -1,15 +1,17 @@
 # `G1` Transition to Rendered Governance
 
-**Status:** Transition decision recorded; final G1-A evidence classification pending independent Evaluation  
-**Decision date:** 2026-08-21
+**Status:** COMPLETE — G1 CLOSED  
+**Decision date:** 2026-08-21  
+**Independent G1-A classification:** `FINAL FAIL`  
+**Nate judgment:** Accepted; do not release; no correction
 
 ## Purpose
 
-Close the photographic-transfer branch without retroactively changing its frozen rules, and preserve the clean boundary before testing the rendered-by-default Legacy governance.
+Close the photographic-transfer branch without retroactively changing its frozen rules, and preserve a clean authority boundary before separately testing rendered-by-default Legacy governance.
 
 ## Preserved G1-A evidence
 
-`G1-A` Round 1 was generated exactly once under the frozen `PHOTOGRAPHIC_PRESERVATION` contract.
+`G1-A` Round 1 was generated exactly once under the frozen photographic-preservation contract.
 
 - Frozen packet: `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`
 - Untouched base: `G1-A_HOLDOUT_OSLO_OPERA_HOUSE_BASE_SOURCE_INTERNAL_VALIDATION_2026-08-20.jpg`
@@ -18,35 +20,62 @@ Close the photographic-transfer branch without retroactively changing its frozen
 - Raw output: `G1-A_R1_LEGACYIFY_OSLO_OPERA_HOUSE_RAW_2026-08-21.png`
 - Output Drive ID: `1sk9VwX-aZtxfKcT6pjgoS6qagNbF0JDY`
 - Output SHA-256: `d5fb35a304d79d80e7931efa625967c4c62efdf5c9f42c6c1936c318b41e90da`
+- Independent evaluation record: `G1-A_INDEPENDENT_EVALUATION_FINAL_FAIL_2026-08-21.md`
+- Evaluation Drive ID: `1Q_IhtYeLyVJ_F2nnBMODSgLBpPBH3mfi`
 
-The raw output remains mechanism evidence only. It cannot become scene, style, motif, or production authority.
+The raw output remains failure-mechanism evidence only. It cannot become scene, style, motif, correction, or production authority.
 
-## Evaluation boundary
+## Evaluation result
 
-The independent G1-A evaluator must apply only the frozen G1-A photographic gates. The new rendered-by-default policy cannot be used to fail, excuse, reinterpret, or correct the old output.
+The evaluator resolved the frozen packet and exact base, logo, and candidate bytes by ID and independently verified every supplied SHA-256 and raster dimension.
 
-The evaluation is a tool-bearing, multi-source task and therefore belongs in a distinct **Work** thread with the role `Evaluation`. Workstream separation is preserved by the thread's bounded role; it is not implemented by forcing Evaluation into Chat.
+| Frozen gate | Result |
+|---|---|
+| Canonical topology | `FAIL` |
+| Exactly one embodiment | `PASS` |
+| Complete containment | `PASS` |
+| Perspective and material coherence | `FAIL` |
+| Source preservation | `FAIL` |
+| No unauthorized redesign | `FAIL` |
+| Release-level craftsmanship | `FAIL` |
 
-The receiving Evaluation thread must retrieve the exact frozen packet and exact Drive objects itself. Nate is not required to reattach or paste governed artifacts already accessible through the connected GitHub and Drive sources.
+Classification: `FINAL FAIL`.
 
-## Administrative stop
+Multiple independent defects triggered the frozen hard stop: perceptual frame and source drift; substitution of engraved or drawn contour work for genuine slab-joint and neighboring-value construction; and additional canonical-topology and craftsmanship defects. No single bounded correction was eligible.
 
-- No G1-A correction generation will be authorized under this transition.
-- `G1-B` and `G1-C` will remain unrun.
-- Their unrun status is an administrative retirement caused by a superseding production-aesthetic decision, not an experimental failure.
-- G1-A's independent classification and Nate's final judgment will be recorded before the branch is marked complete.
+The evaluation applied only the frozen G1-A photographic rules. The rendered-by-default policy did not fail, excuse, reinterpret, or correct the old output.
+
+## Nate judgment
+
+On 2026-08-21, Nate accepted the independent `FINAL FAIL` and directed:
+
+- do not release G1-A;
+- do not run a G1-A correction;
+- retire `G1-B` and `G1-C` unrun;
+- finalize and merge the rendered-governance records;
+- do not run R0.
+
+## Administrative closure
+
+- `G1-A`: complete; `FINAL FAIL`; no release; no correction.
+- `G1-B`: retired unrun because of a superseding production-aesthetic decision; not an experimental failure.
+- `G1-C`: retired unrun because of a superseding production-aesthetic decision; not an experimental failure.
+- The original G1 frozen packet remains the historical authority for what G1-A tested.
+- No G1 result supplies visual authority to a successor experiment.
 
 ## Generalized retained evidence
 
-The G1-A output may inform only the narrow question it actually tested: whether one complete Legacy emblem can be embodied through an existing photographic stone surface while preserving a frozen scene. It cannot establish the preferred modality for Legacy production.
+G1-A demonstrates two independent control weaknesses under photographic preservation:
 
-## Exact close condition
+1. a source-composition lock may still produce perceptual reconstruction and framing drift; and
+2. an environmental-material instruction may collapse into a graphic contour shortcut.
 
-G1 is closed when:
+Future mechanism work must return to untouched authorities and isolate those controls rather than repair or reuse the descendant.
 
-1. the independent G1-A report is retrieved and recorded without alteration;
-2. Nate's release-as-is judgment is recorded separately;
-3. `G1-B` and `G1-C` are marked retired unrun;
-4. the dashboard is updated;
-5. the rendered-governance controls are merged and the first rendered test is frozen separately.
+## Rendered-governance boundary
 
+G1 closure does not freeze or authorize R0. The new governance files establish the production-facing default and modality adapters. `experiments/R0_RENDERED_GOVERNANCE_BASELINE_DRAFT_2026-08-21.md` remains a separate draft requiring explicit freeze and execution authorization.
+
+## Exact resumption point
+
+Review the R0 draft against the now-active rendered governance. The next consequential decision is whether to freeze R0; no image generation is authorized.
