@@ -69,7 +69,7 @@ Anything below `EXCELLENT` is failure. A failure remains useful only when it sta
 4. Permit one fresh correction only if exactly one bounded defect can be corrected by one added clause while preserving the same untouched sources, modality, scene holds, redesign releases, surface, and motif count.
 5. Multiple defects, a profile redesign, or any result below excellence after the correction is `FINAL FAIL`.
 
-## Freeze blocker
+## Exact resumption point
 
-Do not freeze or run R0 until the G1-A independent report and Nate judgment are recorded and the new governance files are merged into `main`.
+G1-A Evaluation and Nate's judgment are recorded, and G1 is closed. After these governance controls merge into `main`, the remaining decision is whether Nate approves this draft as the R0 freeze candidate. Do not freeze or run R0 without separate explicit authorization. Freezing would not itself authorize generation.
 
