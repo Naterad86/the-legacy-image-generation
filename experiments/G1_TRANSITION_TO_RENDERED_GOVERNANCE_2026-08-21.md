@@ -22,6 +22,7 @@ Close the photographic-transfer branch without retroactively changing its frozen
 - Output SHA-256: `d5fb35a304d79d80e7931efa625967c4c62efdf5c9f42c6c1936c318b41e90da`
 - Independent evaluation record: `G1-A_INDEPENDENT_EVALUATION_FINAL_FAIL_2026-08-21.md`
 - Evaluation Drive ID: `1Q_IhtYeLyVJ_F2nnBMODSgLBpPBH3mfi`
+- Evaluation record SHA-256: `1f9b6eb80ce45da5ccf0554c3a3c24c99d630bd11d74dafb73906446da61813d`
 
 The raw output remains failure-mechanism evidence only. It cannot become scene, style, motif, correction, or production authority.
 
