@@ -12,10 +12,10 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-20 `G0-C1` excellence validation checkpoint  
+**Checkpoint:** 2026-08-20 `G1` holdout-transfer freeze checkpoint  
 **Current phase:** Logo-led Legacyify — bounded general-input transfer validation  
-**Current execution status:** `G0` complete; `G0-C1` independently `EXCELLENT` and Nate-accepted as-is; `G1` not designed, frozen, or authorized  
-**Current program conclusion:** One controlled pixel-art instance reached excellence within the allowed correction cycle; arbitrary-image repeatability and rollout readiness remain unestablished
+**Current execution status:** `G0` complete; `G1` frozen with exact sources and prompts; `G1` not authorized to run and no `G1` image has been generated  
+**Current program conclusion:** One controlled pixel-art instance reached excellence within the allowed correction cycle; transfer across photoreal stone and painterly atmosphere remains untested
 
 ## Logo-led Legacyify state
 
@@ -26,9 +26,19 @@ A source controls only its assigned component. Generated descendants remain evid
 | `L0-E` Perspective-Aware Environmental Embodiment | Freeze candidate preserved; not frozen, released, authorized, or run | Architectural test engineering remains available but is not the current automatic resumption point |
 | `G0` Round 1 — pixel-art landscape | Complete; `FINAL FAIL` under excellence-only rule | Scene-native floral concept validated; frame control, native pixel vocabulary, and topology precision required correction |
 | `G0-C1` — fresh controlled correction | Complete; independent `EXCELLENT`; Nate accepted as-is; zero post-generation correction rounds | First controlled instance to satisfy every gate within the trial's maximum-one-correction boundary |
-| `G1` holdout transfer | Planned direction only; not designed, frozen, or authorized | Must test whether the control schema transfers across materially different fresh scenes |
+| `G1` holdout transfer | FROZEN; three exact sources and prompts locked; NOT AUTHORIZED TO RUN | Tests exterior marble, interior stone, and painterly cloud transfer with a maximum of one fresh correction per scene |
 
-The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The exact visual input and raw output remain in Drive `03 Laboratory Evidence`. The third-party base scene and its descendant are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
+The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The frozen `G1` packet is `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`. Exact visual inputs and raw outputs remain in Drive `03 Laboratory Evidence`. Third-party base scenes and their descendants are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
+
+## `G1` frozen holdout set
+
+| Trial | Visual language | Frozen surface and mechanism | Status |
+|---|---|---|---|
+| `G1-A` | Photoreal exterior | One complete emblem formed by the Oslo Opera House foreground marble plaza's slab joints and stone-value organization | Frozen; unrun |
+| `G1-B` | Photoreal interior | One complete emblem formed by the Fullerton Bay lobby's central polished-stone floor panels, veining, and neighboring values | Frozen; unrun |
+| `G1-C` | Painterly atmosphere | One complete emblem formed by one existing central-upper cloud mass through native density, light, shadow, and brushwork | Frozen; unrun |
+
+Run order is fixed: `G1-A` → `G1-B` → `G1-C`. All three modules were frozen before `G1-A`; an earlier result cannot silently rewrite a later prompt or mechanism. Maximum budget is six generations, with no more than one fresh correction from the untouched source per scene.
 
 ## Durable Legacyify priorities
 
@@ -72,16 +82,17 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 
 - The RC1 exploration will not receive another candidate, repair, crop, or continuation.
 - Candidate 3 is retained in Drive as a useful exploratory prototype, not a baseline or authority.
-- The cloud direction is out-of-scope evidence and is deferred to a separate future material-surface test.
+- The cloud direction is now authorized only as the frozen `G1-C` atmospheric-material test; it remains unrun and does not retroactively change RC1 scope.
 - `L0-E` remains a preserved architectural freeze candidate. It is not retroactively frozen or run, and `G0-C1` is not evidence from that packet.
-- Trial `G0` permits an initial attempt and at most one fresh correction from the untouched base; it does not permit descendant editing.
+- Trial `G0` permitted an initial attempt and at most one fresh correction from the untouched base; it did not permit descendant editing.
 - `G0-C1` cleared every evaluation gate and Nate accepted it as-is. The G0 trial therefore succeeded on its controlled instance.
 - The successful instance does not establish arbitrary-image transfer, repeatability, production readiness, or autonomous rollout.
-- The `G0` third-party source and `G0-C1` descendant remain internal-validation evidence in Drive and receive no canonical, reusable-production, or public-release status.
+- `G1` freezes three materially different previously unused holdouts, exact source bytes, one surface and mechanism per scene, exact Round 1 prompts, a one-correction limit, independent evaluation, and program-level stop rules.
+- The `G1` holdout inputs remain internal-validation evidence in Drive and receive no canonical, reusable-production, or public-release status.
 - Nate's direct discernment controls every consequential design, advancement, and rollout decision; evidence informs but does not replace that authority.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Assemble a bounded `G1` holdout-transfer design for Nate's review using materially different, previously unused unbranded scenes. Do not generate, freeze a packet, or claim rollout readiness until Nate approves the design and separately authorizes execution.
+Await separate Nate execution authorization. If authorized, run `G1-A` Round 1 only in Laboratory from the exact untouched Oslo source and exact `LEGACY_LOGO_MASTER`, using the frozen prompt verbatim. Preserve the single raw output in Drive, then hard-stop for independent Evaluation and Nate's release judgment before any further generation.
