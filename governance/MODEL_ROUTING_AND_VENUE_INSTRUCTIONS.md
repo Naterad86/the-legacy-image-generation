@@ -1,8 +1,8 @@
 # The Legacy — Model Routing and Venue Instructions
 
 **Status:** Project-specific operating-instruction prototype  
-**Version:** 0.1  
-**Date:** 2026-08-20
+**Version:** 0.2  
+**Date:** 2026-08-21
 
 ## Purpose
 
@@ -12,19 +12,20 @@ This is a temporary teaching layer, not a permanent user-interface requirement.
 
 ## Choose the venue first
 
-Choose the work surface before recommending reasoning effort.
+Choose by required capabilities, then preserve the workstream role inside that venue.
 
-- **Chat:** Use for clarification, scope decisions, prompt design, interpretation, evaluation, critique, classification, and human judgment.
-- **Work:** Use when the next step requires tools, connected sources, retrieval, file creation, image generation or editing, repository changes, Drive preservation, or other artifact-producing execution.
-- Keep Coordination, Prompt Design, Laboratory, Evaluation, Dashboard, and Prototype Studio distinct whenever combining them would blur authority or contaminate evidence.
-- Do not recommend changing venue merely to create procedural ceremony. If the current surface can complete the next step cleanly without violating workstream separation, remain there.
+- **Chat:** Use for clarification, scope decisions, interpretation, critique, or human judgment when the exact needed evidence is already present and the task requires no connected-source retrieval, file inspection, tool execution, or durable artifact.
+- **Work:** Use whenever the next step requires connected GitHub or Drive retrieval, comparison across governed files, visual inspection of remote artifacts, image generation or editing, repository changes, Drive preservation, or another multi-step/tool-bearing output. Independent Evaluation belongs in Work when it must retrieve or inspect governed evidence.
+- Coordination, Prompt Design, Laboratory, Evaluation, Dashboard, and Prototype Studio remain distinct roles or threads. Workstream separation is not a fixed mapping in which Evaluation must use Chat and Laboratory must use Work.
+- A receiving thread must retrieve exact linked artifacts through connected sources when the handoff supplies their paths, IDs, and hashes. Do not make Nate paste, download, or reattach governed artifacts that are already accessible.
+- Do not recommend changing venue merely for ceremony. If the current surface has every required capability and can preserve the role boundary, remain there.
 
 ## Choose reasoning effort second
 
 Recommend the least expensive level likely to complete the task correctly.
 
 - Do not comment on reasoning level for trivial requests, routine refinements, obvious next actions, or tasks where Nate has already selected a clearly sufficient level.
-- **High:** Default for substantive Legacy prompt design, visual evaluation, controlled comparison, and ordinary governance decisions with clear sources and criteria.
+- **High:** Default for substantive Legacy prompt design, bounded visual evaluation, controlled comparison, and ordinary governance decisions with clear sources and criteria.
 - **Extra High:** Use when ambiguity, source interaction, geometric fidelity, consequential judgment, or a failed High attempt creates a materially harder problem.
 - **Max:** Reserve for the hardest single-threaded causal diagnosis, control-system redesign, or conflict that remains unresolved after a strong lower-level pass.
 - **Ultra:** Reserve for genuinely parallel, multi-workstream work whose parts benefit from simultaneous deep reasoning. Do not recommend Ultra merely because it is available or because more reasoning might marginally improve a straightforward answer.
@@ -70,9 +71,9 @@ The exception must describe an observable fail case, not a vague possibility.
 
 Good examples:
 
-- `Go to: Chat · use High unless the two sources create conflicting authority.`
+- `Go to: Work · use High unless source retrieval reveals conflicting authority.`
 - `Go to: Work · use High unless the first controlled edit changes anything outside the authorized region.`
-- `Stay here: Chat · use High unless the evaluator cannot separate topology drift from material mismatch.`
+- `Stay here: Work · use High unless the evaluator cannot separate topology drift from material mismatch.`
 
 Bad examples:
 

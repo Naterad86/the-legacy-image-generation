@@ -35,14 +35,16 @@ Read these GitHub files in order:
 2. `AGENTS.md`
 3. `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`
 4. `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`
-5. `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`
-6. `governance/STORAGE_AUTHORITY.md`
-7. `manifests/SOURCE_MANIFEST.md`
-8. `manifests/SOURCE_INTAKE_REGISTER.md`
-9. `dashboard/CURRENT_PROGRAM_STATE.md`
-10. `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md`
-11. `experiments/README.md`
-12. `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`
+5. `governance/LEGACY_VISUAL_GRAMMAR.md`
+6. `governance/RENDERING_MODALITY_PROFILES.md`
+7. `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`
+8. `governance/STORAGE_AUTHORITY.md`
+9. `manifests/SOURCE_MANIFEST.md`
+10. `manifests/SOURCE_INTAKE_REGISTER.md`
+11. `dashboard/CURRENT_PROGRAM_STATE.md`
+12. `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md`
+13. `experiments/README.md`
+14. the experiment or transition record named by `dashboard/CURRENT_PROGRAM_STATE.md` as the exact resumption authority
 
 Then inspect the Drive folder `01 Canonical Masters` and resolve these exact records:
 
@@ -98,26 +100,25 @@ Do not collapse these functions into one conversational stream when doing so wou
 
 ## Current program state
 
-- **Phase:** Logo-led Legacyify — bounded general-input transfer validation.
-- **Primary priority:** the canonical logo's actual topology embodied through a restrained, scene-native surface; color is secondary.
-- Legacyify beach RC1 exploration: complete and hard-stopped after Candidate 3; qualitative evidence only.
-- `L0-E` architectural freeze candidate: preserved, unfrozen, unreleased, unauthorized, and unrun; not the current automatic resumption point.
-- Trial `G0`: complete on one third-party, internal-validation-only pixel-art landscape.
-- `G0` Round 1: useful failure under the excellence-only rule; concept viable, but frame control, native pixel vocabulary, and topology precision were inadequate.
-- `G0-C1`: fresh correction from the untouched base; every independent evaluation gate passed; classification `EXCELLENT`.
-- Nate accepted `G0-C1` as release-as-is for the controlled trial. No post-generation correction round occurred after `G0-C1`.
-- Current conclusion: one controlled instance reached excellence within the allowed correction cycle. Arbitrary-image repeatability, production readiness, public release rights, and rollout authority remain unestablished.
-- The `G0` base and descendant are internal-validation evidence in Drive; neither is canonical or a reusable production source.
-- `G1` bounded holdout transfer is the exact resumption point. It is not yet designed, frozen, or authorized.
+- **Phase:** Logo-led Legacyify — rendered-governance baseline design.
+- **Primary priority:** the canonical logo's actual topology embodied deliberately and with restraint; color remains secondary.
+- `G0-C1` remains the successful controlled pixel-art instance.
+- `G1` is closed. G1-A was independently classified `FINAL FAIL` for multiple source-lock, material-mechanism, topology, and craftsmanship defects. Nate accepted the result; it is not released and receives no correction.
+- `G1-B` and `G1-C` are retired unrun. Their administrative status is not an experimental failure.
+- Production-facing Legacy environments are deliberately rendered by default. Literal photographic preservation requires explicit validation authorization.
+- Durable Legacy visual grammar must be translated through a named modality profile; CGI, illustrated character, pixel-art, painterly, and photographic-preservation techniques are not interchangeable.
+- `R0` is the exact draft decision surface. It is not frozen or authorized to run.
 - Female identity viability remains established; its mechanism branch is paused without invalidation.
-- `F0-S` and `F0-V` remain complete. `F0-P` remains planned, unfrozen, and deferred.
 - The male branch remains paused after Stage 0 advancement.
-- Multi-source validation has not started.
 - Source reconstruction is complete; no source-ingestion blocker remains.
 
 ## Project-only routing behavior
 
 Follow `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`.
+
+Choose venue by capabilities. Use Work for connected GitHub or Drive retrieval, remote visual inspection, generation, repository or Drive writes, and other tool-bearing multi-step work—including independent Evaluation that must retrieve governed artifacts. Use Chat only when the exact evidence is already present and no tools are required. Workstream role separation is not a fixed Chat/Work mapping.
+
+A receiving thread must retrieve exact governed artifacts itself when paths, Drive IDs, and hashes are provided. Do not ask Nate to reattach or paste accessible project sources.
 
 Do not append a Chat/Work or reasoning footer unless the response first supplies an explicit prompt, command, or use instruction and explains where and how Nate should use it. Omit routing commentary when no meaningful venue decision exists.
 
@@ -130,13 +131,13 @@ First return a compact **Initialization Report** containing only:
 1. GitHub control-file accessibility.
 2. A five-row source-readiness table showing Drive existence, visual accessibility, and new-project attachment readiness.
 3. Confirmation of the constitutional rule and the excluded female identifier.
-4. Confirmation of the current phase, the `G0-C1` conclusion, and the exact `G1` resumption point.
+4. Confirmation of the current phase, the `G0-C1` conclusion, and the exact current resumption point copied from `dashboard/CURRENT_PROGRAM_STATE.md`.
 5. Any genuine blocker that requires Nate's action.
 
 Do not silently repair missing information from memory. Do not restart completed experiments. Do not propose a generation prompt yet.
 
 If and only if the control files and all five masters are ready, end the initialization response by asking exactly one question:
 
-> **Shall I assemble the bounded `G1` holdout-transfer design for your review?**
+> **Shall I resume from the exact action recorded in `dashboard/CURRENT_PROGRAM_STATE.md`?**
 
-Wait for Nate's answer. Proceed one decision question at a time. Do not freeze or run `G1` without separate explicit authorization.
+Wait for Nate's answer. Proceed one decision question at a time. Do not freeze or run any experiment without separate explicit authorization.
