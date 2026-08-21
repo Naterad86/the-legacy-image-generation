@@ -30,6 +30,9 @@ Apply this precedence:
 - Store no canonical image master or raw generation in GitHub. GitHub may store filenames, Drive IDs, hashes, status, and text controls only.
 - In Legacyify work, distinguish a literal logo or stamp from a scene-native motif embodiment. A literal application must precisely embody the authorized canonical form; a scene-native embodiment may deform modestly only for perspective or material naturalness while preserving recognizable source topology. Shape is primary and color is secondary.
 - Keep every motif complete and deliberately clear of image boundaries. Truncation is a critical defect, and authorization of one motif does not authorize multiplication.
+- When a trial permits one correction, restart that correction from the untouched base scene and canonical master—never from the failed descendant. Anything below the frozen excellence threshold at the hard stop remains a useful failure.
+- Never generalize one successful controlled instance into arbitrary-image repeatability, production readiness, or rollout authority.
+- Follow `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`. A Chat/Work or reasoning recommendation may appear only after an actionable handoff and only when it improves Nate's next decision.
 
 ## Female master exclusion
 
@@ -39,6 +42,7 @@ Apply this precedence:
 
 - `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`
 - `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`
+- `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`
 - `governance/STORAGE_AUTHORITY.md`
 - `manifests/SOURCE_MANIFEST.md`
 - `manifests/SOURCE_INTAKE_REGISTER.md`

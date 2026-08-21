@@ -12,10 +12,10 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-20 `L0-E` freeze-candidate assembly checkpoint  
-**Current phase:** Logo-led Legacyify Environment Transformation — mechanism definition  
-**Current execution status:** `L0-E` D1–D5 approved; freeze candidate assembled for Nate review; not frozen, released, authorized, or started  
-**Current program conclusion:** Perspective-aware emblem embodiment shows strong potential; controlled repeatability is not established
+**Checkpoint:** 2026-08-20 `G0-C1` excellence validation checkpoint  
+**Current phase:** Logo-led Legacyify — bounded general-input transfer validation  
+**Current execution status:** `G0` complete; `G0-C1` independently `EXCELLENT` and Nate-accepted as-is; `G1` not designed, frozen, or authorized  
+**Current program conclusion:** One controlled pixel-art instance reached excellence within the allowed correction cycle; arbitrary-image repeatability and rollout readiness remain unestablished
 
 ## Logo-led Legacyify state
 
@@ -23,9 +23,12 @@ A source controls only its assigned component. Generated descendants remain evid
 |---|---|---|
 | Legacyify beach RC1 exploration | Complete; HARD STOP after Candidate 3 | Potential ceiling demonstrated; controlled repeatability not established |
 | Candidate 3 | Selected exploratory prototype; non-evidentiary; not release-quality | Complete architectural embodiment and strong scene preservation; approximate surfboard stamps and an out-of-bounds cloud prevent clean validation |
-| `L0-E` Perspective-Aware Environmental Embodiment | FREEZE CANDIDATE ASSEMBLY; D1–D5 approved; Nate decision pending; not frozen or run | Exact Laboratory prompt and separate Evaluation handoff assembled in a non-executable candidate packet |
+| `L0-E` Perspective-Aware Environmental Embodiment | Freeze candidate preserved; not frozen, released, authorized, or run | Architectural test engineering remains available but is not the current automatic resumption point |
+| `G0` Round 1 — pixel-art landscape | Complete; `FINAL FAIL` under excellence-only rule | Scene-native floral concept validated; frame control, native pixel vocabulary, and topology precision required correction |
+| `G0-C1` — fresh controlled correction | Complete; independent `EXCELLENT`; Nate accepted as-is; zero post-generation correction rounds | First controlled instance to satisfy every gate within the trial's maximum-one-correction boundary |
+| `G1` holdout transfer | Planned direction only; not designed, frozen, or authorized | Must test whether the control schema transfers across materially different fresh scenes |
 
-The full RC1 evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`. Design rationale is in `experiments/L0-E_DESIGN_SCHEMA_DRAFT.md`. The live non-executable review surface is `experiments/L0-E_FREEZE_CANDIDATE_2026-08-20.md`.
+The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The exact visual input and raw output remain in Drive `03 Laboratory Evidence`. The third-party base scene and its descendant are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
 
 ## Durable Legacyify priorities
 
@@ -35,6 +38,9 @@ The full RC1 evaluation is in `experiments/LEGACYIFY_RC1_EXPLORATORY_EVALUATION_
 - Full containment is non-negotiable; truncation is an automatic critical defect.
 - Restraint is mandatory; motif multiplication is never automatic.
 - By default, a supplied base scene locks subject, composition, camera, framing, and major objects.
+- A held aspect ratio, no-crop boundary, and native rendering vocabulary must be stated explicitly when they are evaluation gates.
+- When one correction is allowed, it restarts from the untouched source; the failed descendant never becomes the editing or identity authority.
+- Near-ratio output-dimension quantization is evaluated separately from perceptual crop, expansion, outpainting, or framing drift.
 - Generated descendants never become authority without Nate's explicit promotion.
 
 ## Female mechanism evidence
@@ -67,16 +73,15 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - The RC1 exploration will not receive another candidate, repair, crop, or continuation.
 - Candidate 3 is retained in Drive as a useful exploratory prototype, not a baseline or authority.
 - The cloud direction is out-of-scope evidence and is deferred to a separate future material-surface test.
-- `L0-E` is the accepted design direction because it isolates the strongest valued mechanism while preventing the observed truncation, motif multiplication, palette overreach, and cloud confound.
+- `L0-E` remains a preserved architectural freeze candidate. It is not retroactively frozen or run, and `G0-C1` is not evidence from that packet.
+- Trial `G0` permits an initial attempt and at most one fresh correction from the untouched base; it does not permit descendant editing.
+- `G0-C1` cleared every evaluation gate and Nate accepted it as-is. The G0 trial therefore succeeded on its controlled instance.
+- The successful instance does not establish arbitrary-image transfer, repeatability, production readiness, or autonomous rollout.
+- The `G0` third-party source and `G0-C1` descendant remain internal-validation evidence in Drive and receive no canonical, reusable-production, or public-release status.
 - Nate's direct discernment controls every consequential design, advancement, and rollout decision; evidence informs but does not replace that authority.
-- The rollout objective is the shortest responsible path to a stable human-gated architectural capability, not premature universal coverage.
-- `L0-E` D1 is resolved: the broad front-facing façade of the tallest upper-right high-rise is the sole target surface.
-- `L0-E` D2 is resolved: require 5% canvas clearance, 10% façade inset, and approximately 70% usable-façade-height scale with shrink-only margin protection.
-- `L0-E` D3 is resolved: use a moderate façade-native stone/concrete bas-relief modeled by natural light and shadow, preserving readable windows and balconies and forbidding signboard, backing-field, gold-trace, glow, or decal treatments.
-- `L0-E` D4 is resolved: use the canonical mirrored-lion artwork only, without typography, upright and bilaterally intact before whole-unit perspective projection; no independent half transformations or cropping.
-- `L0-E` D5 is resolved: all three outputs must clear every critical gate and at least two must be Nate-usable to qualify for his holdout decision; two critical-clear outputs are partial support with no default advancement; one or fewer or a repeated critical defect stops the mechanism; advancement is never automatic.
+- The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Review the exact `L0-E` freeze candidate. Nate may approve, revise, or reject it. Only an explicit D6a freeze decision may promote it to a frozen, Drive-released v1 packet; D6b Laboratory run authorization remains a separate explicit gate.
+Assemble a bounded `G1` holdout-transfer design for Nate's review using materially different, previously unused unbranded scenes. Do not generate, freeze a packet, or claim rollout readiness until Nate approves the design and separately authorizes execution.
