@@ -100,14 +100,14 @@ Do not collapse these functions into one conversational stream when doing so wou
 
 ## Current program state
 
-- **Phase:** Logo-led Legacyify — transition to rendered-by-default production governance.
+- **Phase:** Logo-led Legacyify — rendered-governance baseline design.
 - **Primary priority:** the canonical logo's actual topology embodied deliberately and with restraint; color remains secondary.
 - `G0-C1` remains the successful controlled pixel-art instance.
-- `G1-A` Round 1 exists as photographic-preservation mechanism evidence and must be judged only under its frozen G1-A rules.
-- No G1-A correction will run. `G1-B` and `G1-C` remain unrun and are designated for administrative retirement after the pending G1-A report and Nate judgment are recorded.
+- `G1` is closed. G1-A was independently classified `FINAL FAIL` for multiple source-lock, material-mechanism, topology, and craftsmanship defects. Nate accepted the result; it is not released and receives no correction.
+- `G1-B` and `G1-C` are retired unrun. Their administrative status is not an experimental failure.
 - Production-facing Legacy environments are deliberately rendered by default. Literal photographic preservation requires explicit validation authorization.
 - Durable Legacy visual grammar must be translated through a named modality profile; CGI, illustrated character, pixel-art, painterly, and photographic-preservation techniques are not interchangeable.
-- `R0` is a draft rendered-governance baseline, not frozen or authorized.
+- `R0` is the exact draft decision surface. It is not frozen or authorized to run.
 - Female identity viability remains established; its mechanism branch is paused without invalidation.
 - The male branch remains paused after Stage 0 advancement.
 - Source reconstruction is complete; no source-ingestion blocker remains.
