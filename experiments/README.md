@@ -4,6 +4,7 @@ This directory holds versioned preregistrations, experiment definitions, and eva
 
 ## Current status
 
+- [`G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`](G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md): frozen after Nate approved the exact three-source, six-generation-maximum design; three exact holdout inputs are preserved in Drive `03 Laboratory Evidence`; not authorized to run. Exact resumption is separate authorization for `G1-A` Round 1 only.
 - [`G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`](G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md): complete; one third-party, internal-validation-only pixel-art scene; initial output was a useful failure; the single permitted fresh correction achieved independent `EXCELLENT` and Nate accepted it as-is with zero post-generation correction rounds; controlled-instance mechanism proof only.
 - [`LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md`](LEGACYIFY_RC1_EXPLORATORY_EVALUATION_2026-08-19.md): complete; non-preregistered Prototype Studio exploration; HARD STOP after Candidate 3; qualitative evidence only.
 - [`L0-E_DESIGN_SCHEMA_DRAFT.md`](L0-E_DESIGN_SCHEMA_DRAFT.md): D1–D5 resolved; retained as design rationale. It is non-executable and remains unrun.
