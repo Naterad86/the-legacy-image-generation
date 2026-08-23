@@ -33,6 +33,16 @@ The new, functioning `1381.png` upload was independently and explicitly designat
 
 Both candidates are original fictional exterior CGI calibration images and are not derived from the Oslo source or an R0 descendant. Candidate 01 remains unverified and has no authority. Candidate 02 may be used only in R0-A4 and only for the rendering-language jurisdiction fixed by the frozen packet. This promotion does not alter `SOURCE_MANIFEST.md` because Candidate 02 is not a canonical Legacy master.
 
+## R0-A4 tool-ingestion surrogate — 2026-08-22
+
+The exact Oslo source at Drive ID `1hcaY5KRnVWCbmBHb1O_jwj-oNHp9a8ZR` and SHA-256 `f2445f76358774a363ad9a4783b4b3c196f561e8f2a040b94dbcf5b19c174b75` is internally an MPO with two frames despite its `.jpg` filename and Drive `image/jpeg` metadata. Its first R0-A4 submission was rejected by the image endpoint before generation as unsupported `mpo`. The incident is `TOOL_INGESTION_FAILURE — NO EXPERIMENTAL OUTPUT`; it is not image evidence and did not consume the restored output budget.
+
+| Derivative | Drive ID | SHA-256 | Raster | Current decision |
+|---|---|---|---:|---|
+| `R0-A4_OSLO_PRIMARY_FRAME_STANDARD_JPEG_TOOL_COMPATIBILITY_DERIVATIVE_2026-08-22.jpg` | `1fQ6S66VVsHMIVyZH2LoOvYnbeqh8s7p9` | `0588f3111c38e256520e16bff7059fbd956fe0a47c4f77ddd2821dd961493fd3` | `5520 × 3680` JPEG | Authorized only as `R0_A4_BASE_SCENE_TOOL_INGESTION_SURROGATE`; single-frame container; pixel-identical to the original primary frame; not canonical or independent scene authority |
+
+The derivative was extracted without JPEG recompression. The MPF index and secondary-frame trailer were removed while the primary compressed scan was copied unchanged. Original-primary and derivative decoded-RGB SHA-256 both equal `ffdf8f70240804d3e8a9c2b1b24f3d9760d2a66b4ddcdb47cc0e015364d33985`; pixel comparison found zero differences. The original MPO remains upstream scene authority.
+
 ## Future intake procedure
 
 1. Place a candidate in `99 Unverified Intake`.
