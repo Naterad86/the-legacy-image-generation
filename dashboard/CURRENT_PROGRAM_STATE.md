@@ -12,9 +12,9 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-22 R0-A3 evaluation and R0-A4 style-authority intake checkpoint  
+**Checkpoint:** 2026-08-22 R0-A4 Candidate 02 narrow promotion, freeze, and isolated Laboratory handoff  
 **Current phase:** Logo-led Legacyify — rendered-environment mechanism stabilization  
-**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 Runs 2–4 independently classified `FINAL FAIL` and accepted by Nate with no correction; R0-A4 is a draft blocked on style-candidate review and explicit narrow promotion  
+**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 Runs 2–4 independently classified `FINAL FAIL` and accepted by Nate with no correction; R0-A4 is frozen with Candidate 02 promoted for rendering-language-only authority, one output budgeted, zero consumed, and generation not yet authorized  
 **Current program conclusion:** One controlled pixel-art instance reached excellence; the direct-edit route now has strong repeatable source binding but repeatably remains in a photo-enhancement basin and reconstructs secondary scene detail. Failure predictability advanced; repeatable rendered excellence remains unproven.
 
 ## Logo-led Legacyify state
@@ -30,7 +30,7 @@ A source controls only its assigned component. Generated descendants remain evid
 | `R0` rendered governance baseline | Draft; not frozen or authorized | First controlled test of a deliberately rendered CGI successor using the untouched Oslo scene as composition authority |
 | `R0-A2` direct-edit geometry isolation | Laboratory evidence preserved | Direct source editing materially improved camera, frame, and major-geometry binding while remaining near-photographic |
 | `R0-A3` CGI legibility under geometry lock | Complete; independent `FINAL FAIL`; Nate accepted; no correction | Three-run surveillance repeated photo enhancement rather than unmistakable CGI and reconstructed sky, people, and secondary detail |
-| `R0-A4` style-authority discrimination | Draft; blocked; unrun | Candidates 01–02 preserved in `99 Unverified Intake`; Candidate 02 is the Prompt Design recommendation; neither has authority pending Nate's explicit narrow promotion |
+| `R0-A4` style-authority discrimination | Frozen; handoff prepared; unrun | Candidate 02 exact bytes promoted for `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` only and moved to Drive `02 Experiment Packets`; one-output budget remains unconsumed; Candidate 01 has no authority |
 
 The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The frozen `G1` packet is `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`. Exact visual inputs and raw outputs remain in Drive `03 Laboratory Evidence`. Third-party base scenes and their descendants are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
 
@@ -101,10 +101,10 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - The approved new direction separates durable Legacy visual grammar from modality profiles. CGI, illustrated-character, pixel-art, painterly, and explicit photographic-preservation profiles keep their native construction rules.
 - The first rendered-governance candidate is R0: reuse the untouched Oslo base only for held scene properties, exclude every G1 descendant, and test a deliberately authored CGI successor.
 - R0-A3 is accepted as a `FINAL FAIL` without correction. Its stable failure class is `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
-- R0-A4 may change only the rendering-control mechanism by adding one narrowly governed style reference. Candidate 01 remains unverified intake and cannot be used until Nate explicitly promotes its exact bytes for that experiment.
+- R0-A4 may change only the rendering-control mechanism by adding Candidate 02 under the narrow `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction. Candidate 02 is not a canonical master or scene authority. Candidate 01 remains unverified intake with no authority.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Nate visually reviews the two preserved R0-A4 style candidates in Drive `99 Unverified Intake`. Candidate 01 is ID `1765ddLeg7b2ef2xR0pKaornrya-4pXCp`; Candidate 02 is ID `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG` and is the Prompt Design recommendation because it more clearly exhibits synthetic archviz construction. Neither candidate currently has authority. If Nate explicitly promotes one candidate's exact bytes for the narrow role `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE`, complete and freeze `experiments/R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`; freezing still does not authorize Laboratory generation.
+Await Nate's separate authorization to execute `handoffs/R0-A4_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md` in a fresh non-project ChatGPT Work context. When authorized, retrieve the exact Oslo source and exact Candidate 02 Drive objects, verify their identities, make one generation call producing one output, preserve the raw output, and hard-stop before Evaluation. Do not use Candidate 01, any R0 descendant, or any canonical Legacy master.
