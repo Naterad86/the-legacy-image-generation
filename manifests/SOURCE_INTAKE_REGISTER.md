@@ -29,8 +29,9 @@ The new, functioning `1381.png` upload was independently and explicitly designat
 | Candidate | Drive ID | SHA-256 before upload | Raster | Current decision |
 |---|---|---|---:|---|
 | `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_01_2026-08-22.png` | `1765ddLeg7b2ef2xR0pKaornrya-4pXCp` | `a5cf68d3a65dfb9a6a623ad09e7f3b23e114e96f1d5159558bda0536c0dd6cb3` | `1536 × 1024` PNG | Preserved in `99 Unverified Intake`; no authority; awaiting Nate's visual review and explicit narrow promotion decision |
+| `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_02_2026-08-22.png` | `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG` | `2d244885b74d90953cea7a9fe3f62c3c6c8148610ccce3aae06577d47c6c8d9e` | `1448 × 1086` PNG | Preserved in `99 Unverified Intake`; no authority; Prompt Design recommendation for Nate's narrow-promotion review |
 
-The candidate is an original fictional exterior CGI calibration image and is not derived from the Oslo source or an R0 descendant. It may not be used as a rendering-language authority unless Nate explicitly promotes its exact bytes for the proposed `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction.
+Both candidates are original fictional exterior CGI calibration images and are not derived from the Oslo source or an R0 descendant. Neither may be used as a rendering-language authority unless Nate explicitly promotes one candidate's exact bytes for the proposed `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction.
 
 ## Future intake procedure
 

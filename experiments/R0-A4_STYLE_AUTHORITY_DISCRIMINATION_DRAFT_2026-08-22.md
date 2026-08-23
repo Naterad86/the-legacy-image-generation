@@ -72,6 +72,23 @@ Promotion for this experiment does not make the candidate a canonical Legacy mas
 
 Candidate 01 depicts a fictional pale-stone, glass, metal, and concrete civic exterior under controlled overcast daylight. It contains no Legacy or Allstate branding, typography, people, vehicles, cranes, or Oslo-derived geometry. Visual suitability for the narrow rendering-language jurisdiction remains Nate's decision.
 
+Prompt Design review: Candidate 01 is source-safe and brand-neutral but remains close enough to high-end architectural photography that it is not recommended for promotion as the escape mechanism.
+
+## Candidate 02 intake record
+
+**Status:** GENERATED AND PRESERVED IN `99 Unverified Intake` — RECOMMENDED FOR NATE'S VISUAL REVIEW; NOT PROMOTED
+
+- Filename: `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_02_2026-08-22.png`
+- Drive ID: `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG`
+- MIME type: `image/png`
+- Raster: `1448 × 1086`
+- File size: `1,731,851` bytes
+- SHA-256 before upload: `2d244885b74d90953cea7a9fe3f62c3c6c8148610ccce3aae06577d47c6c8d9e`
+- Provenance: original targeted iteration generated independently for style-authority intake; not derived from the Oslo source or any R0 output
+- Present authority: none; unverified candidate only
+
+Candidate 02 changes only the candidate-generation rendering clause: it increases visible synthetic archviz construction through more uniform procedural surfaces, cleaner analytic edges, controlled reflection logic, and a synthetic overcast presentation. Scene, material families, brand exclusions, and non-Oslo requirements remain held. Prompt Design recommends Candidate 02 over Candidate 01 for the narrow experimental role, subject to Nate's explicit decision.
+
 ## Proposed held constants
 
 Carry forward the R0-A3 scene holds without weakening them:

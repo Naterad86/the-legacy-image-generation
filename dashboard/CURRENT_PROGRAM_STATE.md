@@ -30,7 +30,7 @@ A source controls only its assigned component. Generated descendants remain evid
 | `R0` rendered governance baseline | Draft; not frozen or authorized | First controlled test of a deliberately rendered CGI successor using the untouched Oslo scene as composition authority |
 | `R0-A2` direct-edit geometry isolation | Laboratory evidence preserved | Direct source editing materially improved camera, frame, and major-geometry binding while remaining near-photographic |
 | `R0-A3` CGI legibility under geometry lock | Complete; independent `FINAL FAIL`; Nate accepted; no correction | Three-run surveillance repeated photo enhancement rather than unmistakable CGI and reconstructed sky, people, and secondary detail |
-| `R0-A4` style-authority discrimination | Draft; blocked; unrun | Candidate 01 preserved in `99 Unverified Intake`; exact bytes have no authority pending Nate's visual review and explicit narrow promotion |
+| `R0-A4` style-authority discrimination | Draft; blocked; unrun | Candidates 01–02 preserved in `99 Unverified Intake`; Candidate 02 is the Prompt Design recommendation; neither has authority pending Nate's explicit narrow promotion |
 
 The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The frozen `G1` packet is `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`. Exact visual inputs and raw outputs remain in Drive `03 Laboratory Evidence`. Third-party base scenes and their descendants are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
 
@@ -107,4 +107,4 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 
 ## Next immediate action
 
-Nate visually reviews `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_01_2026-08-22.png` in Drive `99 Unverified Intake` (ID `1765ddLeg7b2ef2xR0pKaornrya-4pXCp`). The candidate currently has no authority. If Nate explicitly promotes its exact bytes for the narrow role `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE`, complete and freeze `experiments/R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`; freezing still does not authorize Laboratory generation. If rejected, preserve Candidate 01 and redesign only the style-candidate generation clause.
+Nate visually reviews the two preserved R0-A4 style candidates in Drive `99 Unverified Intake`. Candidate 01 is ID `1765ddLeg7b2ef2xR0pKaornrya-4pXCp`; Candidate 02 is ID `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG` and is the Prompt Design recommendation because it more clearly exhibits synthetic archviz construction. Neither candidate currently has authority. If Nate explicitly promotes one candidate's exact bytes for the narrow role `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE`, complete and freeze `experiments/R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`; freezing still does not authorize Laboratory generation.
