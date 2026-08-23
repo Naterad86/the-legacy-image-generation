@@ -57,6 +57,21 @@ Before freeze, the candidate must:
 
 Promotion for this experiment does not make the candidate a canonical Legacy master, scene authority, production image, or general-purpose style authority.
 
+## Candidate 01 intake record
+
+**Status:** GENERATED AND PRESERVED IN `99 Unverified Intake` — AWAITING NATE'S VISUAL REVIEW AND EXPLICIT PROMOTION
+
+- Filename: `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_01_2026-08-22.png`
+- Drive ID: `1765ddLeg7b2ef2xR0pKaornrya-4pXCp`
+- MIME type: `image/png`
+- Raster: `1536 × 1024`
+- File size: `2,138,943` bytes
+- SHA-256 before upload: `a5cf68d3a65dfb9a6a623ad09e7f3b23e114e96f1d5159558bda0536c0dd6cb3`
+- Provenance: original image generated independently for style-authority intake; not derived from the Oslo source or any R0 output
+- Present authority: none; unverified candidate only
+
+Candidate 01 depicts a fictional pale-stone, glass, metal, and concrete civic exterior under controlled overcast daylight. It contains no Legacy or Allstate branding, typography, people, vehicles, cranes, or Oslo-derived geometry. Visual suitability for the narrow rendering-language jurisdiction remains Nate's decision.
+
 ## Proposed held constants
 
 Carry forward the R0-A3 scene holds without weakening them:
