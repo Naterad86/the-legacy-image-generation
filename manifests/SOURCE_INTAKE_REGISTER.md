@@ -24,14 +24,14 @@ Drive IDs, dimensions, MIME types, hashes, and jurisdictions are controlled by `
 
 The new, functioning `1381.png` upload was independently and explicitly designated by Nate as `FEMALE_CHARACTER_MASTER`. This resolves the operational blocker without asserting that it is byte-identical to the unavailable historical item.
 
-## Unverified rendering-language intake — 2026-08-22
+## Rendering-language intake and narrow promotion — 2026-08-22
 
 | Candidate | Drive ID | SHA-256 before upload | Raster | Current decision |
 |---|---|---|---:|---|
 | `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_01_2026-08-22.png` | `1765ddLeg7b2ef2xR0pKaornrya-4pXCp` | `a5cf68d3a65dfb9a6a623ad09e7f3b23e114e96f1d5159558bda0536c0dd6cb3` | `1536 × 1024` PNG | Preserved in `99 Unverified Intake`; no authority; awaiting Nate's visual review and explicit narrow promotion decision |
-| `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_02_2026-08-22.png` | `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG` | `2d244885b74d90953cea7a9fe3f62c3c6c8148610ccce3aae06577d47c6c8d9e` | `1448 × 1086` PNG | Preserved in `99 Unverified Intake`; no authority; Prompt Design recommendation for Nate's narrow-promotion review |
+| `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_02_2026-08-22.png` | `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG` | `2d244885b74d90953cea7a9fe3f62c3c6c8148610ccce3aae06577d47c6c8d9e` | `1448 × 1086` PNG | Nate explicitly promoted these exact bytes for `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` only; same Drive ID moved to `02 Experiment Packets`; not canonical or scene authority |
 
-Both candidates are original fictional exterior CGI calibration images and are not derived from the Oslo source or an R0 descendant. Neither may be used as a rendering-language authority unless Nate explicitly promotes one candidate's exact bytes for the proposed `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction.
+Both candidates are original fictional exterior CGI calibration images and are not derived from the Oslo source or an R0 descendant. Candidate 01 remains unverified and has no authority. Candidate 02 may be used only in R0-A4 and only for the rendering-language jurisdiction fixed by the frozen packet. This promotion does not alter `SOURCE_MANIFEST.md` because Candidate 02 is not a canonical Legacy master.
 
 ## Future intake procedure
 
@@ -40,4 +40,4 @@ Both candidates are original fictional exterior CGI calibration images and are n
 3. Record its original filename, MIME type, dimensions, Drive ID, and SHA-256.
 4. Confirm its jurisdiction and compare it against the current controlling master.
 5. Obtain Nate's explicit promotion decision.
-6. Move the approved file into `01 Canonical Masters` and update `SOURCE_MANIFEST.md` in the same change.
+6. For canonical-master promotion, move the approved file into `01 Canonical Masters` and update `SOURCE_MANIFEST.md` in the same change. For a narrower experiment-scoped role, move it to the applicable experiment folder and record its exact jurisdiction without adding it to the canonical manifest.

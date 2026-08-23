@@ -1,8 +1,9 @@
 # R0-A4 CGI Style-Authority Discrimination — Design Draft
 
-**Status:** DRAFT — BLOCKED ON STYLE-CANDIDATE REVIEW AND EXPLICIT PROMOTION; NOT FROZEN OR AUTHORIZED TO RUN  
+**Status:** SUPERSEDED DESIGN HISTORY — NON-EXECUTABLE  
 **Date:** 2026-08-22  
-**Proposed generation budget after freeze:** exactly one direct-edit preflight output
+**Superseded by:** `R0-A4_STYLE_AUTHORITY_DISCRIMINATION_FROZEN_2026-08-22.md`  
+**Frozen generation budget:** exactly one direct-edit preflight output; zero consumed; generation not yet authorized
 
 ## Purpose
 
@@ -76,7 +77,7 @@ Prompt Design review: Candidate 01 is source-safe and brand-neutral but remains 
 
 ## Candidate 02 intake record
 
-**Status:** GENERATED AND PRESERVED IN `99 Unverified Intake` — RECOMMENDED FOR NATE'S VISUAL REVIEW; NOT PROMOTED
+**Status:** EXPLICITLY PROMOTED BY NATE FOR `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` ONLY; MOVED TO DRIVE `02 Experiment Packets`
 
 - Filename: `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_02_2026-08-22.png`
 - Drive ID: `1Idru5AaH9fZZXHqseoYJ715apXzJrlnG`
@@ -85,9 +86,9 @@ Prompt Design review: Candidate 01 is source-safe and brand-neutral but remains 
 - File size: `1,731,851` bytes
 - SHA-256 before upload: `2d244885b74d90953cea7a9fe3f62c3c6c8148610ccce3aae06577d47c6c8d9e`
 - Provenance: original targeted iteration generated independently for style-authority intake; not derived from the Oslo source or any R0 output
-- Present authority: none; unverified candidate only
+- Present authority: rendering-language-only authority for R0-A4; no canonical, scene, production, or general-purpose authority
 
-Candidate 02 changes only the candidate-generation rendering clause: it increases visible synthetic archviz construction through more uniform procedural surfaces, cleaner analytic edges, controlled reflection logic, and a synthetic overcast presentation. Scene, material families, brand exclusions, and non-Oslo requirements remain held. Prompt Design recommends Candidate 02 over Candidate 01 for the narrow experimental role, subject to Nate's explicit decision.
+Candidate 02 changes only the candidate-generation rendering clause: it increases visible synthetic archviz construction through more uniform procedural surfaces, cleaner analytic edges, controlled reflection logic, and a synthetic overcast presentation. Scene, material families, brand exclusions, and non-Oslo requirements remain held. On 2026-08-22, Nate explicitly promoted Candidate 02's exact recorded bytes for the narrow experimental role. The frozen packet controls all execution.
 
 ## Proposed held constants
 
@@ -117,6 +118,6 @@ Advance to three-run surveillance only if one output simultaneously demonstrates
 
 If the style reference increases CGI amplitude but causes scene borrowing or geometry degradation, classify the mechanism as `STYLE_AUTHORITY_LEAKAGE` and stop. If the image remains photographic, classify it as `REFERENCE_INSUFFICIENT_TO_ESCAPE_PHOTO_BASIN` and stop. No correction is authorized by this draft.
 
-## Freeze blocker
+## Supersession record
 
-Do not write the exact Laboratory instruction, freeze this packet, or run R0-A4 until the candidate has been generated, preserved, byte-verified, visually reviewed, and explicitly promoted by Nate.
+The blocker was resolved on 2026-08-22 when Nate explicitly promoted Candidate 02 for `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` only. This draft is retained as non-executable design history. The frozen packet and isolated Laboratory handoff now control. Freezing and handoff preparation did not authorize generation.

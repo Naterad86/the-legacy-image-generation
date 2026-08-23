@@ -5,7 +5,8 @@ This directory holds versioned preregistrations, experiment definitions, and eva
 ## Current status
 
 - [`R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md`](R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md): complete; Runs 2–4 independently classified `FINAL FAIL`; Nate accepted; no correction; recurrent failure `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
-- [`R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`](R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md): draft next-mechanism test; Candidate 01 preserved in Drive `99 Unverified Intake`; blocked on Nate's visual review and explicit narrow promotion; not frozen or authorized to run.
+- [`R0-A4_STYLE_AUTHORITY_DISCRIMINATION_FROZEN_2026-08-22.md`](R0-A4_STYLE_AUTHORITY_DISCRIMINATION_FROZEN_2026-08-22.md): frozen one-output preflight; Candidate 02 is promoted for `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` only; [isolated Laboratory handoff](../handoffs/R0-A4_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md) prepared; zero outputs; generation not yet authorized.
+- [`R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`](R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md): superseded non-executable design history.
 - [`G1_TRANSITION_TO_RENDERED_GOVERNANCE_2026-08-21.md`](G1_TRANSITION_TO_RENDERED_GOVERNANCE_2026-08-21.md): complete closure record; G1-A independently classified `FINAL FAIL`; Nate accepted, prohibited release and correction, and retired G1-B/C unrun.
 - [`R0_RENDERED_GOVERNANCE_BASELINE_DRAFT_2026-08-21.md`](R0_RENDERED_GOVERNANCE_BASELINE_DRAFT_2026-08-21.md): draft first rendered-governance test; reuses untouched Oslo only as scene/composition authority and excludes the G1-A descendant; not frozen or authorized.
 - [`G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`](G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md): historical frozen packet and controlling G1-A evaluation contract; G1-A ended `FINAL FAIL` without correction; G1-B/C retired unrun.
