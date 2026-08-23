@@ -24,6 +24,14 @@ Drive IDs, dimensions, MIME types, hashes, and jurisdictions are controlled by `
 
 The new, functioning `1381.png` upload was independently and explicitly designated by Nate as `FEMALE_CHARACTER_MASTER`. This resolves the operational blocker without asserting that it is byte-identical to the unavailable historical item.
 
+## Unverified rendering-language intake — 2026-08-22
+
+| Candidate | Drive ID | SHA-256 before upload | Raster | Current decision |
+|---|---|---|---:|---|
+| `R0-A4_CGI_RENDER_LANGUAGE_REFERENCE_CANDIDATE_01_2026-08-22.png` | `1765ddLeg7b2ef2xR0pKaornrya-4pXCp` | `a5cf68d3a65dfb9a6a623ad09e7f3b23e114e96f1d5159558bda0536c0dd6cb3` | `1536 × 1024` PNG | Preserved in `99 Unverified Intake`; no authority; awaiting Nate's visual review and explicit narrow promotion decision |
+
+The candidate is an original fictional exterior CGI calibration image and is not derived from the Oslo source or an R0 descendant. It may not be used as a rendering-language authority unless Nate explicitly promotes its exact bytes for the proposed `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction.
+
 ## Future intake procedure
 
 1. Place a candidate in `99 Unverified Intake`.
