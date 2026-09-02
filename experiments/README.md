@@ -2,6 +2,8 @@
 
 This directory holds versioned preregistrations, experiment definitions, and evaluation handoffs. Laboratory outputs and evaluation images remain in Google Drive.
 
+Experiment evidence is stored under the documented [The Legacy — Image Generation](https://drive.google.com/drive/folders/1ReGvUmL7Z0wz-5yoiRVaxKv7xSvo71xU) Drive repository. Exact experiment-evidence paths require external verification and are not asserted here.
+
 ## Current status
 
 - [`R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md`](R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md): complete; Runs 2–4 independently classified `FINAL FAIL`; Nate accepted; no correction; recurrent failure `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.

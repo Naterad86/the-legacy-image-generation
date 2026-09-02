@@ -26,7 +26,7 @@ A source controls only its assigned component. Generated descendants remain evid
 | `L0-E` Perspective-Aware Environmental Embodiment | Freeze candidate preserved; not frozen, released, authorized, or run | Architectural test engineering remains available but is not the current automatic resumption point |
 | `G0` Round 1 — pixel-art landscape | Complete; `FINAL FAIL` under excellence-only rule | Scene-native floral concept validated; frame control, native pixel vocabulary, and topology precision required correction |
 | `G0-C1` — fresh controlled correction | Complete; independent `EXCELLENT`; Nate accepted as-is; zero post-generation correction rounds | First controlled instance to satisfy every gate within the trial's maximum-one-correction boundary |
-| `G1` holdout transfer | Complete; administratively closed | G1-A `FINAL FAIL` with no correction; G1-B/C retired unrun; photographic mechanism evidence only |
+| `G1` holdout transfer | Partially executed (G1-A only); administratively closed | G1-A `FINAL FAIL` with no correction; G1-B/C retired unrun; photographic mechanism evidence only |
 | `R0` rendered governance baseline | Draft; not frozen or authorized | First controlled test of a deliberately rendered CGI successor using the untouched Oslo scene as composition authority |
 | `R0-A2` direct-edit geometry isolation | Laboratory evidence preserved | Direct source editing materially improved camera, frame, and major-geometry binding while remaining near-photographic |
 | `R0-A3` CGI legibility under geometry lock | Complete; independent `FINAL FAIL`; Nate accepted; no correction | Three-run surveillance repeated photo enhancement rather than unmistakable CGI and reconstructed sky, people, and secondary detail |
@@ -43,6 +43,8 @@ The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. Th
 | `G1-C` | Painterly atmosphere | One complete emblem formed by one existing central-upper cloud mass through native density, light, shadow, and brushwork | Retired unrun; administrative status, not a failure |
 
 The original G1 packet fixed run order `G1-A` → `G1-B` → `G1-C`. The packet remains historical authority for judging G1-A and cannot be rewritten retroactively. Nate's superseding aesthetic decision stops further G1 generation: G1-B and G1-C will be retired unrun rather than reinterpreted.
+
+Detailed G1-A evaluation evidence is preserved externally in Google Drive. The exact evidence path is not asserted here; `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md` remains the frozen evaluation contract and handoff record.
 
 ## Durable Legacyify priorities
 
@@ -99,8 +101,10 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - G1-A was governed by its frozen photographic evaluation contract and independently classified `FINAL FAIL`; the new rendered-governance rules did not retroactively change that result.
 - Nate accepted the G1-A `FINAL FAIL`; it is not released and receives no correction. G1-B and G1-C are retired unrun.
 - The approved new direction separates durable Legacy visual grammar from modality profiles. CGI, illustrated-character, pixel-art, painterly, and explicit photographic-preservation profiles keep their native construction rules.
+- R0-A3's `FINAL FAIL` does not by itself rescind or amend the active rendered-by-default governance in `governance/LEGACY_VISUAL_GRAMMAR.md`.
 - The first rendered-governance candidate is R0: reuse the untouched Oslo base only for held scene properties, exclude every G1 descendant, and test a deliberately authored CGI successor.
 - R0-A3 is accepted as a `FINAL FAIL` without correction. Its stable failure class is `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
+- This finding is scoped to the R0-A3 direct-edit geometry-isolation mechanism and Oslo source under the frozen R0-A3 conditions. It does not establish the behavior of other mechanisms or sources.
 - R0-A4 may change only the rendering-control mechanism by adding Candidate 02 under the narrow `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction. Candidate 02 is not a canonical master or scene authority. Candidate 01 remains unverified intake with no authority.
 - The exact Oslo source remains upstream scene authority. Its authorized R0-A4 standard-JPEG surrogate is pixel-identical, contains the unchanged primary compressed scan, and has tool-ingestion jurisdiction only. The rejected MPO request is infrastructure evidence, not image evidence.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
