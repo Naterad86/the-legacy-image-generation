@@ -6,8 +6,9 @@ Experiment evidence is stored under the documented [The Legacy — Image Generat
 
 ## Current status
 
+- [`R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md`](R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md): complete; exact one-output run independently classified `FINAL FAIL`; failed gates 4, 5, 6, 7, 8, and 10; Nate accepted on 2026-09-02; zero correction or rerun authority; matching Drive report ID `1u549r2Nr5DZRayB1LsgZK4DrDEtlozzX`.
 - [`R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md`](R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md): complete; Runs 2–4 independently classified `FINAL FAIL`; Nate accepted; no correction; recurrent failure `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
-- [`R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md`](R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md): controlling frozen R0-A4 packet; records the rejected MPO ingestion as `TOOL_INGESTION_FAILURE — NO EXPERIMENTAL OUTPUT`; authorizes a verified pixel-identical single-frame JPEG surrogate; [tool-compatible Laboratory handoff](../handoffs/R0-A4_TOOL_COMPATIBLE_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md) prepared; one-output budget restored; generation not yet authorized.
+- [`R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md`](R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md): historical controlling R0-A4 contract; its verified surrogate route executed exactly once; one-output budget consumed; trial independently classified `FINAL FAIL`, accepted by Nate, and closed without correction.
 - [`R0-A4_STYLE_AUTHORITY_DISCRIMINATION_FROZEN_2026-08-22.md`](R0-A4_STYLE_AUTHORITY_DISCRIMINATION_FROZEN_2026-08-22.md): superseded frozen history; its original handoff was attempted once and rejected before generation because the exact Oslo source parsed as MPO; non-executable.
 - [`R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md`](R0-A4_STYLE_AUTHORITY_DISCRIMINATION_DRAFT_2026-08-22.md): superseded non-executable design history.
 - [`G1_TRANSITION_TO_RENDERED_GOVERNANCE_2026-08-21.md`](G1_TRANSITION_TO_RENDERED_GOVERNANCE_2026-08-21.md): complete closure record; G1-A independently classified `FINAL FAIL`; Nate accepted, prohibited release and correction, and retired G1-B/C unrun.
@@ -22,3 +23,5 @@ Experiment evidence is stored under the documented [The Legacy — Image Generat
 - `F0-P`: planned, unfrozen, and deferred on the paused female branch. Do not write or run its final A/B prompts while the branch is paused.
 
 Each frozen experiment must contain purpose, hypothesis, exact condition prompts, held constants, exclusions, cycle plan, preregistered rubric, blinded evaluation handoff, decision rules, and a hard-stop rule. Generation and Evaluation must remain separate.
+
+The executed `R0-A4_TOOL_COMPATIBLE_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md` is closed historical evidence and is no longer executable.

@@ -12,10 +12,10 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-08-22 R0-A4 MPO-ingestion incident, verified standard-JPEG surrogate, and frozen tool-compatibility supersession  
-**Current phase:** Logo-led Legacyify — rendered-environment mechanism stabilization  
-**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 Runs 2–4 independently classified `FINAL FAIL` and accepted by Nate with no correction; R0-A4's first request was rejected before generation because the exact Oslo source is internally MPO; a pixel-identical standard-JPEG surrogate and superseding packet are frozen; one output remains budgeted, zero experimental outputs exist, and generation is not yet authorized  
-**Current program conclusion:** One controlled pixel-art instance reached excellence; the direct-edit route now has strong repeatable source binding but repeatably remains in a photo-enhancement basin and reconstructs secondary scene detail. Failure predictability advanced; repeatable rendered excellence remains unproven.
+**Checkpoint:** 2026-09-02 R0-A4 one-output execution, independent `FINAL FAIL`, and Nate acceptance without correction<br>
+**Current phase:** Logo-led Legacyify — rendered-environment mechanism stabilization<br>
+**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 Runs 2–4 independently classified `FINAL FAIL` and were accepted by Nate with no correction; R0-A4 executed exactly one accepted request and one output under its tool-compatible supersession, was independently classified `FINAL FAIL`, and was accepted by Nate without correction or rerun; R0-A4 is closed<br>
+**Current program conclusion:** One controlled pixel-art instance reached excellence. Across R0-A3 and R0-A4, the direct-edit route preserved broad frame and major geometry but remained in a photo-enhancement basin while reconstructing secondary scene state. R0-A4 also failed weather/luminance retention, premium-CGI legibility, coherent PBR treatment, and the no-style-leakage gate. Failure predictability advanced; repeatable rendered excellence remains unproven, and no successor mechanism is authorized.
 
 ## Logo-led Legacyify state
 
@@ -30,7 +30,7 @@ A source controls only its assigned component. Generated descendants remain evid
 | `R0` rendered governance baseline | Draft; not frozen or authorized | First controlled test of a deliberately rendered CGI successor using the untouched Oslo scene as composition authority |
 | `R0-A2` direct-edit geometry isolation | Laboratory evidence preserved | Direct source editing materially improved camera, frame, and major-geometry binding while remaining near-photographic |
 | `R0-A3` CGI legibility under geometry lock | Complete; independent `FINAL FAIL`; Nate accepted; no correction | Three-run surveillance repeated photo enhancement rather than unmistakable CGI and reconstructed sky, people, and secondary detail |
-| `R0-A4` style-authority discrimination | Tool-compatibility supersession frozen; handoff prepared; experimental generation unrun | Exact-source request rejected pre-generation as unsupported MPO; incident classified `TOOL_INGESTION_FAILURE — NO EXPERIMENTAL OUTPUT`; pixel-identical single-frame JPEG surrogate authorized only for tool ingestion; one-output budget restored |
+| `R0-A4` style-authority discrimination | Complete; independent `FINAL FAIL`; Nate accepted; closed without correction | One-output run preserved broad frame and major geometry but failed secondary scene state, weather/luminance, unmistakable premium-CGI legibility, coherent PBR treatment, no style-reference leakage, and release-level coherence |
 
 The `G0-C1` record is `experiments/G0-C1_LEGACYIFY_VALIDATION_2026-08-20.md`. The frozen `G1` packet is `experiments/G1_LEGACYIFY_HOLDOUT_TRANSFER_FROZEN_2026-08-20.md`. Exact visual inputs and raw outputs remain in Drive `03 Laboratory Evidence`. Third-party base scenes and their descendants are internal-validation evidence only; they are not canonical, reusable production, or public-release assets.
 
@@ -105,11 +105,15 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - The first rendered-governance candidate is R0: reuse the untouched Oslo base only for held scene properties, exclude every G1 descendant, and test a deliberately authored CGI successor.
 - R0-A3 is accepted as a `FINAL FAIL` without correction. Its stable failure class is `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
 - This finding is scoped to the R0-A3 direct-edit geometry-isolation mechanism and Oslo source under the frozen R0-A3 conditions. It does not establish the behavior of other mechanisms or sources.
-- R0-A4 may change only the rendering-control mechanism by adding Candidate 02 under the narrow `R0_A4_CGI_RENDER_LANGUAGE_REFERENCE` jurisdiction. Candidate 02 is not a canonical master or scene authority. Candidate 01 remains unverified intake with no authority.
-- The exact Oslo source remains upstream scene authority. Its authorized R0-A4 standard-JPEG surrogate is pixel-identical, contains the unchanged primary compressed scan, and has tool-ingestion jurisdiction only. The rejected MPO request is infrastructure evidence, not image evidence.
+- R0-A4 executed exactly one accepted generation request and produced exactly one preserved raw output: `R0-A4_TOOL_COMPATIBLE_LAB_RAW_OUTPUT_2026-09-02.png`, Drive ID `1Q6kHAt4Pb7ZI--UNERo3l6Pd6AKFTgNO`, SHA-256 `fc1dec074dab05d0274fca95d4975ab69a3899ea0c8b66e21cdf8ddc1c079250`.
+- The independent R0-A4 report classified the output `FINAL FAIL` after failures on gates 4, 5, 6, 7, 8, and 10. Nate accepted the classification on 2026-09-02. R0-A4 is closed with zero correction, retry, variation, or rerun authority.
+- The accepted R0-A4 failure labels are `SECONDARY_SCENE_RECONSTRUCTION`, `WEATHER_LUMINANCE_DRIFT`, `REFERENCE_INSUFFICIENT_TO_ESCAPE_PHOTO_BASIN`, and `STYLE_AUTHORITY_LEAKAGE`. The report describes `STYLE_AUTHORITY_LEAKAGE` as an evaluative inference consistent with excluded-property transfer; it is not standalone causal proof.
+- Candidate 02 remains limited to its historical experiment-scoped rendering-language jurisdiction. It is not promoted to canonical, scene, production, or reusable rendering authority. Candidate 01 remains unverified intake with no authority.
+- The exact Oslo source remains upstream scene authority. Its authorized R0-A4 standard-JPEG surrogate remains a tool-ingestion derivative only. The rejected MPO request remains infrastructure evidence, not image evidence.
+- The full independent evaluation is `experiments/R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md`; the matching Drive record is ID `1u549r2Nr5DZRayB1LsgZK4DrDEtlozzX`.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-Await Nate's separate authorization to execute `handoffs/R0-A4_TOOL_COMPATIBLE_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md` in a fresh non-project ChatGPT Work context. When authorized, verify the original MPO authority, attach only the exact standard-JPEG surrogate and Candidate 02, submit one generation request, preserve at most one raw output, and hard-stop before Evaluation. Do not use Candidate 01, any R0 descendant, or any canonical Legacy master.
+R0-A4 is closed and must not be corrected, rerun, or reinterpreted as production evidence. Return to Prompt Design and prepare a bounded post-R0 mechanism decision surface that preserves the demonstrated frame/major-geometry binding while targeting the recurrent photo-enhancement basin, secondary-scene reconstruction, and weather/luminance drift. Do not freeze a successor packet or authorize generation until Nate selects the next mechanism. Do not use an R0 descendant as input or authority.

@@ -35,4 +35,6 @@ The five canonical visual masters remain verified in Drive. `G0-C1` achieved an 
 
 Production-facing Legacy environments are now deliberately rendered by default; literal photographic preservation requires explicit validation authorization. Durable visual grammar is translated through modality-specific profiles so pixel art, CGI, illustration, painterly work, and authorized photographic preservation retain their native construction logic.
 
-`R0` is the next draft decision surface. It reuses the untouched Oslo source only as scene and composition authority, excludes every G1 descendant, and proposes a high-end CGI Legacy successor. R0 is not frozen and no R0 image generation is authorized.
+The R0 direct-edit sequence tested whether strong scene binding could coexist with unmistakable rendered-CGI conversion. R0-A3 repeatedly remained in a photo-enhancement basin. R0-A4 then added a narrowly governed CGI rendering-language reference in one frozen, tool-compatible run. It preserved broad frame and major geometry but failed secondary scene-state retention, weather/luminance retention, premium-CGI legibility, coherent PBR treatment, no style-reference leakage, and release-level coherence. The independent evaluator classified R0-A4 `FINAL FAIL`; Nate accepted the result on 2026-09-02 and closed the trial without correction or rerun.
+
+No R0 successor is currently frozen or authorized. The next work is a bounded mechanism decision surface, not prompt correction or descendant editing.
