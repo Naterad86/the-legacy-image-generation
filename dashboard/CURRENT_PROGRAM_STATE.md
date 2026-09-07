@@ -12,10 +12,10 @@
 
 A source controls only its assigned component. Generated descendants remain evidence or production outputs and cannot become authority unless Nate explicitly promotes them.
 
-**Checkpoint:** 2026-09-02 R0-A4 one-output execution, independent `FINAL FAIL`, and Nate acceptance without correction<br>
-**Current phase:** Logo-led Legacyify — rendered-environment mechanism stabilization<br>
-**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 Runs 2–4 independently classified `FINAL FAIL` and were accepted by Nate with no correction; R0-A4 executed exactly one accepted request and one output under its tool-compatible supersession, was independently classified `FINAL FAIL`, and was accepted by Nate without correction or rerun; R0-A4 is closed<br>
-**Current program conclusion:** One controlled pixel-art instance reached excellence. Across R0-A3 and R0-A4, the direct-edit route preserved broad frame and major geometry but remained in a photo-enhancement basin while reconstructing secondary scene state. R0-A4 also failed weather/luminance retention, premium-CGI legibility, coherent PBR treatment, and the no-style-leakage gate. Failure predictability advanced; repeatable rendered excellence remains unproven, and no successor mechanism is authorized.
+**Checkpoint:** 2026-09-07 Nate authorized the Legacy-first one-pass practical-reliability direction<br>
+**Current phase:** Legacy-first one-pass practical reliability — post-R0 mechanism selection<br>
+**Current execution status:** `G0` complete; `G1` closed; R0-A2 established strong direct-edit geometry binding; R0-A3 and R0-A4 independently classified `FINAL FAIL` and were accepted by Nate without correction; R0-A4 is closed; the prospective one-pass direction is active; preparation of a bounded mechanism decision surface is authorized; no successor packet is frozen and no generation is authorized<br>
+**Current program conclusion:** Completed evidence shows one controlled pixel-art excellence result and repeatable direct-edit limitations in rendered-environment work. The active V1 target is now a Legacy-first, one-operator-action system that performs internal source analysis and routing before exactly one generation request and one output, with consequence-weighted practical acceptance and no external post-production dependency. Repeatable one-pass reliability remains unproven.
 
 ## Logo-led Legacyify state
 
@@ -111,9 +111,16 @@ Recurring female drift remains: larger or rounder eyes, heavier brows, fuller or
 - Candidate 02 remains limited to its historical experiment-scoped rendering-language jurisdiction. It is not promoted to canonical, scene, production, or reusable rendering authority. Candidate 01 remains unverified intake with no authority.
 - The exact Oslo source remains upstream scene authority. Its authorized R0-A4 standard-JPEG surrogate remains a tool-ingestion derivative only. The rejected MPO request remains infrastructure evidence, not image evidence.
 - The full independent evaluation is `experiments/R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md`; the matching Drive record is ID `1u549r2Nr5DZRayB1LsgZK4DrDEtlozzX`.
+- On 2026-09-07, Nate authorized `governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md` as the active prospective V1 direction.
+- V1 is Legacy-first. Brand-neutral extraction is deferred until Legacy repeatability is demonstrated.
+- One pass means one operator action with permitted internal source analysis and profile routing, followed by exactly one accepted generation request, one output, and no hidden candidate batch, retry, correction, descendant edit, or external post-production dependency.
+- Practical acceptance is consequence-weighted. Focal meaning, controlled identities, branding, and consequential scene facts remain mandatory; genuinely incidental drift may be accepted only when irrelevant to intended viewers and free of visible defect.
+- Future one-pass trials must report laboratory fidelity and practical acceptance separately. The practical standard does not retroactively amend or reclassify G0, G1, R0-A3, or R0-A4.
+- GitHub, Drive, and Obsidian remain governance and continuity systems; they are not required stages in the operator's per-image transformation path.
+- Literal arbitrary-image coverage remains an aspiration. A reliability claim requires a frozen mechanism, a defined supported-input envelope, held-out inputs, and a preregistered acceptance rule.
 - The rollout objective is the shortest responsible path to a stable human-gated Legacyify capability, not premature universal coverage.
 - `F0-P` remains planned and unfrozen; it is deferred, not canceled.
 
 ## Next immediate action
 
-R0-A4 is closed and must not be corrected, rerun, or reinterpreted as production evidence. Return to Prompt Design and prepare a bounded post-R0 mechanism decision surface that preserves the demonstrated frame/major-geometry binding while targeting the recurrent photo-enhancement basin, secondary-scene reconstruction, and weather/luminance drift. Do not freeze a successor packet or authorize generation until Nate selects the next mechanism. Do not use an R0 descendant as input or authority.
+R0-A4 remains closed and must not be corrected, rerun, or reinterpreted as production evidence. Prepare a bounded in-environment mechanism decision surface for the active one-pass objective. It must compare how candidate mechanisms would perform internal source-state analysis, consequence classification, adaptive profile routing, and concise instruction compilation before exactly one generation request. A content-neutral rendering-language control may be considered, but this direction does not promote one. Do not freeze a successor packet or authorize generation until Nate selects the mechanism. Do not use an R0 descendant as input or authority.
