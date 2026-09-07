@@ -32,6 +32,10 @@ Apply this precedence:
 - Keep every motif complete and deliberately clear of image boundaries. Truncation is a critical defect, and authorization of one motif does not authorize multiplication.
 - When a trial permits one correction, restart that correction from the untouched base scene and canonical master—never from the failed descendant. Anything below the frozen excellence threshold at the hard stop remains a useful failure.
 - Never generalize one successful controlled instance into arbitrary-image repeatability, production readiness, or rollout authority.
+- For work invoking `governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md`, one pass permits internal source analysis and routing followed by exactly one accepted generation request, one output, and no hidden candidate batch, retry, correction, descendant edit, or external post-production dependency.
+- Keep laboratory-fidelity findings separate from practical-acceptance judgments. Do not retroactively reclassify completed experiments under the prospective practical standard.
+- Consequence-weighted acceptance never releases canonical identity, branding, focal meaning, or consequential scene facts. When consequence is unresolved, preserve the property or stop for Nate.
+- The V1 per-image operating path must remain inside the authorized AI environment; GitHub, Drive, and Obsidian support governance and continuity but are not required image-processing steps.
 - Production-facing environments are deliberately rendered by default. A photographic input does not silently impose photographic output; literal photographic preservation must be explicitly authorized as a validation profile.
 - Resolve a rendering-modality profile for each major component before generation. Apply durable visual grammar through that medium's native construction rules and avoid cross-modal technique leakage.
 - A receiving tool-bearing thread must retrieve exact governed artifacts itself from the connected GitHub or Drive source when the handoff provides paths, IDs, and hashes; do not shift that retrieval burden to Nate.
@@ -46,6 +50,7 @@ Apply this precedence:
 - `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`
 - `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`
 - `governance/LEGACY_VISUAL_GRAMMAR.md`
+- `governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md`
 - `governance/RENDERING_MODALITY_PROFILES.md`
 - `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md`
 - `governance/STORAGE_AUTHORITY.md`
