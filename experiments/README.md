@@ -6,6 +6,7 @@ Experiment evidence is stored under the documented [The Legacy — Image Generat
 
 ## Current status
 
+- [`ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md`](../governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md): active prospective V1 direction authorized by Nate on 2026-09-07; Legacy-first; exactly one accepted generation request and one output after permitted internal analysis and routing; consequence-weighted practical acceptance; no successor experiment frozen and no generation authorized.
 - [`R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md`](R0-A4_INDEPENDENT_EVALUATION_REPORT_2026-09-02.md): complete; exact one-output run independently classified `FINAL FAIL`; failed gates 4, 5, 6, 7, 8, and 10; Nate accepted on 2026-09-02; zero correction or rerun authority; matching Drive report ID `1u549r2Nr5DZRayB1LsgZK4DrDEtlozzX`.
 - [`R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md`](R0-A3_INDEPENDENT_EVALUATION_2026-08-22.md): complete; Runs 2–4 independently classified `FINAL FAIL`; Nate accepted; no correction; recurrent failure `MODALITY_UNDERCONVERSION + SECONDARY_SCENE_RECONSTRUCTION`.
 - [`R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md`](R0-A4_TOOL_COMPATIBILITY_SUPERSESSION_FROZEN_2026-08-22.md): historical controlling R0-A4 contract; its verified surrogate route executed exactly once; one-output budget consumed; trial independently classified `FINAL FAIL`, accepted by Nate, and closed without correction.
@@ -25,3 +26,5 @@ Experiment evidence is stored under the documented [The Legacy — Image Generat
 Each frozen experiment must contain purpose, hypothesis, exact condition prompts, held constants, exclusions, cycle plan, preregistered rubric, blinded evaluation handoff, decision rules, and a hard-stop rule. Generation and Evaluation must remain separate.
 
 The executed `R0-A4_TOOL_COMPATIBLE_ISOLATED_ONE_OUTPUT_LAB_HANDOFF_2026-08-22.md` is closed historical evidence and is no longer executable.
+
+Future experiments invoking the one-pass direction must preserve laboratory-fidelity findings and practical-acceptance judgments separately; neither may retroactively change a completed result.
