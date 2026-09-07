@@ -17,11 +17,12 @@ Verified visual authority set: [01 Canonical Masters](https://drive.google.com/d
 1. Read `governance/CLOSED_SOURCE_AUTHORITY_SYSTEM.md`.
 2. For unbranded-scene transformations, read `governance/LEGACYIFY_TRANSFORMATION_BOUNDARY.md`.
 3. Read `governance/LEGACY_VISUAL_GRAMMAR.md` and `governance/RENDERING_MODALITY_PROFILES.md` before production-facing generation.
-4. Read `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md` for the project-only Chat/Work and reasoning teaching layer.
-5. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
-6. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
-7. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
-8. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
+4. Read `governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md` for the active Legacy-first V1 objective, one-pass definition, and consequence-weighted acceptance boundary.
+5. Read `governance/MODEL_ROUTING_AND_VENUE_INSTRUCTIONS.md` for the project-only Chat/Work and reasoning teaching layer.
+6. Resolve sources against `manifests/SOURCE_MANIFEST.md`.
+7. Read `dashboard/CURRENT_PROGRAM_STATE.md`.
+8. For a fresh ChatGPT project, paste `handoffs/LEGACY_IMAGE_GENERATION_2_0_INITIALIZATION_PROMPT.md` as the opening message.
+9. Use `handoffs/CHATGPT_PROJECT_MIGRATION_2026-08-19.md` as the historical migration and incident record.
 
 ## Constitutional rule
 
@@ -37,4 +38,6 @@ Production-facing Legacy environments are now deliberately rendered by default; 
 
 The R0 direct-edit sequence tested whether strong scene binding could coexist with unmistakable rendered-CGI conversion. R0-A3 repeatedly remained in a photo-enhancement basin. R0-A4 then added a narrowly governed CGI rendering-language reference in one frozen, tool-compatible run. It preserved broad frame and major geometry but failed secondary scene-state retention, weather/luminance retention, premium-CGI legibility, coherent PBR treatment, no style-reference leakage, and release-level coherence. The independent evaluator classified R0-A4 `FINAL FAIL`; Nate accepted the result on 2026-09-02 and closed the trial without correction or rerun.
 
-No R0 successor is currently frozen or authorized. The next work is a bounded mechanism decision surface, not prompt correction or descendant editing.
+On 2026-09-07, Nate authorized the active Legacy-first one-pass practical-reliability direction. One operator action may include internal source analysis and profile routing, followed by exactly one accepted generation request, one output, and no retry, correction, hidden candidate ranking, descendant editing, or external post-production dependency. Practical acceptance is consequence-weighted: focal meaning, controlled identities, branding, and consequential scene facts remain mandatory while genuinely incidental drift may be accepted when irrelevant to intended viewers.
+
+This prospective direction does not change any historical experiment result. No R0 successor is currently frozen and no generation is authorized. The next work is a bounded in-environment mechanism decision surface.
