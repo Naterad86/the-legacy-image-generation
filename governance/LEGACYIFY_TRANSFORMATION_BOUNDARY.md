@@ -55,6 +55,18 @@ Unless a frozen packet says otherwise, Legacyify preserves:
 
 Controlled redesign may affect materials, atmosphere, lighting, rendering modality, and secondary details only when its redesign envelope says so. An experiment may impose a tighter lock.
 
+## Prospective consequence-weighted one-pass track
+
+The default base-scene lock above remains controlling unless a future frozen packet explicitly invokes `governance/ONE_PASS_PRACTICAL_RELIABILITY_DIRECTION.md`. Invoking that direction permits a packet to classify source properties before generation as consequential, perceptually important, or incidental.
+
+- Consequential properties remain exact requirements.
+- Perceptually important properties must remain substantially stable within the packet's stated tolerance.
+- Incidental properties may vary only when the change does not alter focal meaning, controlled identity, branding, recognizability, or the intended viewer's experience.
+- Canonical marks and identities, focal subjects, message-bearing text, and safety- or decision-relevant facts are never incidental.
+- Any unresolved property inherits the stronger preservation requirement or triggers a stop for Nate's decision.
+
+This prospective classification does not amend a historical frozen packet, relax its evaluation gates, or reclassify its output.
+
 ## Restraint and containment
 
 - Introduce no logo location that was not requested or frozen into the applicable packet.
