@@ -1,0 +1,24 @@
+{
+  "snapshot_id": "legacyify-build-2026-09-09",
+  "status": "uploaded after explicit user approval; Drive metadata readback verified",
+  "drive_file_id": "1uCT02lbUyh-OZP0lbCzu0GSSD8LSBnCa",
+  "drive_url": "https://drive.google.com/file/d/1uCT02lbUyh-OZP0lbCzu0GSSD8LSBnCa/view?usp=drivesdk",
+  "drive_parent_id": "1bA-wDoJvfDMKIfZvbGFGYbjW5NwQkTBd",
+  "drive_parent_name": "06 Releases & Handoffs",
+  "file_name": "Legacyify-Build-Draft-2026-09-09-Media.zip",
+  "mime_type": "application/zip",
+  "bytes": 51288519,
+  "sha256": "994c1d906766564586d6debea6ba3cd37c837fec29a17e4111bfabf65a252cbb",
+  "md5": "231bdb1afa4a5f3227089afa7016f6fe",
+  "hash_scope": "Hashes calculated from original uploaded local archive; Drive wrapper exposed metadata/size but not provider checksums.",
+  "media_entries": 33,
+  "local_archive_path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\Legacyify-Build-Draft-2026-09-09-Media.zip",
+  "restore": "Verify archive SHA256, then extract legacyify/ and legacyify-live/ into this snapshot directory. Verify each restored file against SNAPSHOT_MANIFEST.json. MEDIA_MANIFEST.json inside the archive lists all image members.",
+  "authority": "Dated draft preservation only. No source promotion, new canonical authority, production release or governance update.",
+  "existing_canonical_drive_files": {
+    "LEGACY_MALE_CHARACTER_MASTER.jpg": "17VqFYhwXkMB3ez0wU47OadmDg40wKeNw",
+    "LEGACY_FEMALE_CHARACTER_MASTER.jpg": "1jvecveTYFSGw-RtiDQN0Y2jVwCGkbtpl",
+    "LEGACY_OFFICE_MASTER.jpg": "1CiT_-nx5vCGi8KbNa9x9WqwPGIZFBKjm",
+    "LEGACY_LOGO_MASTER.jpg": "1bsTHkVg8_pN0E23i_B9NCWsb0WlgDha_"
+  }
+}

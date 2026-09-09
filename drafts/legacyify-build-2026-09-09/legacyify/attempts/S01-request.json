@@ -1,0 +1,14 @@
+{
+  "attempt_id": "S01",
+  "action": "scene",
+  "purpose": "development first-pass: office pixel transformation with one main emblem",
+  "status": "requested",
+  "inputs": [
+    "sources/LEGACY_OFFICE_MASTER.jpg",
+    "sources/LEGACY_LOGO_MASTER.jpg"
+  ],
+  "recorded_at_utc": "2026-09-09 06:51:48 UTC",
+  "tool": "built-in image_gen",
+  "output_count_requested": 1,
+  "prompt_file": "S01-prompt.txt"
+}

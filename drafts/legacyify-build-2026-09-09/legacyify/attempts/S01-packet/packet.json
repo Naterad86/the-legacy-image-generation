@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "S01",
+  "action": "scene",
+  "created_at": "2026-09-09T07:04:27+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_OFFICE_MASTER.jpg",
+      "sha256": "bf5325630ceb0c66cf38b8f8fc4c32b6bf849fe33347aef4ddbd18f9b869648f",
+      "bytes": 229835,
+      "width": 1536,
+      "height": 864,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_LOGO_MASTER.jpg",
+      "sha256": "68bc3c93ef900e5b3f25e2f7fb1e987661d60f0b6baec93f0ded0bbb841eb76b",
+      "bytes": 255254,
+      "width": 1536,
+      "height": 1536,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "support"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: style-transfer. Output ONE standalone finished 16:9 pixel-art scene, never a comparison board, contact sheet, diagram, or protocol page.\n\nImage 1 is the exact scene/composition source: Legacy executive office. Image 2 is ONLY the canonical Legacy mirrored-lion emblem and THE LEGACY lettering geometry. Image 2 supplies no scene, materials, lighting or background. Preserve Image 1's camera, framing, foreground desk and readable arrangement: tall black chair center, curved monitor at right with webcam and visible stand, laptop closed across desk center, trophy at front-left, mug to its right, notebook and pen front-left, headphones beside monitor, left plant and wall shelves, sunset window at far right. No character or person.\n\nTransform the complete scene into premium handcrafted pixel art for a 1990s adventure-game background: deliberate large coherent pixel clusters, stepped contour edges, disciplined limited palette, carefully grouped light and shadow, selective dithering. Strongly visible pixel structure at normal viewing size, as though authored on a 480x270 canvas and cleanly enlarged. Every object, reflection, logo and material must share the same pixel scale. No residual photographic textures, smooth vector overlays, airbrushed gradients or plastic 3D rendering.\n\nMaintain the established spatial story and atmospheric warm sunset entering from the right, charcoal walls and furnishings, warm brass/gold accents, legible foreground silhouettes. Keep the scene bright enough to read the desk, chair and peripherals. Visibly crafted dramatic color separation with warm highlights and deep cool structural shadows.\n\nBrand contract: exactly ONE large full Legacy mirrored-lion emblem plus THE LEGACY words on the left wall in the current wall-sign position, entirely inside the frame with safe margins. Its bilateral lion silhouettes, central rise, open negative spaces and lettering must derive from Image 2 and become intentional pixel forms. Do not invent a different lion symbol. To keep this transformation clean and avoid duplicated approximate logos, intentionally replace ALL other small logos/brand words and tiny decorative text (monitor, mug, notebook, laptop, chair, shelf frame, trophy lettering, desk hub) with plain unmarked material or simple non-symbolic pixel highlights; retain the physical objects and their positions. This simplification of secondary branding is an expressly permitted change. No Allstate text or symbol. No new furniture or scene redesign.\n\nThe result should look like a complete expensive art-directed game environment, with pixel-art material treatment throughout. Output only the finished image.",
+  "preserve": [
+    "Office spatial story and one main canonical emblem; allowed secondary-brand removal"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A clearly structured scene; fine text, crowds, and intricate geometry need separate review.",
+  "review_checklist": [
+    "Camera and major geometry",
+    "Object presence and placement",
+    "Weather and scene state",
+    "Luminance and lighting",
+    "Legacy visual treatment",
+    "Secondary details"
+  ],
+  "prompt": "Use case: style-transfer. Output ONE standalone finished 16:9 pixel-art scene, never a comparison board, contact sheet, diagram, or protocol page.\n\nImage 1 is the exact scene/composition source: Legacy executive office. Image 2 is ONLY the canonical Legacy mirrored-lion emblem and THE LEGACY lettering geometry. Image 2 supplies no scene, materials, lighting or background. Preserve Image 1's camera, framing, foreground desk and readable arrangement: tall black chair center, curved monitor at right with webcam and visible stand, laptop closed across desk center, trophy at front-left, mug to its right, notebook and pen front-left, headphones beside monitor, left plant and wall shelves, sunset window at far right. No character or person.\n\nTransform the complete scene into premium handcrafted pixel art for a 1990s adventure-game background: deliberate large coherent pixel clusters, stepped contour edges, disciplined limited palette, carefully grouped light and shadow, selective dithering. Strongly visible pixel structure at normal viewing size, as though authored on a 480x270 canvas and cleanly enlarged. Every object, reflection, logo and material must share the same pixel scale. No residual photographic textures, smooth vector overlays, airbrushed gradients or plastic 3D rendering.\n\nMaintain the established spatial story and atmospheric warm sunset entering from the right, charcoal walls and furnishings, warm brass/gold accents, legible foreground silhouettes. Keep the scene bright enough to read the desk, chair and peripherals. Visibly crafted dramatic color separation with warm highlights and deep cool structural shadows.\n\nBrand contract: exactly ONE large full Legacy mirrored-lion emblem plus THE LEGACY words on the left wall in the current wall-sign position, entirely inside the frame with safe margins. Its bilateral lion silhouettes, central rise, open negative spaces and lettering must derive from Image 2 and become intentional pixel forms. Do not invent a different lion symbol. To keep this transformation clean and avoid duplicated approximate logos, intentionally replace ALL other small logos/brand words and tiny decorative text (monitor, mug, notebook, laptop, chair, shelf frame, trophy lettering, desk hub) with plain unmarked material or simple non-symbolic pixel highlights; retain the physical objects and their positions. This simplification of secondary branding is an expressly permitted change. No Allstate text or symbol. No new furniture or scene redesign.\n\nThe result should look like a complete expensive art-directed game environment, with pixel-art material treatment throughout. Output only the finished image.\n",
+  "prompt_sha256": "6c9b5b1d8f00881384263d806883a9acd8fa33f0fba40e3f87700d0aacd5f792",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer. Output ONE standalone finished 16:9 pixel-art scene, never a comparison board, contact sheet, diagram, or protocol page.\n\nImage 1 is the exact scene/composition source: Legacy executive office. Image 2 is ONLY the canonical Legacy mirrored-lion emblem and THE LEGACY lettering geometry. Image 2 supplies no scene, materials, lighting or background. Preserve Image 1's camera, framing, foreground desk and readable arrangement: tall black chair center, curved monitor at right with webcam and visible stand, laptop closed across desk center, trophy at front-left, mug to its right, notebook and pen front-left, headphones beside monitor, left plant and wall shelves, sunset window at far right. No character or person.\n\nTransform the complete scene into premium handcrafted pixel art for a 1990s adventure-game background: deliberate large coherent pixel clusters, stepped contour edges, disciplined limited palette, carefully grouped light and shadow, selective dithering. Strongly visible pixel structure at normal viewing size, as though authored on a 480x270 canvas and cleanly enlarged. Every object, reflection, logo and material must share the same pixel scale. No residual photographic textures, smooth vector overlays, airbrushed gradients or plastic 3D rendering.\n\nMaintain the established spatial story and atmospheric warm sunset entering from the right, charcoal walls and furnishings, warm brass/gold accents, legible foreground silhouettes. Keep the scene bright enough to read the desk, chair and peripherals. Visibly crafted dramatic color separation with warm highlights and deep cool structural shadows.\n\nBrand contract: exactly ONE large full Legacy mirrored-lion emblem plus THE LEGACY words on the left wall in the current wall-sign position, entirely inside the frame with safe margins. Its bilateral lion silhouettes, central rise, open negative spaces and lettering must derive from Image 2 and become intentional pixel forms. Do not invent a different lion symbol. To keep this transformation clean and avoid duplicated approximate logos, intentionally replace ALL other small logos/brand words and tiny decorative text (monitor, mug, notebook, laptop, chair, shelf frame, trophy lettering, desk hub) with plain unmarked material or simple non-symbolic pixel highlights; retain the physical objects and their positions. This simplification of secondary branding is an expressly permitted change. No Allstate text or symbol. No new furniture or scene redesign.\n\nThe result should look like a complete expensive art-directed game environment, with pixel-art material treatment throughout. Output only the finished image.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_OFFICE_MASTER.jpg",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_LOGO_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

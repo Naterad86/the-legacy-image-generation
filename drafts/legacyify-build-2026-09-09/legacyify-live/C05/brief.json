@@ -1,0 +1,56 @@
+{
+  "attempt_id": "C05",
+  "created_before_generation_at_utc": "2026-09-09T12:51:34.237177+00:00",
+  "action": "Legacyify Character",
+  "rendering_profile": "ILLUSTRATED_CHARACTER",
+  "original_attachment_path": "C:\\Users\\galip\\AppData\\Local\\Temp\\codex-clipboard-2e424291-8bef-4df2-92c6-a19700323db6.png",
+  "inputs_in_tool_order": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\C05\\sources\\user-pose-original.png",
+      "sha256": "511033bb1d98443f6330b60f3a5b7c03fc91d8a557b418eb062a45eadf2b4a05",
+      "dimensions": [
+        408,
+        612
+      ],
+      "role": "target: pose and framing only"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "dimensions": [
+        1536,
+        1152
+      ],
+      "role": "identity: complete character, outfit and illustration"
+    }
+  ],
+  "source_state": "One front-facing human in a wide bent-knee stance, both clenched fists raised in a V. Portrait frame; white background; soft floor shadow; checked overshirt, white undershirt, blue jeans and brown shoes. No scene text or props. Attachment provenance beyond user supply is unknown.",
+  "consequential": [
+    "One recognizable canonical Legacy male, controlled solely by exact master",
+    "Both fists raised in V and wide bent-knee stance from target",
+    "Master build and black outfit; no human identity or wardrobe inheritance",
+    "Illustrated medium and blunt natural hand anatomy; no invented dark claws",
+    "One image call, one untouched raw output"
+  ],
+  "perceptually_important": [
+    "Complete full-body portrait composition with overhead whitespace and visible feet",
+    "Master face/mane relationships and tail",
+    "Coherent closed fists, elbows, knees and ground contact"
+  ],
+  "incidental_allowed_variation": [
+    "Fine mane and fur strands",
+    "Minor fabric folds and grounding shadow contour",
+    "Tail curve needed for coherent pose"
+  ],
+  "redesign_envelope": "Only pose, joint arrangement and framing are transferred from attachment. Keep master facial expression and anatomy. No wardrobe, species, style or environment redesign.",
+  "input_boundary": "Raised arms and stance are clear; the small clenched fists do not specify fine finger geometry. Master determines hand anatomy. Extreme overhead arm articulation is a new pose condition; exact facial geometry remains conditional.",
+  "branding": {
+    "requested_count": 0
+  },
+  "pre_call_budget": {
+    "used_percent": 38,
+    "remaining_percent": 62,
+    "refreshes_redeemed": 0
+  },
+  "frozen_prompt_file": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\C05\\prompt.txt"
+}

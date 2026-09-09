@@ -1,0 +1,41 @@
+{
+  "attempt_id": "C05",
+  "verdict": "conditional",
+  "assessor": "Separate Codex visual evaluator; not a blinded external human panel",
+  "summary": "Pose transfer, recognizable continuity, role isolation and visible anatomy pass. Canonical outfit fidelity is conditional because prompt compilation introduced a polo and explicit belt treatment absent from the visible master design.",
+  "checks": [
+    {
+      "criterion": "Raised-fist pose and wide bent-knee stance",
+      "result": "pass",
+      "evidence": "Both fists form the supplied broad overhead V, knees bend, feet spread and angle outward, and the full figure remains planted. Shoulder/elbow/wrist/knee connections are coherent."
+    },
+    {
+      "criterion": "Closed fists and blunt natural nails",
+      "result": "pass",
+      "evidence": "Rounded knuckles, coherent folded fingers/thumbs and understated tan/gold nails; no conspicuous dark claw, extra digit or malformed visible fist. Hidden fist interiors cannot be verified."
+    },
+    {
+      "criterion": "Pose-only source isolation",
+      "result": "pass",
+      "evidence": "Human face, hair, open-mouth expression, checked overshirt, white undershirt, blue jeans, brown shoes and slender body do not leak. Entire character remains an illustrated golden lion in dark clothing."
+    },
+    {
+      "criterion": "Canonical recognizability and illustration",
+      "result": "pass_with_fidelity_limits",
+      "evidence": "Recognizable male face, amber eyes, strong brows, pale muzzle/chin, layered mane, athletic build and single tail; eye/muzzle/facial-plane/mane contours are reconstructed. No exact likeness or proportion lock is established."
+    },
+    {
+      "criterion": "Canonical outfit jurisdiction",
+      "result": "fail",
+      "evidence": "Visible polo collar/button placket and prominent rectangular belt buckle depart from the master's visible simple shirt/waist design. Frozen prompt explicitly requested polo and belt despite the brief's no-wardrobe-redesign rule.",
+      "attribution": "Prompt compilation conflicted with canonical source authority; output followed the introduced instruction. Not solely image-model disobedience."
+    },
+    {
+      "criterion": "Portrait frame and presentation",
+      "result": "pass_with_fidelity_limits",
+      "evidence": "Complete 2:3 portrait, visible fists/feet/tail, white ground and contact shadow; figure occupies more frame and overhead whitespace is reduced relative to supplied pose. No unwanted text, mark, prop or panel."
+    }
+  ],
+  "boundary": "One fresh user-supplied pose request, whose attachment provenance beyond user supply is unknown. It supports readable overhead-fist pose transfer and strong role isolation, not exact canonical costume/face/framing or a reliability rate.",
+  "next_change": "For any separately authorized future attempt, remove the invented polo/buckle language and describe the exact visible master shirt and waist construction. Preserve C05 unchanged; this review requests no second generation."
+}

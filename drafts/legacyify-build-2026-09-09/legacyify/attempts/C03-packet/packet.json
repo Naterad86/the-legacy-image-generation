@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C03",
+  "action": "character",
+  "created_at": "2026-09-09T07:09:35+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_HUMAN_POSE.png",
+      "sha256": "590e972fe90e1d188b6207c90151ca0f36216ed2e6a8350f20d72d31fa20af29",
+      "bytes": 1603216,
+      "width": 1122,
+      "height": 1402,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "bytes": 210216,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.",
+  "preserve": [
+    "Human joint pose only; lion master controls all identity, proportions, wardrobe and illustration"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.\n",
+  "prompt_sha256": "51d48766072d916f971db670e925826adacde4783839f92fa682a84db6a1cbca",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_HUMAN_POSE.png",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

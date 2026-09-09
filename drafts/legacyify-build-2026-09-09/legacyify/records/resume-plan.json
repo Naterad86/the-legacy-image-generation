@@ -1,0 +1,26 @@
+{
+  "campaign_status": "complete",
+  "completed": [
+    "Three-action demo with Character C04, Scene S03, Together T01, plus all additional examples including exploratory two-character T03.",
+    "12 original image calls, exact prompt transport records, corrected 34-event ledger and ten separate-agent visual reviews.",
+    "Portable Codex skill and local provenance helper with twelve passing checks."
+  ],
+  "remaining_issues": [
+    "Exact face and mane geometry remain conditional.",
+    "Exact canonical logo geometry failed S01 and T01.",
+    "T02 did not demonstrate its requested new CGI conversion.",
+    "Fine scene geometry and requested figure sizing can drift.",
+    "Two-character integration has one exploratory example; fresh user photos and complex interactions remain untested."
+  ],
+  "next_step": "Do not resume generation automatically. When the user supplies fresh inputs and asks to continue, use workflow/legacyify-skill/SKILL.md to run C05 on a clear pose, S04 on a readable scene and T04 on an environment for one character. Make one explicitly recorded call per invocation, evaluate the raw output and disclose any new development revision.",
+  "budget": {
+    "used_percent_at_last_snapshot": 38,
+    "remaining_percent_at_last_snapshot": 62,
+    "snapshot_at_utc": "2026-09-09T11:51:37Z",
+    "refreshes_redeemed": 0,
+    "maximum_authorized_refreshes": 1,
+    "refreshed_allowance_used_percent": null,
+    "refreshed_allowance_hard_stop_remaining_percent": 85,
+    "note": "Check live account usage before any later authorized work; these are shared-account snapshots."
+  }
+}

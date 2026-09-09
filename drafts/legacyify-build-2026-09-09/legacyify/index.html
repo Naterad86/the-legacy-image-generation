@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Three Legacyify actions: character continuity, stylized scenes, and characters in scenes. Inspect the images first, then the workflow and complete development record.">
+  <title>Legacyify — The overnight demonstration</title>
+  <link rel="stylesheet" href="gallery.css">
+  <script src="gallery-data.js" defer></script>
+  <script src="gallery.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#demo">Skip to the images</a>
+  <header class="masthead">
+    <a class="wordmark" href="#demo" aria-label="Legacyify demo">Legacyify<span aria-hidden="true">.</span></a>
+    <div class="masthead-meta"><span class="edition">THE LEGACY / DEVELOPMENT DEMO</span><span id="campaign-date"></span></div>
+  </header>
+  <main>
+    <section class="demo-shell" id="demo" aria-label="Legacyify image demonstration">
+      <div class="intro-line"><p id="gallery-subtitle">Three actions. The images come first.</p><a href="#fresh-inputs">Use your own image <span aria-hidden="true">↗</span></a></div>
+      <div class="action-tabs" id="action-tabs" role="tablist" aria-label="Legacyify action"></div>
+      <div class="action-panel" id="action-panel" role="tabpanel" tabindex="0">
+        <div class="action-heading"><div><p class="eyebrow" id="action-kicker"></p><h1 id="action-headline"></h1></div><span class="status" id="action-status"></span></div>
+        <p class="action-summary" id="action-summary"></p>
+        <div class="boundary"><span class="boundary-label">The boundary</span><p id="action-boundary"></p></div>
+        <div class="viewer-toolbar"><div class="example-title"><span id="example-count"></span><h2 id="example-title"></h2></div><div class="view-switch" role="group" aria-label="Image view"><button type="button" data-view="output" aria-pressed="true">Result</button><button type="button" data-view="source" aria-pressed="false">Source</button><button type="button" data-view="compare" aria-pressed="false">Compare</button></div></div>
+        <div class="image-stage" id="image-stage"></div>
+        <div class="image-caption"><p id="example-note"></p><a id="open-image" href="#" target="_blank" rel="noopener">Open full image <span aria-hidden="true">↗</span></a></div>
+        <div class="feature-row" id="example-features"></div>
+        <div class="extra-sources" id="extra-sources" hidden></div>
+        <div class="example-rail" id="example-rail" aria-label="More examples of this action"></div>
+      </div>
+    </section>
+    <section class="fresh-inputs" id="fresh-inputs" aria-labelledby="fresh-title">
+      <div class="fresh-description"><p class="eyebrow">YOUR NEXT IMAGE</p><h2 id="fresh-title">Take the action back to Codex.</h2><p>Attach your image in the Legacy task, then paste this request. Codex inspects the image and uses the approved references before generating.</p><p class="local-note">This gallery is a local viewer. Image generation happens in Codex.</p></div>
+      <div class="command-card"><div class="command-header"><span id="command-name"></span><button type="button" id="copy-command">Copy request <span aria-hidden="true">↗</span></button></div><pre id="action-command" tabindex="0"></pre><p id="copy-feedback" class="copy-feedback" role="status" aria-live="polite"></p></div>
+    </section>
+    <details class="walkthrough" id="walkthrough">
+      <summary><span><span class="eyebrow">AFTER THE DEMO</span><span class="walkthrough-title">The workflow, boundaries & every attempt</span></span><span class="disclosure-icon" aria-hidden="true">+</span></summary>
+      <div class="walkthrough-content"><p id="campaign-note"></p><div class="workflow-steps" id="workflow-steps"></div><section class="attempts-section" id="attempts-section" aria-labelledby="attempts-title"><h2 id="attempts-title">Complete development record</h2><p class="record-context">Selected images above are demonstrations. The record below includes the other attempts and their outcomes.</p><div class="table-scroll"><table><thead><tr><th scope="col">Attempt</th><th scope="col">Action</th><th scope="col">Outcome</th><th scope="col">Finding</th><th scope="col">Record</th></tr></thead><tbody id="attempts-body"></tbody></table></div></section><div class="record-links" id="record-links"></div><p class="budget-note" id="budget-note"></p></div>
+    </details>
+  </main>
+  <footer><span>THE LEGACY</span><span>Images first. Evidence within reach.</span></footer>
+  <div id="announcement" class="visually-hidden" aria-live="polite"></div>
+  <noscript><div class="noscript">Enable JavaScript to switch between the three actions. The images and records are also available in this folder.</div></noscript>
+</body>
+</html>

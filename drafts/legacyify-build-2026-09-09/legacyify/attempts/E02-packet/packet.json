@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "E02",
+  "action": "source_setup",
+  "created_at": "2026-09-09T07:07:36+00:00",
+  "inputs": [],
+  "parent_attempts": [],
+  "request": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams.",
+  "preserve": [],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A newly generated synthetic development source, never a real-world or held-out test input.",
+  "review_checklist": [
+    "Requested source scene",
+    "Legibility of scene structure",
+    "Required objects and relationships",
+    "Synthetic source label in campaign records"
+  ],
+  "prompt": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams.\n",
+  "prompt_sha256": "d0e52d8e9c4dde57bdb83247d728d042536d199f42ee6d1c15ca47ce1e944fa9",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams.\n"
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

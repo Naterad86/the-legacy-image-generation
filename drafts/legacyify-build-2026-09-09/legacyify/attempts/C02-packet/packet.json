@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C02",
+  "action": "character",
+  "created_at": "2026-09-09T07:01:34+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "bytes": 225506,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.",
+  "preserve": [
+    "Front bust facial geometry, eye shape, muzzle width, hair volume, body scale and outfit"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.\n",
+  "prompt_sha256": "dda5615644d6c0389187a2720068ad03200e093f433fa849132f6e48f3c5ab91",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "S02",
+  "action": "scene",
+  "created_at": "2026-09-09T06:58:13+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png",
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912",
+      "bytes": 2592840,
+      "width": 1672,
+      "height": 941,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: style-transfer. Output one standalone finished 16:9 image of the attached alpine terrace. The attached image is the sole source for scene identity and geometry. Transform this exact view into premium handcrafted pixel art with Legacy visual discipline. This is a STYLE-ONLY action: no emblem, lettering, logos, new characters or objects.\n\nScene invariants, priority ordered: identical camera/framing and mountain skyline; same visitor pavilion at left with low roof, blank pale stone wall, glass entrance and timber strip; same one long bench at right, one lamp at far right, two stretches of guardrail and central descending walkway; lake with the same one small red canoe near right shore; same broad forest/lake/sky arrangement. Keep every important relationship and scale. Preserve clear late-afternoon weather and sunlight from the upper right. Do not move the sun into the picture or change the time of day.\n\nNative medium: authentic deliberate pixel art, like a handcrafted 480x270 adventure-game environment enlarged cleanly: large crisp pixel clusters and stepped contours, coherent pixel scale across architecture/forest/sky/water, disciplined limited palette, selective ordered dithering. No remaining photographic microtexture, smooth 3D surfaces, airbrush gradients, blur filter or pixelation laid on top of a photograph. Re-solve forms as intentional pixel clusters while holding the spatial story.\n\nLegacy direction at this medium: clear powerful silhouettes, premium crafted finish, warm highlights against cool/deep structural values, restrained golden-orange sunlight and accents, rich charcoal shadows where physically justified. Keep natural blue-green lake and forest colors readable. Do not turn the whole landscape black/gold, import office furniture, invent a palace, darken it to nighttime or flatten atmospheric depth. Materials read at pixel scale: stone blocks, timber, glass, foliage, ripples and distant rock. Incidental leaf shapes, tiny rock texture and small cloud wisps may simplify, but recognizable mountain profile, visible canoe count/color and major scene facts must survive. Output only the final art.",
+  "preserve": [
+    "Camera, mountain skyline, pavilion, bench, lamp, rail gap, canoe, late-afternoon light"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A clearly structured scene; fine text, crowds, and intricate geometry need separate review.",
+  "review_checklist": [
+    "Camera and major geometry",
+    "Object presence and placement",
+    "Weather and scene state",
+    "Luminance and lighting",
+    "Legacy visual treatment",
+    "Secondary details"
+  ],
+  "prompt": "Use case: style-transfer. Output one standalone finished 16:9 image of the attached alpine terrace. The attached image is the sole source for scene identity and geometry. Transform this exact view into premium handcrafted pixel art with Legacy visual discipline. This is a STYLE-ONLY action: no emblem, lettering, logos, new characters or objects.\n\nScene invariants, priority ordered: identical camera/framing and mountain skyline; same visitor pavilion at left with low roof, blank pale stone wall, glass entrance and timber strip; same one long bench at right, one lamp at far right, two stretches of guardrail and central descending walkway; lake with the same one small red canoe near right shore; same broad forest/lake/sky arrangement. Keep every important relationship and scale. Preserve clear late-afternoon weather and sunlight from the upper right. Do not move the sun into the picture or change the time of day.\n\nNative medium: authentic deliberate pixel art, like a handcrafted 480x270 adventure-game environment enlarged cleanly: large crisp pixel clusters and stepped contours, coherent pixel scale across architecture/forest/sky/water, disciplined limited palette, selective ordered dithering. No remaining photographic microtexture, smooth 3D surfaces, airbrush gradients, blur filter or pixelation laid on top of a photograph. Re-solve forms as intentional pixel clusters while holding the spatial story.\n\nLegacy direction at this medium: clear powerful silhouettes, premium crafted finish, warm highlights against cool/deep structural values, restrained golden-orange sunlight and accents, rich charcoal shadows where physically justified. Keep natural blue-green lake and forest colors readable. Do not turn the whole landscape black/gold, import office furniture, invent a palace, darken it to nighttime or flatten atmospheric depth. Materials read at pixel scale: stone blocks, timber, glass, foliage, ripples and distant rock. Incidental leaf shapes, tiny rock texture and small cloud wisps may simplify, but recognizable mountain profile, visible canoe count/color and major scene facts must survive. Output only the final art.\n",
+  "prompt_sha256": "7b7faf956d090da364011e44b07fd8391770a05467bbedc2c125f3ed27050ca6",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer. Output one standalone finished 16:9 image of the attached alpine terrace. The attached image is the sole source for scene identity and geometry. Transform this exact view into premium handcrafted pixel art with Legacy visual discipline. This is a STYLE-ONLY action: no emblem, lettering, logos, new characters or objects.\n\nScene invariants, priority ordered: identical camera/framing and mountain skyline; same visitor pavilion at left with low roof, blank pale stone wall, glass entrance and timber strip; same one long bench at right, one lamp at far right, two stretches of guardrail and central descending walkway; lake with the same one small red canoe near right shore; same broad forest/lake/sky arrangement. Keep every important relationship and scale. Preserve clear late-afternoon weather and sunlight from the upper right. Do not move the sun into the picture or change the time of day.\n\nNative medium: authentic deliberate pixel art, like a handcrafted 480x270 adventure-game environment enlarged cleanly: large crisp pixel clusters and stepped contours, coherent pixel scale across architecture/forest/sky/water, disciplined limited palette, selective ordered dithering. No remaining photographic microtexture, smooth 3D surfaces, airbrush gradients, blur filter or pixelation laid on top of a photograph. Re-solve forms as intentional pixel clusters while holding the spatial story.\n\nLegacy direction at this medium: clear powerful silhouettes, premium crafted finish, warm highlights against cool/deep structural values, restrained golden-orange sunlight and accents, rich charcoal shadows where physically justified. Keep natural blue-green lake and forest colors readable. Do not turn the whole landscape black/gold, import office furniture, invent a palace, darken it to nighttime or flatten atmospheric depth. Materials read at pixel scale: stone blocks, timber, glass, foliage, ripples and distant rock. Incidental leaf shapes, tiny rock texture and small cloud wisps may simplify, but recognizable mountain profile, visible canoe count/color and major scene facts must survive. Output only the final art.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first, review the prompt, log started, then call the built-in image tool. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

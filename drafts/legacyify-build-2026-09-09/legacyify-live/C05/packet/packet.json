@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C05",
+  "action": "character",
+  "created_at": "2026-09-09T12:51:34+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\C05\\sources\\user-pose-original.png",
+      "sha256": "511033bb1d98443f6330b60f3a5b7c03fc91d8a557b418eb062a45eadf2b4a05",
+      "bytes": 122960,
+      "width": 408,
+      "height": 612,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "bytes": 210216,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Create one finished full-body illustration of the exact canonical Legacy male character from Image 2, using Image 1 only for body pose, framing and plain white studio staging.\n\nReference authority: Image 1 is the supplied human pose. Borrow only its raised-arm joint arrangement, closed-fist gesture, wide bent-knee stance and portrait composition. Do not inherit the human face, expression, skin, hair, slender proportions, checked overshirt, white undershirt, blue jeans or brown shoes. Image 2 alone controls character identity, facial construction, anatomy, proportions, outfit and illustrated rendering. Its multiple views depict ONE character; draw him once.\n\nRetain the male master's broad muscular adult build, shoulder-to-waist relationship, golden lion fur, distinctive layered golden mane, ears, amber eyes and strong brows, cream muzzle/chin, black nose, confident closed-mouth expression, tail with golden tuft, fitted black short-sleeve polo, black trousers, belt and black lace-up footwear. Match the master's commercial mascot illustration, confident contour work, sculpted controlled shading and warm highlights. Keep recognizable identity through the changed pose; do not redesign him as a generic lion, a human wearing a lion mask, a photograph or a 3D figure.\n\nPose and frame: both arms lifted diagonally overhead in a broad victory V, elbows slightly bent, both hands closed into anatomically coherent fists. Legs spread, knees bent, feet planted and angled outward as in Image 1. Transfer these joint relationships onto the master's powerful proportions. Preserve the portrait 2:3 framing, generous white space above the fists and small white margin below the feet. Show the entire character, both fists, both shoes and tail without cropping; keep the tail naturally visible without competing with the gesture.\n\nHands retain the master's golden-furred, rounded knuckles and blunt natural fingertips/nails. On closed fists, show only nails that would naturally be visible. No invented dark nails, pointed claws, talons or extra digits. Use a clean white background and a subtle grounding shadow. No added props, people, typography, labels, logos, border or reference-sheet panels.",
+  "preserve": [
+    "Canonical male identity, build, black outfit, illustration and blunt nails; target only pose/framing",
+    "Two raised closed fists, broad V arms, wide bent-knee stance and full-body white portrait frame"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Create one finished full-body illustration of the exact canonical Legacy male character from Image 2, using Image 1 only for body pose, framing and plain white studio staging.\n\nReference authority: Image 1 is the supplied human pose. Borrow only its raised-arm joint arrangement, closed-fist gesture, wide bent-knee stance and portrait composition. Do not inherit the human face, expression, skin, hair, slender proportions, checked overshirt, white undershirt, blue jeans or brown shoes. Image 2 alone controls character identity, facial construction, anatomy, proportions, outfit and illustrated rendering. Its multiple views depict ONE character; draw him once.\n\nRetain the male master's broad muscular adult build, shoulder-to-waist relationship, golden lion fur, distinctive layered golden mane, ears, amber eyes and strong brows, cream muzzle/chin, black nose, confident closed-mouth expression, tail with golden tuft, fitted black short-sleeve polo, black trousers, belt and black lace-up footwear. Match the master's commercial mascot illustration, confident contour work, sculpted controlled shading and warm highlights. Keep recognizable identity through the changed pose; do not redesign him as a generic lion, a human wearing a lion mask, a photograph or a 3D figure.\n\nPose and frame: both arms lifted diagonally overhead in a broad victory V, elbows slightly bent, both hands closed into anatomically coherent fists. Legs spread, knees bent, feet planted and angled outward as in Image 1. Transfer these joint relationships onto the master's powerful proportions. Preserve the portrait 2:3 framing, generous white space above the fists and small white margin below the feet. Show the entire character, both fists, both shoes and tail without cropping; keep the tail naturally visible without competing with the gesture.\n\nHands retain the master's golden-furred, rounded knuckles and blunt natural fingertips/nails. On closed fists, show only nails that would naturally be visible. No invented dark nails, pointed claws, talons or extra digits. Use a clean white background and a subtle grounding shadow. No added props, people, typography, labels, logos, border or reference-sheet panels.\n",
+  "prompt_sha256": "3c83840cc7cb15cccdc362ca795bd41d3bc8911d91269b25c64996bd475c5921",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Create one finished full-body illustration of the exact canonical Legacy male character from Image 2, using Image 1 only for body pose, framing and plain white studio staging.\n\nReference authority: Image 1 is the supplied human pose. Borrow only its raised-arm joint arrangement, closed-fist gesture, wide bent-knee stance and portrait composition. Do not inherit the human face, expression, skin, hair, slender proportions, checked overshirt, white undershirt, blue jeans or brown shoes. Image 2 alone controls character identity, facial construction, anatomy, proportions, outfit and illustrated rendering. Its multiple views depict ONE character; draw him once.\n\nRetain the male master's broad muscular adult build, shoulder-to-waist relationship, golden lion fur, distinctive layered golden mane, ears, amber eyes and strong brows, cream muzzle/chin, black nose, confident closed-mouth expression, tail with golden tuft, fitted black short-sleeve polo, black trousers, belt and black lace-up footwear. Match the master's commercial mascot illustration, confident contour work, sculpted controlled shading and warm highlights. Keep recognizable identity through the changed pose; do not redesign him as a generic lion, a human wearing a lion mask, a photograph or a 3D figure.\n\nPose and frame: both arms lifted diagonally overhead in a broad victory V, elbows slightly bent, both hands closed into anatomically coherent fists. Legs spread, knees bent, feet planted and angled outward as in Image 1. Transfer these joint relationships onto the master's powerful proportions. Preserve the portrait 2:3 framing, generous white space above the fists and small white margin below the feet. Show the entire character, both fists, both shoes and tail without cropping; keep the tail naturally visible without competing with the gesture.\n\nHands retain the master's golden-furred, rounded knuckles and blunt natural fingertips/nails. On closed fists, show only nails that would naturally be visible. No invented dark nails, pointed claws, talons or extra digits. Use a clean white background and a subtle grounding shadow. No added props, people, typography, labels, logos, border or reference-sheet panels.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\C05\\sources\\user-pose-original.png",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

@@ -1,0 +1,58 @@
+{
+  "attempt_id": "T04",
+  "action": "Legacyify Together",
+  "created_before_generation_at_utc": "2026-09-09T14:11:54.354570+00:00",
+  "profile": "ILLUSTRATED_CHARACTER_OVER_SOURCE",
+  "original_attachment_path": "C:\\Users\\galip\\AppData\\Local\\Temp\\codex-clipboard-987c2b55-8cb8-414f-84d0-309c1684db20.png",
+  "inputs_in_tool_order": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\T04\\sources\\user-environment-original.png",
+      "sha256": "7ddf1a25d60242acdbf5611ba163e7bb0c273f07092a1a94ea91446993a8d3c3",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "role": "target: supplied environment and existing contents"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "dimensions": [
+        1536,
+        1152
+      ],
+      "role": "identity: canonical female and illustrated rendering"
+    }
+  ],
+  "environment_medium": "Supplied realistic rendered office appearance, preserved; no new conversion requested",
+  "character_medium": "Canonical female commercial mascot illustration",
+  "source_state": "One vacant central black chair behind a foreground wooden desk. Monitor/webcam at right; window with sunset at upper right; warm existing wall and shelf lighting; wall signs, plants, books and globe. Desk has one shield award, one mug, one notebook with pen, one closed laptop, one headset and a small front dock. Dense existing Legacy and Allstate branding/text remains part of supplied environment, with no added marks requested. Attachment origin beyond user supply is unknown.",
+  "placement": "Seat one female naturally in the existing central chair. Face and upper torso clearly visible. Hips on seat and back supported; head near/slightly above chair-back top at normal adult scale; shoulders within chair bolsters. Forearms relaxed on armrests. Existing desk and props occlude lower body and any appropriate hand portions; no forced visible feet or tail through desk.",
+  "consequential": [
+    "Exactly one recognizable canonical female with master proportions, plain black shirt and illustrated rendering",
+    "Existing chair supports body naturally; correct desk/prop occlusion and no clipping",
+    "Preserve supplied environment medium, camera, framing and major contents",
+    "Match window-right warm light and existing room light, local contact shadows and perspective",
+    "No added branding, props or extra people",
+    "One request and one untouched raw output"
+  ],
+  "perceptually_important": [
+    "Master face, golden hair, ears, eye/muzzle relationships and restrained blunt hands",
+    "Visible collar remains the simple rounded neckline of master, no invented polo/placket/buckle",
+    "Chair and monitor stay distinct; avoid hiding face behind monitor",
+    "Existing desktop objects keep their positions and counts",
+    "Unoccluded existing text/emblems retain their source appearance"
+  ],
+  "incidental_allowed_variation": [
+    "Fine hair strands and shirt folds",
+    "Local light tint/contact shadows caused by added character",
+    "Existing background regions necessarily occluded by seated character"
+  ],
+  "input_boundary": "Seated integration with desk occlusion is harder than open-floor placement. Visible upper body and support/contact can be assessed; hidden hips/legs/feet cannot be directly verified. Existing small text and emblem fidelity can drift.",
+  "branding": {
+    "new_mark_count": 0,
+    "existing_marks_policy": "Preserve supplied marks and placements, with legitimate character occlusion allowed. Do not replace them using a different logo source."
+  },
+  "redesign_envelope": "Add character plus physically necessary local occlusion/contact/light interaction only. No office redesign, camera movement, scene stylization, new logo or character wardrobe redesign.",
+  "frozen_prompt_file": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\T04\\prompt.txt"
+}

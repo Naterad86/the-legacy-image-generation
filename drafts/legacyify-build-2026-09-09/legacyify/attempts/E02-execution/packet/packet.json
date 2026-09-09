@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "E02",
+  "action": "source_setup",
+  "created_at": "2026-09-09T11:49:41+00:00",
+  "inputs": [],
+  "parent_attempts": [],
+  "request": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams.",
+  "preserve": [],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A newly generated synthetic development source, never a real-world or held-out test input.",
+  "review_checklist": [
+    "Requested source scene",
+    "Legibility of scene structure",
+    "Required objects and relationships",
+    "Synthetic source label in campaign records"
+  ],
+  "prompt": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams.",
+  "prompt_sha256": "ee2ae1761cdb0fdf14898ff18f167bfb2a999fecde695adeb83e16e794d2802e",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Generate one full-body editorial studio photograph of a fictional adult human male presenter, age about 35, standing before a plain light-gray seamless background. 4:5 portrait. He wears a simple light-blue collared shirt with sleeves rolled once, dark gray straight trousers and unbranded low-profile brown shoes. Natural average athletic build, short brown hair, clean-shaven. Pose is especially clear: body at a slight three-quarter angle, face toward the camera with a calm neutral expression; right arm extended diagonally toward viewer-left with palm open upward at lower-chest height, left hand resting on the left hip; feet comfortably apart, both shoes fully visible. The exact pose and silhouette should be easy to borrow as a drawing reference. Soft neutral studio light, realistic hand anatomy, no props, text, logos or extra people. Leave comfortable margin around the full figure. This is a synthetic development pose reference, not a portrait of a real identifiable person. Output only the photograph, no labels or diagrams."
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 8,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 8
+    },
+    "actual_tool_arguments_sha256": "c2ac600025ecc33abda259fa05b5e8fc808dd65327e6e70395ce56fad04b27e7",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\E02-packet\\packet.json",
+      "sha256": "a9ae9a8f8ac0eb82e9e38cbdf4875cbc2912979af6d6506998998c8f7853eebf"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\E02-prompt.txt",
+      "sha256": "d0e52d8e9c4dde57bdb83247d728d042536d199f42ee6d1c15ca47ce1e944fa9",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-bcd3dd9b-5f41-4c71-9fa7-6caf2473ccda.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "590e972fe90e1d188b6207c90151ca0f36216ed2e6a8350f20d72d31fa20af29"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-bcd3dd9b-5f41-4c71-9fa7-6caf2473ccda.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": true
+  }
+}

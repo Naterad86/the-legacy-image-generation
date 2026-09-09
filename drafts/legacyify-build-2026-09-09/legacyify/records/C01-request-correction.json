@@ -1,0 +1,11 @@
+{
+  "attempt_id": "C01",
+  "corrects_file": "../attempts/C01-request.json",
+  "field": "requested_at_utc",
+  "withdrawn_value": "2026-09-09T06:54:00Z",
+  "corrected_value": null,
+  "reason": "The original hand-authored timestamp was a preset and is inconsistent with the actual call order. It is not evidence of execution time. The exact start time is unavailable in the preserved transport capture.",
+  "execution_order": 1,
+  "execution_order_evidence": "ACTUAL_TOOL_CALLS.json",
+  "original_record_preserved": true
+}
