@@ -1,0 +1,11 @@
+Legacyify workflow helper verification
+2026-09-09
+Runtime: bundled Python; Pillow 12.3.0
+Command: python test_legacyify.py
+Result: 12 tests passed in 0.786 seconds.
+
+Verified: image-source bytes remain unchanged; exact prompt import; source/output lineage; state transitions and resumability; corrupt image refusal; source/output mutation detection; hash-chain tampering detection; packet pinning; writer-lock refusal; source_setup zero-reference arguments and lifecycle; unchanged reference requirements for Character/Scene/Together.
+Scope: local helper behavior only. No image generation calls, API calls, visual quality claims, or production reliability qualification.
+
+Portable skill: legacyify-skill/SKILL.md
+The bundled skill-creator quick_validate.py could not run because its runtime lacks PyYAML. No package was installed. A local check passed for this skill's simple two-field frontmatter, naming/length rules, absence of scaffold placeholders, and existence of the linked helper and README. Instruction review confirmed source authority, pre-generation property classification, one accepted request/one raw output, no hidden retries/API fallback, fresh-image provenance disclosure, and demo-first delivery.

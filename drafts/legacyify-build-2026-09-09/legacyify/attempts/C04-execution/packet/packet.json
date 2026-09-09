@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C04",
+  "action": "character",
+  "created_at": "2026-09-09T11:49:42+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_HUMAN_POSE.png",
+      "sha256": "590e972fe90e1d188b6207c90151ca0f36216ed2e6a8350f20d72d31fa20af29",
+      "bytes": 1603216,
+      "width": 1122,
+      "height": 1402,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "bytes": 210216,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    }
+  ],
+  "parent_attempts": [
+    "C03"
+  ],
+  "request": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.\n\nCritical canonical hand detail: match the character master’s fingers, with rounded BLUNT fingertips and small understated golden/tan natural nails. NO BLACK FINGERNAILS, NO CLAWS, NO POINTED NAIL TIPS. The hand on the hip and the open palm both have ordinary master-matched fingers, not animal paws or sharpened talons. Keep the exact source gesture. This hand detail is a hard identity constraint.",
+  "preserve": [
+    "Source-role isolation, canonical lion identity, blunt master fingertips with no added dark claws"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.\n\nCritical canonical hand detail: match the character master’s fingers, with rounded BLUNT fingertips and small understated golden/tan natural nails. NO BLACK FINGERNAILS, NO CLAWS, NO POINTED NAIL TIPS. The hand on the hip and the open palm both have ordinary master-matched fingers, not animal paws or sharpened talons. Keep the exact source gesture. This hand detail is a hard identity constraint.",
+  "prompt_sha256": "354b398ad17e712e47ce374d0379e971979ccc6159d3fcfaaa669697e99402ba",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: identity-preserve with pose transfer. Output ONE complete standalone 4:5 portrait illustration, not a reference sheet, side-by-side comparison or contact sheet.\n\nIMAGE 1 is a human POSE AND FRAMING REFERENCE ONLY. Borrow its articulated stance: three-quarter torso, face toward viewer, right arm open palm toward viewer-left, left hand resting on hip, feet apart. It does NOT control identity, anatomy proportions, skin, face, hair, clothing, footwear or photographic rendering.\nIMAGE 2 is the SOLE canonical Legacy MALE lion identity and illustrated-rendering authority. All of its views show one character. Replace the human completely with that exact lion, head and body together. Identity outranks the human silhouette: use the lion's athletic shoulder/arm/torso proportions and head/body scale while adapting the same joint pose.\n\nKeep the lion's master-specific stern amber almond eyes and brows, broad but not enlarged pale feline muzzle and whisker pads, dark triangular nose, angular cheek structure, layered swept-back golden-brown mane tapering onto the chest, tawny arms, and one anatomically attached tufted golden tail. Preserve the fitted plain black short-sleeve shirt, black trousers and black sneakers from the lion master. Do not inherit the human's light-blue collared shirt, brown shoes, face, hair, jaw or narrower build. No generic lion substitution, rounded large eyes, mane inflation, muscle inflation, extra accessories or symbols.\n\nUse the master’s clean semi-realistic illustrated mascot language: confident contour lines, soft cel shading, subtle form gradients, readable fur planes. The entire character must be illustrated consistently, not a lion head pasted onto a photographic human body. Both hands have clear natural anatomy; both shoes and tail are fully visible, no crop. Match the input portrait's simple light studio staging and general figure placement with a subtle ground shadow. Do not reproduce human features, add text, brand marks, extra characters, props or panels. Output only the finished canonical lion performing the supplied pose.\n\nCritical canonical hand detail: match the character master’s fingers, with rounded BLUNT fingertips and small understated golden/tan natural nails. NO BLACK FINGERNAILS, NO CLAWS, NO POINTED NAIL TIPS. The hand on the hip and the open palm both have ordinary master-matched fingers, not animal paws or sharpened talons. Keep the exact source gesture. This hand detail is a hard identity constraint.",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_HUMAN_POSE.png",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 12,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 12
+    },
+    "actual_tool_arguments_sha256": "05ac078919814cb08e66e7d792f13fbffd59a07e601a383af9c2a97128d344ee",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C04-packet\\packet.json",
+      "sha256": "026ec6b9923a54b98be58249782bf647fcdc036b68750c9595882054ed7d4fdb"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C04-prompt.txt",
+      "sha256": "b08db2ea39d83d7743f347868d8f648f73b25ba14d218e09adfa8f06b480b715",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-130de6a8-489e-4aef-af18-deca9c640199.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "2f106666827adb676c0de1c7264ae5f40578dadafd12f8698c571f8fb678974d"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-130de6a8-489e-4aef-af18-deca9c640199.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": false
+  }
+}

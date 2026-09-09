@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "T04",
+  "action": "together",
+  "created_at": "2026-09-09T14:11:54+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\T04\\sources\\user-environment-original.png",
+      "sha256": "7ddf1a25d60242acdbf5611ba163e7bb0c273f07092a1a94ea91446993a8d3c3",
+      "bytes": 1667196,
+      "width": 1536,
+      "height": 864,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "bytes": 225506,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Add exactly one canonical Legacy female character from Image 2 to the existing central office chair in Image 1. Image 1 alone controls the environment, realistic rendered medium, camera, composition, furniture, props, existing text/marks and lighting. Image 2 alone controls the complete female character identity, proportions, outfit and illustrated rendering. Its multiple views depict one character, not a group.\n\nKeep her recognizable narrow lioness muzzle, cream muzzle/chin, small black nose, amber eyes, arched brows, rounded ears and distinctive flowing layered golden hair as shown in the master. Preserve her athletic female build and master arm proportions. Retain the fitted plain black short-sleeve shirt with its simple shallow rounded neckline and black trousers. No polo collar, button placket, new buckle, accessories, added logos, male mane or male facial anatomy. Keep her face, hair, anatomy and clothing in the master's polished commercial mascot illustration with controlled contour work and sculpted shading. Do not make the character photographic or 3D.\n\nSeat her naturally at normal adult scale inside the existing chair, centered between its side bolsters. Her hips rest on the cushion and her back is supported; she is not perched on the desk. Her head sits near or slightly above the chair-back top, with her face and upper torso clearly visible left of the monitor. Face gently toward the camera with the master's composed closed-mouth expression. Relax her forearms on the existing armrests, shoulders settled and elbows naturally bent. Keep master-matched rounded hands and blunt natural nails. Let the desk, mug and other foreground objects naturally occlude portions of her hands and lower body; do not force both hands, feet or tail into view. Tail and legs may remain naturally hidden behind the desk. No grasping, moving or adding props.\n\nMatch the source camera perspective and chair scale. Use the existing sunset window at image right for warm edge light on her right-side hair/shoulder and the existing room lights for subtle warm fill. Add believable local occlusion and contact shadows where body and arms meet the chair, while keeping the character visibly illustrated. Preserve the office's original material treatment and light direction; do not convert the room into illustration, pixel art or a different render style.\n\nRetain the original 16:9 frame and all unoccluded scene contents: chair, monitor/webcam, headset, mug, shield award, notebook/pen, closed laptop, dock, plants, shelves, books, globe, wall signs and window. Preserve their locations, shapes, visible counts and existing printed or illuminated markings exactly as depicted. Do not replace, correct, duplicate, remove or introduce branding. Only the seated character's natural occlusion and physically necessary local shadows may change the environment. Return one finished scene, without panels, captions or borders.",
+  "preserve": [
+    "Supplied environment medium, camera, major geometry, contents, text and existing branding without new marks",
+    "Canonical female identity, proportions, plain black master outfit and illustrated medium"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One canonical character in a relatively simple target scene; this action is experimental until tested on fresh inputs.",
+  "review_checklist": [
+    "Character identity",
+    "Scene geometry and contents",
+    "Requested placement and action",
+    "Scale, contact, and perspective",
+    "Lighting integration",
+    "Legacy visual treatment"
+  ],
+  "prompt": "Add exactly one canonical Legacy female character from Image 2 to the existing central office chair in Image 1. Image 1 alone controls the environment, realistic rendered medium, camera, composition, furniture, props, existing text/marks and lighting. Image 2 alone controls the complete female character identity, proportions, outfit and illustrated rendering. Its multiple views depict one character, not a group.\n\nKeep her recognizable narrow lioness muzzle, cream muzzle/chin, small black nose, amber eyes, arched brows, rounded ears and distinctive flowing layered golden hair as shown in the master. Preserve her athletic female build and master arm proportions. Retain the fitted plain black short-sleeve shirt with its simple shallow rounded neckline and black trousers. No polo collar, button placket, new buckle, accessories, added logos, male mane or male facial anatomy. Keep her face, hair, anatomy and clothing in the master's polished commercial mascot illustration with controlled contour work and sculpted shading. Do not make the character photographic or 3D.\n\nSeat her naturally at normal adult scale inside the existing chair, centered between its side bolsters. Her hips rest on the cushion and her back is supported; she is not perched on the desk. Her head sits near or slightly above the chair-back top, with her face and upper torso clearly visible left of the monitor. Face gently toward the camera with the master's composed closed-mouth expression. Relax her forearms on the existing armrests, shoulders settled and elbows naturally bent. Keep master-matched rounded hands and blunt natural nails. Let the desk, mug and other foreground objects naturally occlude portions of her hands and lower body; do not force both hands, feet or tail into view. Tail and legs may remain naturally hidden behind the desk. No grasping, moving or adding props.\n\nMatch the source camera perspective and chair scale. Use the existing sunset window at image right for warm edge light on her right-side hair/shoulder and the existing room lights for subtle warm fill. Add believable local occlusion and contact shadows where body and arms meet the chair, while keeping the character visibly illustrated. Preserve the office's original material treatment and light direction; do not convert the room into illustration, pixel art or a different render style.\n\nRetain the original 16:9 frame and all unoccluded scene contents: chair, monitor/webcam, headset, mug, shield award, notebook/pen, closed laptop, dock, plants, shelves, books, globe, wall signs and window. Preserve their locations, shapes, visible counts and existing printed or illuminated markings exactly as depicted. Do not replace, correct, duplicate, remove or introduce branding. Only the seated character's natural occlusion and physically necessary local shadows may change the environment. Return one finished scene, without panels, captions or borders.\n",
+  "prompt_sha256": "8e646f1fc46cf402d3ef07593f7e368883b29f33a5c191f1bf35b294ffbd9d9d",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Add exactly one canonical Legacy female character from Image 2 to the existing central office chair in Image 1. Image 1 alone controls the environment, realistic rendered medium, camera, composition, furniture, props, existing text/marks and lighting. Image 2 alone controls the complete female character identity, proportions, outfit and illustrated rendering. Its multiple views depict one character, not a group.\n\nKeep her recognizable narrow lioness muzzle, cream muzzle/chin, small black nose, amber eyes, arched brows, rounded ears and distinctive flowing layered golden hair as shown in the master. Preserve her athletic female build and master arm proportions. Retain the fitted plain black short-sleeve shirt with its simple shallow rounded neckline and black trousers. No polo collar, button placket, new buckle, accessories, added logos, male mane or male facial anatomy. Keep her face, hair, anatomy and clothing in the master's polished commercial mascot illustration with controlled contour work and sculpted shading. Do not make the character photographic or 3D.\n\nSeat her naturally at normal adult scale inside the existing chair, centered between its side bolsters. Her hips rest on the cushion and her back is supported; she is not perched on the desk. Her head sits near or slightly above the chair-back top, with her face and upper torso clearly visible left of the monitor. Face gently toward the camera with the master's composed closed-mouth expression. Relax her forearms on the existing armrests, shoulders settled and elbows naturally bent. Keep master-matched rounded hands and blunt natural nails. Let the desk, mug and other foreground objects naturally occlude portions of her hands and lower body; do not force both hands, feet or tail into view. Tail and legs may remain naturally hidden behind the desk. No grasping, moving or adding props.\n\nMatch the source camera perspective and chair scale. Use the existing sunset window at image right for warm edge light on her right-side hair/shoulder and the existing room lights for subtle warm fill. Add believable local occlusion and contact shadows where body and arms meet the chair, while keeping the character visibly illustrated. Preserve the office's original material treatment and light direction; do not convert the room into illustration, pixel art or a different render style.\n\nRetain the original 16:9 frame and all unoccluded scene contents: chair, monitor/webcam, headset, mug, shield award, notebook/pen, closed laptop, dock, plants, shelves, books, globe, wall signs and window. Preserve their locations, shapes, visible counts and existing printed or illuminated markings exactly as depicted. Do not replace, correct, duplicate, remove or introduce branding. Only the seated character's natural occlusion and physically necessary local shadows may change the environment. Return one finished scene, without panels, captions or borders.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify-live\\T04\\sources\\user-environment-original.png",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

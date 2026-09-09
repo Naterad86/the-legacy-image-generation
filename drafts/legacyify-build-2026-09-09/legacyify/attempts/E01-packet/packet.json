@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "E01",
+  "action": "source_setup",
+  "created_at": "2026-09-09T07:04:28+00:00",
+  "inputs": [],
+  "parent_attempts": [],
+  "request": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet.",
+  "preserve": [],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A newly generated synthetic development source, never a real-world or held-out test input.",
+  "review_checklist": [
+    "Requested source scene",
+    "Legibility of scene structure",
+    "Required objects and relationships",
+    "Synthetic source label in campaign records"
+  ],
+  "prompt": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet.\n",
+  "prompt_sha256": "51e365ce1f4f2ec0f8fbe22dd48150981e705798a221ff0604e15af3a69bcc31",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet.\n"
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

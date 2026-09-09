@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "E01",
+  "action": "source_setup",
+  "created_at": "2026-09-09T11:49:40+00:00",
+  "inputs": [],
+  "parent_attempts": [],
+  "request": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet.",
+  "preserve": [],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A newly generated synthetic development source, never a real-world or held-out test input.",
+  "review_checklist": [
+    "Requested source scene",
+    "Legibility of scene structure",
+    "Required objects and relationships",
+    "Synthetic source label in campaign records"
+  ],
+  "prompt": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet.",
+  "prompt_sha256": "ccfe739d18d3a415b4e5866939dc5a721f7935e2d52c51bf0bb4df67f1acb3eb",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Create one high-resolution 16:9 natural editorial photograph of a quiet alpine lake visitor terrace in clear late-afternoon light. This is a clean scene reference for a later visual-transformation demonstration, so the scene must be coherent and readily inspectable rather than fantastical.\n\nComposition from a standing human camera: a pale stone terrace fills the lower third; on the left is one small modern visitor pavilion with a low flat roof, glass door, vertical timber cladding, and a broad blank light-stone wall facing the camera. One long simple timber bench runs parallel to the lake at center-right. A slender dark metal lamp stands beside the bench. A low metal guardrail follows the terrace edge, interrupted by a broad central path descending gently toward the shore. The lake occupies the middle distance, with a single small red canoe near the right shore. Layered pine-covered mountains fill the upper background, a craggy mountain summit offset left, a blue sky with a few light clouds. Warm sunlight from the right, believable shadows toward left, calm blue-green water. No people, animals, logos, lettering, flags, sculptures, screens or clutter. Natural restrained colors and authentic material textures. Every object has coherent scale, perspective and contact. No black-and-gold branding or stylization. Output only the photograph, not a diagram or contact sheet."
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 4,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 4
+    },
+    "actual_tool_arguments_sha256": "eae7b8dbc8905048bdda3f06959d362d2903fd885cee3dcf0207a4698a0e32af",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\E01-packet\\packet.json",
+      "sha256": "af61b657fcabc7a85cab4cbf60f846fa0027398fa72f768a9ca5120c8837fc2d"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\E01-prompt.txt",
+      "sha256": "51e365ce1f4f2ec0f8fbe22dd48150981e705798a221ff0604e15af3a69bcc31",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-dbe6de06-bee3-4eee-96c5-66a0c508617b.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-dbe6de06-bee3-4eee-96c5-66a0c508617b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": true
+  }
+}

@@ -1,0 +1,1109 @@
+{
+  "snapshot_id": "legacyify-build-2026-09-09",
+  "captured_at_utc": "2026-09-09T14:27:28.463605+00:00",
+  "status": "preserved draft before user analysis and governing direction updates",
+  "source_files": 183,
+  "github_text_files": 150,
+  "drive_media_files": 33,
+  "source_scope": "Byte-for-byte contents of outputs/legacyify and outputs/legacyify-live at preservation time; no new analysis or verdict changes.",
+  "entries": [
+    {
+      "path": "legacyify/ACTIONS.md",
+      "bytes": 4686,
+      "sha256": "2365dce58c91b9c660f2fc172cb8f1efaaa59c2a75b34ad6b313fd04a349466f",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-execution/packet/packet.json",
+      "bytes": 9725,
+      "sha256": "cee01f4e4b82b1e7c2049653881f493176de80f1f88cf75e37624180b900defc",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-execution/packet/prompt.txt",
+      "bytes": 1861,
+      "sha256": "6de67996291916feff4aeb15fbc943ea3e2babef284e23a079e10f7cf0ea93dc",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-execution/prompt-exact.txt",
+      "bytes": 1861,
+      "sha256": "6de67996291916feff4aeb15fbc943ea3e2babef284e23a079e10f7cf0ea93dc",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-execution/review.json",
+      "bytes": 4365,
+      "sha256": "f8688ddf99f78708aeba603c34f8d0bf8695251d13759c0302e7e7c74a3aba45",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-packet/packet.json",
+      "bytes": 7391,
+      "sha256": "766d6ff052e9f6287f7c452e7b669f6c4466b256fd6bcf7530b3062894caf5f5",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-packet/prompt.txt",
+      "bytes": 1862,
+      "sha256": "686b7e80fe6e2e848ff28b4d560ffd32e9c25c1f9af21fd9a5934de83742ec5a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-prompt.txt",
+      "bytes": 1862,
+      "sha256": "686b7e80fe6e2e848ff28b4d560ffd32e9c25c1f9af21fd9a5934de83742ec5a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C01-raw.png",
+      "bytes": 1581680,
+      "sha256": "96ab096cfbe69bc152b5949013681bf26acaa836d64cecdfb92f4282ee29db72",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/C01-request.json",
+      "bytes": 346,
+      "sha256": "deacb03dc64f81f4fb1240853882312228d6a0dd368c601c4c659e17d21612ec",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-execution/packet/packet.json",
+      "bytes": 10010,
+      "sha256": "42b4f600f91f7747e173821343538fb695a711346d22385edaefb011acf25614",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-execution/packet/prompt.txt",
+      "bytes": 1947,
+      "sha256": "6ee14c9c1dfb54f915d8321f671bde63a8492802f1cf580f5c9b27db2b38e33f",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-execution/prompt-exact.txt",
+      "bytes": 1947,
+      "sha256": "6ee14c9c1dfb54f915d8321f671bde63a8492802f1cf580f5c9b27db2b38e33f",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-execution/review.json",
+      "bytes": 5247,
+      "sha256": "79fa94e2c3c5bf98279dda86997d43a0d3646fcb8a7194092e7066f878ac4b01",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-packet/packet.json",
+      "bytes": 7676,
+      "sha256": "ce5d3aa0d601fbcadfba49abe616715fc4dca38ea5a48a89166294a4478fa6c9",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-packet/prompt.txt",
+      "bytes": 1948,
+      "sha256": "dda5615644d6c0389187a2720068ad03200e093f433fa849132f6e48f3c5ab91",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-prompt.txt",
+      "bytes": 1948,
+      "sha256": "dda5615644d6c0389187a2720068ad03200e093f433fa849132f6e48f3c5ab91",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C02-raw.png",
+      "bytes": 1516624,
+      "sha256": "757bb87183eeb886d424e64fd67be3c2e284d0de787e05b7a7c559049fa79650",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/C03-execution/packet/packet.json",
+      "bytes": 10954,
+      "sha256": "d33eb7d1800b41b64c1426c22c779a6c619fc973b2de28cbad45c3198b180749",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-execution/packet/prompt.txt",
+      "bytes": 2095,
+      "sha256": "5084315bf930288748d06277b566323bae5fa7a6dc7f3eadeb95c4fd8841f692",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-execution/prompt-exact.txt",
+      "bytes": 2095,
+      "sha256": "5084315bf930288748d06277b566323bae5fa7a6dc7f3eadeb95c4fd8841f692",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-execution/review.json",
+      "bytes": 5130,
+      "sha256": "b2c1bace69fbd64985efb51cf383a4d1d3ad88c80c2501a3da7521274d95d3e2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-packet/packet.json",
+      "bytes": 8620,
+      "sha256": "9465010a5e7b0035e8d4d8eee0a2ba7e0cb3af8e0f6bd9b85faa8a17f2eacc95",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-packet/prompt.txt",
+      "bytes": 2096,
+      "sha256": "51d48766072d916f971db670e925826adacde4783839f92fa682a84db6a1cbca",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-prompt.txt",
+      "bytes": 2096,
+      "sha256": "51d48766072d916f971db670e925826adacde4783839f92fa682a84db6a1cbca",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C03-raw.png",
+      "bytes": 1674416,
+      "sha256": "71a0b8c2b7a7bc9f34351a4bfc54a56ab6e4dbd9522ad4dd45b456514ab451b8",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/C04-execution/packet/packet.json",
+      "bytes": 12181,
+      "sha256": "83e0d2e1fda402113bfdd472253cde98a43f8c516f4c6d0d70a38a6816ad2d92",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-execution/packet/prompt.txt",
+      "bytes": 2497,
+      "sha256": "354b398ad17e712e47ce374d0379e971979ccc6159d3fcfaaa669697e99402ba",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-execution/prompt-exact.txt",
+      "bytes": 2497,
+      "sha256": "354b398ad17e712e47ce374d0379e971979ccc6159d3fcfaaa669697e99402ba",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-execution/review.json",
+      "bytes": 4953,
+      "sha256": "fad64165f446df42eb5c1c48e47e739d06452dd387471ff7fa4f38aea4dbc5ab",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-packet/packet.json",
+      "bytes": 9845,
+      "sha256": "026ec6b9923a54b98be58249782bf647fcdc036b68750c9595882054ed7d4fdb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-packet/prompt.txt",
+      "bytes": 2498,
+      "sha256": "b08db2ea39d83d7743f347868d8f648f73b25ba14d218e09adfa8f06b480b715",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-prompt.txt",
+      "bytes": 2498,
+      "sha256": "b08db2ea39d83d7743f347868d8f648f73b25ba14d218e09adfa8f06b480b715",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/C04-raw.png",
+      "bytes": 1663292,
+      "sha256": "2f106666827adb676c0de1c7264ae5f40578dadafd12f8698c571f8fb678974d",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/E01-execution/packet/packet.json",
+      "bytes": 7706,
+      "sha256": "76626990ab758e9dda6b0546be3bcb453ead9ea69c76d91ee52db4597d7b5043",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-execution/packet/prompt.txt",
+      "bytes": 1388,
+      "sha256": "ccfe739d18d3a415b4e5866939dc5a721f7935e2d52c51bf0bb4df67f1acb3eb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-execution/prompt-exact.txt",
+      "bytes": 1388,
+      "sha256": "ccfe739d18d3a415b4e5866939dc5a721f7935e2d52c51bf0bb4df67f1acb3eb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-packet/packet.json",
+      "bytes": 5373,
+      "sha256": "af61b657fcabc7a85cab4cbf60f846fa0027398fa72f768a9ca5120c8837fc2d",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-packet/prompt.txt",
+      "bytes": 1389,
+      "sha256": "51e365ce1f4f2ec0f8fbe22dd48150981e705798a221ff0604e15af3a69bcc31",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-prompt.txt",
+      "bytes": 1389,
+      "sha256": "51e365ce1f4f2ec0f8fbe22dd48150981e705798a221ff0604e15af3a69bcc31",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E01-raw.png",
+      "bytes": 2592840,
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/E01-request.json",
+      "bytes": 353,
+      "sha256": "0595b5058a52020a4562a186eaefa1b875eb08aa328855f6e77b815d812c1ccb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-execution/packet/packet.json",
+      "bytes": 6653,
+      "sha256": "bc9621922a3684843037d93d35a5af2867ed4be0c82fa946dfbec42ae8b1bdff",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-execution/packet/prompt.txt",
+      "bytes": 1039,
+      "sha256": "ee2ae1761cdb0fdf14898ff18f167bfb2a999fecde695adeb83e16e794d2802e",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-execution/prompt-exact.txt",
+      "bytes": 1039,
+      "sha256": "ee2ae1761cdb0fdf14898ff18f167bfb2a999fecde695adeb83e16e794d2802e",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-packet/packet.json",
+      "bytes": 4320,
+      "sha256": "a9ae9a8f8ac0eb82e9e38cbdf4875cbc2912979af6d6506998998c8f7853eebf",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-packet/prompt.txt",
+      "bytes": 1040,
+      "sha256": "d0e52d8e9c4dde57bdb83247d728d042536d199f42ee6d1c15ca47ce1e944fa9",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-prompt.txt",
+      "bytes": 1040,
+      "sha256": "d0e52d8e9c4dde57bdb83247d728d042536d199f42ee6d1c15ca47ce1e944fa9",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/E02-raw.png",
+      "bytes": 1603216,
+      "sha256": "590e972fe90e1d188b6207c90151ca0f36216ed2e6a8350f20d72d31fa20af29",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/S01-execution/packet/packet.json",
+      "bytes": 12697,
+      "sha256": "429ade69ba1aa53c5280ce4adfd34f71a6e88e2319a8dca7d2960addfa7e3465",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-execution/packet/prompt.txt",
+      "bytes": 2669,
+      "sha256": "529389a9b2f9669e44350f720000dbae36a34ff23a88d4230abe2818f0c8fb03",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-execution/prompt-exact.txt",
+      "bytes": 2669,
+      "sha256": "529389a9b2f9669e44350f720000dbae36a34ff23a88d4230abe2818f0c8fb03",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-execution/review.json",
+      "bytes": 5499,
+      "sha256": "3be4fcdf8d66794fa31c8ff106d56e42ed5b497fbf2bee33ba4ace3522a5e913",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-packet/packet.json",
+      "bytes": 10363,
+      "sha256": "7281ff3deb656623fa1d8de6bd9b1e4d7d6f02235d68a4b4ddf3546377175a1c",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-packet/prompt.txt",
+      "bytes": 2670,
+      "sha256": "6c9b5b1d8f00881384263d806883a9acd8fa33f0fba40e3f87700d0aacd5f792",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-prompt.txt",
+      "bytes": 2670,
+      "sha256": "6c9b5b1d8f00881384263d806883a9acd8fa33f0fba40e3f87700d0aacd5f792",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S01-raw.png",
+      "bytes": 1647054,
+      "sha256": "d110ea68fbd8c824f0b0299083ef138aaaac308e80022ec885f7fd04f7ce0133",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/S01-request.json",
+      "bytes": 403,
+      "sha256": "c1197570d4c73aabefe9a5ae084e5c226717429d3784a503134164339ce51bf8",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-execution/packet/packet.json",
+      "bytes": 10663,
+      "sha256": "102e8edc68756bd6c7138eb556ad5c56b06275fc32ee0f52fbd0894e1ec13fd4",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-execution/packet/prompt.txt",
+      "bytes": 2151,
+      "sha256": "2359934fcd0a6ab46574c9433f0a807d00fb59d64b77b2a27195bc441c3f986a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-execution/prompt-exact.txt",
+      "bytes": 2151,
+      "sha256": "2359934fcd0a6ab46574c9433f0a807d00fb59d64b77b2a27195bc441c3f986a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-execution/review.json",
+      "bytes": 5323,
+      "sha256": "3cf36bbe0b0ba1cf951a6ed7c0c1ce96bfcbf17f08b6ce2b25a1cd9d28a80c28",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-packet/packet.json",
+      "bytes": 8255,
+      "sha256": "ca160bb4daed63942598f8509cd76d38cd9fc82cfe9ea6e7815923286d0e26c5",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-packet/prompt.txt",
+      "bytes": 2152,
+      "sha256": "7b7faf956d090da364011e44b07fd8391770a05467bbedc2c125f3ed27050ca6",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-prompt.txt",
+      "bytes": 2152,
+      "sha256": "7b7faf956d090da364011e44b07fd8391770a05467bbedc2c125f3ed27050ca6",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S02-raw.png",
+      "bytes": 2475324,
+      "sha256": "31e20a7035fb7dec925618c74f6d4a47cf38cd0ada20353f5fc42614cdbc4764",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/S03-execution/packet/packet.json",
+      "bytes": 10747,
+      "sha256": "4823c253d4ddc3301da58960ada09b0720de3148191f82969ae0687c4cd91c6a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-execution/packet/prompt.txt",
+      "bytes": 2166,
+      "sha256": "bd8ff5ab045cf2b274cde73eff9b11912d85388c56b0087f2978262639bcf782",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-execution/prompt-exact.txt",
+      "bytes": 2166,
+      "sha256": "bd8ff5ab045cf2b274cde73eff9b11912d85388c56b0087f2978262639bcf782",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-execution/review.json",
+      "bytes": 4769,
+      "sha256": "10250bb18f6a24e59d6d6d7b553b4926128cd5a511df8189e4d00b7e0c55b199",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-packet/packet.json",
+      "bytes": 8411,
+      "sha256": "7b404953f6f6a3c567fac0e7fb140b494a0394df1b647950c3646fc9e363fdd6",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-packet/prompt.txt",
+      "bytes": 2167,
+      "sha256": "91e8edd69f12589fb77d7959426c7e019338d8ea723a42aaefe2e02df18f5732",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-prompt.txt",
+      "bytes": 2167,
+      "sha256": "91e8edd69f12589fb77d7959426c7e019338d8ea723a42aaefe2e02df18f5732",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/S03-raw.png",
+      "bytes": 2538708,
+      "sha256": "72470d59486324ec9aea0e1a48b08bed6f3b187a088eb501ad8ef1b73eadcf7e",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/T01-execution/packet/packet.json",
+      "bytes": 14705,
+      "sha256": "7b41b1fe91efb55243995172a69fd88cc214d272b9f7802f617e7402f0bdfacd",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-execution/packet/prompt.txt",
+      "bytes": 3157,
+      "sha256": "f2490bc7b7f5c20c0ced2f574f9729761f80da6d41f9d59cc7bdfe4254d9f4c0",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-execution/prompt-exact.txt",
+      "bytes": 3157,
+      "sha256": "f2490bc7b7f5c20c0ced2f574f9729761f80da6d41f9d59cc7bdfe4254d9f4c0",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-execution/review.json",
+      "bytes": 5936,
+      "sha256": "e892626835ae4567baa026650c3e24d34db3f2cf2ab8cd828a411a45b684726f",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-packet/packet.json",
+      "bytes": 12371,
+      "sha256": "135af2adc3e152dfac70dce1da93231daba122cbd894d53b68d328d0068560f1",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-packet/prompt.txt",
+      "bytes": 3158,
+      "sha256": "b38ee8cb560fd6066699ba3c35e9c5a2c40e7c9725165ddeff93f8b3dd70a402",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-prompt.txt",
+      "bytes": 3158,
+      "sha256": "b38ee8cb560fd6066699ba3c35e9c5a2c40e7c9725165ddeff93f8b3dd70a402",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T01-raw.png",
+      "bytes": 1854878,
+      "sha256": "c4bd36b3aee6ddb4d44f771d6c003afe665434f10cfd0770a96dc3a80216d93a",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/T01-request.json",
+      "bytes": 469,
+      "sha256": "d795fd11585afe49400b1353fa128c394892f490be8820f51a3c018d9e4b0e72",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-execution/packet/packet.json",
+      "bytes": 12832,
+      "sha256": "7296c973255c34ae5ceb5c431095de3789a92c0b1e25b823950037bcfa921aa2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-execution/packet/prompt.txt",
+      "bytes": 2689,
+      "sha256": "986ff9d0cbf7829d5adbd4c1e5831075bb577451ba97687abb49d80c296baa35",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-execution/prompt-exact.txt",
+      "bytes": 2689,
+      "sha256": "986ff9d0cbf7829d5adbd4c1e5831075bb577451ba97687abb49d80c296baa35",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-execution/review.json",
+      "bytes": 5717,
+      "sha256": "86997100eb4a0f5fe025cbc8f3768a2c4d16ffff004c861c0be333cb7c49f9c4",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-packet/packet.json",
+      "bytes": 10498,
+      "sha256": "a10d788aa76de25f16d35961e076dbd660c64ff18936f58b7ddf76f09049b0f5",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-packet/prompt.txt",
+      "bytes": 2690,
+      "sha256": "4b0db94f8eb0ecabd71f0bd0c602659ed021e0b9471225225fab4bbc27c624b2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-prompt.txt",
+      "bytes": 2690,
+      "sha256": "4b0db94f8eb0ecabd71f0bd0c602659ed021e0b9471225225fab4bbc27c624b2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T02-raw.png",
+      "bytes": 2524884,
+      "sha256": "1240acda87a6aeb3d4e7a28c463d879731504bbc286666a38296237c33fbd9b0",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/attempts/T03-execution/packet/packet.json",
+      "bytes": 13471,
+      "sha256": "85457dad1b1c4c53194497a9041a61aacd3a42e4feae28680b729caee0e7327d",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-execution/packet/prompt.txt",
+      "bytes": 2725,
+      "sha256": "50954db8ff14cf242bc412dd894026d3a6e3a4ac0b496f19677b5b169e7c835b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-execution/prompt-exact.txt",
+      "bytes": 2725,
+      "sha256": "50954db8ff14cf242bc412dd894026d3a6e3a4ac0b496f19677b5b169e7c835b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-execution/review.json",
+      "bytes": 5706,
+      "sha256": "ba2461417d320d9adb0ef3e843b95e87723f16b3c7c2dd06a6403e66c7f7e6c3",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-packet/packet.json",
+      "bytes": 11135,
+      "sha256": "87ccfdf48a8856f21695b738a6c080e77b113beead380bf409767c551dd1f6fe",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-packet/prompt.txt",
+      "bytes": 2726,
+      "sha256": "ccc607420b0c3b707a0a84f61ad3bed5cac2de040dc54ba7152d78cb867a8054",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-prompt.txt",
+      "bytes": 2726,
+      "sha256": "ccc607420b0c3b707a0a84f61ad3bed5cac2de040dc54ba7152d78cb867a8054",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/attempts/T03-raw.png",
+      "bytes": 2481954,
+      "sha256": "0bfcd355168b429713649c885962133d0aeacaf50d56fb04e0429d8762ec376d",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/gallery-data.js",
+      "bytes": 14627,
+      "sha256": "f28339bb2ffcfea959fd6800e5ccc01c43df28994a8e9cc5122ee271cb56eb0b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/gallery.css",
+      "bytes": 14316,
+      "sha256": "112d28d1d1ff30719edce985e607a39dc4d9e1bcbc0fd4f402f43dee59fff906",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/gallery.js",
+      "bytes": 16020,
+      "sha256": "3ad581b6499f77f54ce4fba51b28a135500cb3313a04289a5a5da56f0e6d2e20",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/index.html",
+      "bytes": 4867,
+      "sha256": "f54eba2108499c7feded2260cdf41394a62f259e4e7cfc3a0147a5c42ade1578",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/README.md",
+      "bytes": 2789,
+      "sha256": "2a9c33ecd153c58bea3ecb43e79816017902651d8792e589477a116e165726f0",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/ACTUAL_TOOL_CALLS.json",
+      "bytes": 38939,
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/ATTEMPT_LEDGER.md",
+      "bytes": 4878,
+      "sha256": "9844535f37fdf12fb2160c4c09e3ea3caf18a7d43e80a3260d55ec31ab7e29f2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/attempts.jsonl",
+      "bytes": 89180,
+      "sha256": "469014d6972d525af5312190c873defd9571c36c09d56cd4636413e244702f4e",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/BUDGET.json",
+      "bytes": 1165,
+      "sha256": "4e5f7bd4290af137c743d610d5be2afe5ee6f07c0684447b22115eeb3f2c7ad7",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/C01-request-correction.json",
+      "bytes": 520,
+      "sha256": "efe2245f6991c8d87e4ae8dbb00a6b1bd4c213b488492b79604bf60bb594f3f3",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/CAMPAIGN.md",
+      "bytes": 4437,
+      "sha256": "405d91b40e021e997ed117aadd564e96303718d6d3bcb51e13aee61430a4c617",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/DELIVERY.json",
+      "bytes": 950,
+      "sha256": "5ca6cf9a814a9a3523539d5ead95ebfc140906949aefc0e131b3bb1f4210055d",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/FILE_MANIFEST.json",
+      "bytes": 25339,
+      "sha256": "9cdc72793d9a51c315302bff178f07b6c1e87b443344b423d10a0e5557399a45",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/GALLERY_VALIDATION.md",
+      "bytes": 1752,
+      "sha256": "fa2b4f1d0cc577503618eb17405dca0616ac851b1e131a61f4771c79b71c5636",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/PROVENANCE_VALIDATION.md",
+      "bytes": 4097,
+      "sha256": "b2e82d8d984b612547d450154ec45c338fadfafc467926919d9c4714f533c74e",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/qa/desktop-character.png",
+      "bytes": 364351,
+      "sha256": "f684cbcd67725b07222f17dfebd0c07e93b7af213f53b31d720908f19b94bb38",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/records/qa/desktop-scene.png",
+      "bytes": 1241177,
+      "sha256": "d28d7ab9f309cbae9b077eb3da3a21148cc47405af7ba37819a2adc31b191d2a",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/records/qa/desktop-together.png",
+      "bytes": 880665,
+      "sha256": "01caf2511dd03b5218e1ee7c3a91bc20657b098c141c4b2834d4b3b42f111a72",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/records/qa/desktop-walkthrough.png",
+      "bytes": 666065,
+      "sha256": "7203e29d6af02f0056b6f91063acf280e4884f4474d61e366e3eae6b060a7098",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/records/qa/mobile-compare.png",
+      "bytes": 441179,
+      "sha256": "965d450202fa821418ad79fc49b0bb09825e36888553a92c5858038c3613b333",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/records/resume-plan.json",
+      "bytes": 1607,
+      "sha256": "29f0dd9144c4e16c97c3db7ebb6af5d786af3abc23f25e3711d3ac4b4aa96be2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/resume-state-final.json",
+      "bytes": 72838,
+      "sha256": "83aa8cee97cac423fcb8ec1325a0f0a3a2ca0a35f7d91886ceecd75d7bed5af7",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/RESUME.md",
+      "bytes": 3663,
+      "sha256": "e5fcc053ba2e148052915d5bf8066a045d2026aeecd6ca36df6cdd1810e739a1",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-C01.md",
+      "bytes": 3330,
+      "sha256": "7ec54d8ec891a105d90cbadad173f52eb9ba2c7228a6688daf1e210db1f92e0b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-C02.md",
+      "bytes": 3963,
+      "sha256": "4bfc401fcaa623fb61a194880ad4d86dfef39b7b66946c312ac854cf0ac089e1",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-C03.md",
+      "bytes": 3929,
+      "sha256": "41001e07aa5b2b6e53081fe8f9d8151e2d860ce5aa87a3ab8a03978ae6870d70",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-C04.md",
+      "bytes": 3790,
+      "sha256": "9c156b2b0c94f05fa5ff95aeebf7a14bf7b8a67a4c7868c53b9a2a6374afb274",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-S01.md",
+      "bytes": 4394,
+      "sha256": "b6ec0d9565c5c4c1fe8411458aaa1f9646710392aef0e8088d5c5ebca34a8b25",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-S02.md",
+      "bytes": 4259,
+      "sha256": "1b0fd2a1029f3c35502cb9a1e3776bd1611f5a6125124f48ce5c7f01d504475b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-S03.md",
+      "bytes": 3567,
+      "sha256": "07de2a3e09c00d07fc446fd72faf7482e09ffe8a69fed3cf004e4342fdbaabcd",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-T01.md",
+      "bytes": 4825,
+      "sha256": "c362020bac565a60ddfa9893a7253df92444a210ba89030dae9078307b577029",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-T02.md",
+      "bytes": 4519,
+      "sha256": "a544709cdac4a9158585ab824d825c77279a66ffd8d3db0f94c2bdd0fb0909fc",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/review-T03.md",
+      "bytes": 4479,
+      "sha256": "b446af6b966e266e028b97299cb6ad5fd6a717902499f17b768273ac2296aab0",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/SOURCE_STRATEGY.md",
+      "bytes": 16743,
+      "sha256": "9175637462dcb0227bcc485635d33c2aa4ecb57e8bd634709cdfecdcd26677dd",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/records/validated-attempts.jsonl",
+      "bytes": 192407,
+      "sha256": "18a8107da1ffd2a90ced65f837858f43f189fd8e047a596ba3541b69ca9b1840",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/selected/character-pose-transfer.png",
+      "bytes": 1663292,
+      "sha256": "2f106666827adb676c0de1c7264ae5f40578dadafd12f8698c571f8fb678974d",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/selected/scene-pixel-terrace.png",
+      "bytes": 2538708,
+      "sha256": "72470d59486324ec9aea0e1a48b08bed6f3b187a088eb501ad8ef1b73eadcf7e",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/selected/together-office.png",
+      "bytes": 1854878,
+      "sha256": "c4bd36b3aee6ddb4d44f771d6c003afe665434f10cfd0770a96dc3a80216d93a",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/selected/together-two-characters.png",
+      "bytes": 2481954,
+      "sha256": "0bfcd355168b429713649c885962133d0aeacaf50d56fb04e0429d8762ec376d",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/DEVELOPMENT_ALPINE_TERRACE.png",
+      "bytes": 2592840,
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/DEVELOPMENT_HUMAN_POSE.png",
+      "bytes": 1603216,
+      "sha256": "590e972fe90e1d188b6207c90151ca0f36216ed2e6a8350f20d72d31fa20af29",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "bytes": 225506,
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/LEGACY_LOGO_MASTER.jpg",
+      "bytes": 255254,
+      "sha256": "68bc3c93ef900e5b3f25e2f7fb1e987661d60f0b6baec93f0ded0bbb841eb76b",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "bytes": 210216,
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/sources/LEGACY_OFFICE_MASTER.jpg",
+      "bytes": 229835,
+      "sha256": "bf5325630ceb0c66cf38b8f8fc4c32b6bf849fe33347aef4ddbd18f9b869648f",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify/workflow/legacyify-skill/SKILL.md",
+      "bytes": 11568,
+      "sha256": "41e6b63ea9fac12ffb776a2c4023648d5e4e94369b3d5d4caee5fa463c9009fb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/workflow/legacyify.py",
+      "bytes": 23788,
+      "sha256": "3689594b313201c7c48ba4112b69e29abde7bfbcb921174c0aee2332fc40efdb",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/workflow/README.md",
+      "bytes": 15801,
+      "sha256": "fcdaac690cac8a380fe51aab4331cd3644dd9a37c79a64cc8d108ae82184186a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/workflow/test_legacyify.py",
+      "bytes": 8823,
+      "sha256": "ec3e4239760903bce88f5380819b78e91905a44da09e8fd82fa93b0d634b04e9",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify/workflow/verification.txt",
+      "bytes": 1218,
+      "sha256": "707af5584b59e53b13e7180edc4abfcc990424ab04b838a7d0c6e3f97f3ed089",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/attempts.jsonl",
+      "bytes": 42695,
+      "sha256": "62c6a840a9f75bcb00849187215246abbe1470f771c7cf34c42e1dec491c61e1",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/brief.json",
+      "bytes": 2897,
+      "sha256": "0b14c56db2720138fd9dbf40533939e858b7c08d22836c1b18e5a6b9f5d9aa18",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/packet/packet.json",
+      "bytes": 9057,
+      "sha256": "0d88ce7827ac0053abacab3f67f9dc5096aca1365a33400b57adf3d3b244ca2b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/packet/prompt.txt",
+      "bytes": 2202,
+      "sha256": "3c83840cc7cb15cccdc362ca795bd41d3bc8911d91269b25c64996bd475c5921",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/prompt.txt",
+      "bytes": 2202,
+      "sha256": "3c83840cc7cb15cccdc362ca795bd41d3bc8911d91269b25c64996bd475c5921",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/raw.png",
+      "bytes": 1393867,
+      "sha256": "1995672ca09365df3edb1f8fff4a02a39be7c2a852059c5f1ba24b072dbca423",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/C05/README.md",
+      "bytes": 1941,
+      "sha256": "9f066ed9fbc73da6c012db1911196cc644d0d0a276ac15338506718af1b27581",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/review.json",
+      "bytes": 3030,
+      "sha256": "4a46e4149889b117a4ab4217b717deeb010e988561e1c3442a074f962bc22f05",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/review.md",
+      "bytes": 2853,
+      "sha256": "ebb59a5d23fcdbd118c0e06d206aee16a3145289d65be07e097bb9859ab6e047",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/sources/user-pose-original.png",
+      "bytes": 122960,
+      "sha256": "511033bb1d98443f6330b60f3a5b7c03fc91d8a557b418eb062a45eadf2b4a05",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/C05/tool-call.json",
+      "bytes": 3354,
+      "sha256": "f95bece197ee3ac13dff7250e1d3d4a6d7cbdfb4ec0b9ca76d1f125d489699cf",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/C05/validation.json",
+      "bytes": 169,
+      "sha256": "9a585e03726cb2a6ac84476ebaef07fb7d765e122c002c8a341e6733e8cb6e24",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/brief.json",
+      "bytes": 3357,
+      "sha256": "2bf78a0bd486de66471115f61c207e6637ae52833ec00a64f41f61db76147727",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/packet/packet.json",
+      "bytes": 10202,
+      "sha256": "3736547df593fba41dc03ac5ba43653abf6fd5577b3f2ffc6c74ee35ecb4080a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/packet/prompt.txt",
+      "bytes": 2722,
+      "sha256": "812d9518e49b66b3e20614497e431f9bdc1568d759a26efe16cc6196747553e8",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/prompt.txt",
+      "bytes": 2722,
+      "sha256": "812d9518e49b66b3e20614497e431f9bdc1568d759a26efe16cc6196747553e8",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/raw.png",
+      "bytes": 2197350,
+      "sha256": "ff402f43a9c447413a38dbb3c2c67f7d331180c318108a3ac5b0d82ec9c84599",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/S04/README.md",
+      "bytes": 1690,
+      "sha256": "e299a5bfe31111d780e6c96d50016a5c8776188fd70a803045676f1e42d95683",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/review.json",
+      "bytes": 1952,
+      "sha256": "5220148d9cc345d89e75b7204b88a0e451c49e7dccec4a7efd96d920625ef2aa",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/review.md",
+      "bytes": 1300,
+      "sha256": "fc3d689378af0e7933ebbba062d5f9dc6928a27174c9237ca0b4b1c0f7781ace",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/sources/user-scene-original.png",
+      "bytes": 3151451,
+      "sha256": "f601409d7b0ed8738ce48d86e0e70499e08ac7355757d57a8b5a2e1333eb7cc2",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/S04/tool-call.json",
+      "bytes": 3641,
+      "sha256": "d30056ed9ca7f95a09161d3a41094732e237df8aa936df7dec847d8de6cfba9e",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/S04/validation.json",
+      "bytes": 169,
+      "sha256": "88956392a006fd9df0f8cfe79a17772aba3bd9b47aa6e129ea484f3c1b0db111",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/brief.json",
+      "bytes": 4168,
+      "sha256": "76cc420aebd593272fa0aeb548d34d413662c664f19eb53b4796078105fe61e2",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/packet/packet.json",
+      "bytes": 11355,
+      "sha256": "9f47b87e43a1d36ffab0801d8d1b590b44f3663e241a6429d828c4090b497080",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/packet/prompt.txt",
+      "bytes": 2931,
+      "sha256": "8e646f1fc46cf402d3ef07593f7e368883b29f33a5c191f1bf35b294ffbd9d9d",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/prompt.txt",
+      "bytes": 2931,
+      "sha256": "8e646f1fc46cf402d3ef07593f7e368883b29f33a5c191f1bf35b294ffbd9d9d",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/raw.png",
+      "bytes": 1819410,
+      "sha256": "100b03997c645e25dba2da087d280d083eac7438eb19e0183b43914a18b9a5f6",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/T04/README.md",
+      "bytes": 1881,
+      "sha256": "f2a02fac2b0b6b3acc0a8ffe0addf6e3afee5af2a3dd90d755063fc68f8ecc1b",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/review.json",
+      "bytes": 2313,
+      "sha256": "1efbfcee64072be31a2b84037c4c37755b9f46a278aa3e49ef727925b50f888a",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/review.md",
+      "bytes": 1358,
+      "sha256": "ce2067068a34ae84467e1542fbf7bbe71f279b11594ba44b9b410eb492c687e7",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/sources/user-environment-original.png",
+      "bytes": 1667196,
+      "sha256": "7ddf1a25d60242acdbf5611ba163e7bb0c273f07092a1a94ea91446993a8d3c3",
+      "storage": "Drive media archive"
+    },
+    {
+      "path": "legacyify-live/T04/tool-call.json",
+      "bytes": 3978,
+      "sha256": "11787e5ac83901ead0accca4df24822a1a362cb1567ee403651477b9786da150",
+      "storage": "GitHub"
+    },
+    {
+      "path": "legacyify-live/T04/validation.json",
+      "bytes": 169,
+      "sha256": "833520791396c1e03085988f109afe689382b578ca72bf944c16cce5a142e136",
+      "storage": "GitHub"
+    }
+  ]
+}

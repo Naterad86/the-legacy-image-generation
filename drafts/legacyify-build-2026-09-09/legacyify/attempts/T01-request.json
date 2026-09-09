@@ -1,0 +1,15 @@
+{
+  "attempt_id": "T01",
+  "action": "together",
+  "purpose": "development first-pass: illustrated lioness in CGI office with strict reference roles",
+  "status": "requested",
+  "inputs": [
+    "sources/LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+    "sources/LEGACY_OFFICE_MASTER.jpg",
+    "sources/LEGACY_LOGO_MASTER.jpg"
+  ],
+  "recorded_at_utc": "2026-09-09 06:53:51 UTC",
+  "tool": "built-in image_gen",
+  "output_count_requested": 1,
+  "prompt_file": "T01-prompt.txt"
+}

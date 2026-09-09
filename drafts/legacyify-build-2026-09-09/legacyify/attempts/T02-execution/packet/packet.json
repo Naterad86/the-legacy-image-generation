@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "T02",
+  "action": "together",
+  "created_at": "2026-09-09T11:49:41+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png",
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912",
+      "bytes": 2592840,
+      "width": 1672,
+      "height": 941,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "bytes": 210216,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: compositing and identity-preserve. Output ONE finished 16:9 image, no board or contact sheet.\n\nIMAGE 1 is the alpine terrace scene source and controls the camera, major geometry, mountain/lake/forest skyline, pavilion, bench, lamp, railings, central path, red canoe, and late-afternoon sunlight. IMAGE 2 is the only canonical Legacy MALE lion character authority, including illustrated rendering, facial structure, mane, build, black shirt/trousers/sneakers and tail. Every view on that sheet is the same character. Do not use scene objects as character references.\n\nAdd exactly ONE canonical male lion standing on the open foreground terrace, just left of the central path, in front of the pavilion's right edge without covering the lake canoe, bench or lamp. Show the full body with shoes grounded on the terrace. His height in the image should be about 60 percent of the frame height, making him a nearby presenter rather than a distant figure. His torso is in a familiar three-quarter view and face toward the viewer; one arm rests naturally at his side and the other makes a restrained open-palm gesture toward the lake. Keep his face, muzzle width, amber almond-shaped eyes, brows, layered golden mane and master body proportions. No oversized round eyes, fuller muzzle, larger mane, muscle inflation, new wardrobe, accessories, lettering or logo.\n\nMaintain two intentional component mediums: the lion remains the master’s clean semi-realistic commercial mascot illustration with crisp contours and soft cel shading; the environment receives an authored premium CGI treatment with coherent stone, timber, glass, water and foliage, never flat cartoon surroundings. Preserve all the source's major scene facts and camera. Integration requires accurate scale, right-side warm illumination on fur and black clothing, physically plausible shadow cast leftward on the terrace, feet contact and subtle reflected stone light. Tail clearly attached and naturally curving without intersecting the legs or architecture. Do not make the character a photoreal animal or plastic 3D figurine.\n\nNative Legacy environmental direction: warm highlights against cool/deep structure, restrained warm golden sunlight, readable charcoal contours where appropriate, polished commercial finish. Keep this recognizably the same alpine afternoon, with blue-green lake and forest, not a gold/black office. NO office furniture, brand marks or extra props. The rightmost lamp must retain its thin pole and rounded disk canopy, not become a square-headed lamp. Single red canoe stays on the lake near the right shore. Preserve the terrace central descent and rail gaps. Output the completed scene only.",
+  "preserve": [
+    "Male identity, full-body integration, scene camera and major facts, disk lamp and red canoe"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One canonical character in a relatively simple target scene; this action is experimental until tested on fresh inputs.",
+  "review_checklist": [
+    "Character identity",
+    "Scene geometry and contents",
+    "Requested placement and action",
+    "Scale, contact, and perspective",
+    "Lighting integration",
+    "Legacy visual treatment"
+  ],
+  "prompt": "Use case: compositing and identity-preserve. Output ONE finished 16:9 image, no board or contact sheet.\n\nIMAGE 1 is the alpine terrace scene source and controls the camera, major geometry, mountain/lake/forest skyline, pavilion, bench, lamp, railings, central path, red canoe, and late-afternoon sunlight. IMAGE 2 is the only canonical Legacy MALE lion character authority, including illustrated rendering, facial structure, mane, build, black shirt/trousers/sneakers and tail. Every view on that sheet is the same character. Do not use scene objects as character references.\n\nAdd exactly ONE canonical male lion standing on the open foreground terrace, just left of the central path, in front of the pavilion's right edge without covering the lake canoe, bench or lamp. Show the full body with shoes grounded on the terrace. His height in the image should be about 60 percent of the frame height, making him a nearby presenter rather than a distant figure. His torso is in a familiar three-quarter view and face toward the viewer; one arm rests naturally at his side and the other makes a restrained open-palm gesture toward the lake. Keep his face, muzzle width, amber almond-shaped eyes, brows, layered golden mane and master body proportions. No oversized round eyes, fuller muzzle, larger mane, muscle inflation, new wardrobe, accessories, lettering or logo.\n\nMaintain two intentional component mediums: the lion remains the master’s clean semi-realistic commercial mascot illustration with crisp contours and soft cel shading; the environment receives an authored premium CGI treatment with coherent stone, timber, glass, water and foliage, never flat cartoon surroundings. Preserve all the source's major scene facts and camera. Integration requires accurate scale, right-side warm illumination on fur and black clothing, physically plausible shadow cast leftward on the terrace, feet contact and subtle reflected stone light. Tail clearly attached and naturally curving without intersecting the legs or architecture. Do not make the character a photoreal animal or plastic 3D figurine.\n\nNative Legacy environmental direction: warm highlights against cool/deep structure, restrained warm golden sunlight, readable charcoal contours where appropriate, polished commercial finish. Keep this recognizably the same alpine afternoon, with blue-green lake and forest, not a gold/black office. NO office furniture, brand marks or extra props. The rightmost lamp must retain its thin pole and rounded disk canopy, not become a square-headed lamp. Single red canoe stays on the lake near the right shore. Preserve the terrace central descent and rail gaps. Output the completed scene only.",
+  "prompt_sha256": "986ff9d0cbf7829d5adbd4c1e5831075bb577451ba97687abb49d80c296baa35",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: compositing and identity-preserve. Output ONE finished 16:9 image, no board or contact sheet.\n\nIMAGE 1 is the alpine terrace scene source and controls the camera, major geometry, mountain/lake/forest skyline, pavilion, bench, lamp, railings, central path, red canoe, and late-afternoon sunlight. IMAGE 2 is the only canonical Legacy MALE lion character authority, including illustrated rendering, facial structure, mane, build, black shirt/trousers/sneakers and tail. Every view on that sheet is the same character. Do not use scene objects as character references.\n\nAdd exactly ONE canonical male lion standing on the open foreground terrace, just left of the central path, in front of the pavilion's right edge without covering the lake canoe, bench or lamp. Show the full body with shoes grounded on the terrace. His height in the image should be about 60 percent of the frame height, making him a nearby presenter rather than a distant figure. His torso is in a familiar three-quarter view and face toward the viewer; one arm rests naturally at his side and the other makes a restrained open-palm gesture toward the lake. Keep his face, muzzle width, amber almond-shaped eyes, brows, layered golden mane and master body proportions. No oversized round eyes, fuller muzzle, larger mane, muscle inflation, new wardrobe, accessories, lettering or logo.\n\nMaintain two intentional component mediums: the lion remains the master’s clean semi-realistic commercial mascot illustration with crisp contours and soft cel shading; the environment receives an authored premium CGI treatment with coherent stone, timber, glass, water and foliage, never flat cartoon surroundings. Preserve all the source's major scene facts and camera. Integration requires accurate scale, right-side warm illumination on fur and black clothing, physically plausible shadow cast leftward on the terrace, feet contact and subtle reflected stone light. Tail clearly attached and naturally curving without intersecting the legs or architecture. Do not make the character a photoreal animal or plastic 3D figurine.\n\nNative Legacy environmental direction: warm highlights against cool/deep structure, restrained warm golden sunlight, readable charcoal contours where appropriate, polished commercial finish. Keep this recognizably the same alpine afternoon, with blue-green lake and forest, not a gold/black office. NO office furniture, brand marks or extra props. The rightmost lamp must retain its thin pole and rounded disk canopy, not become a square-headed lamp. Single red canoe stays on the lake near the right shore. Preserve the terrace central descent and rail gaps. Output the completed scene only.",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 7,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 7
+    },
+    "actual_tool_arguments_sha256": "b32f157535fc0af92ed13e8e7ec8729def434eab438d299824dc2566c9025b2a",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\T02-packet\\packet.json",
+      "sha256": "a10d788aa76de25f16d35961e076dbd660c64ff18936f58b7ddf76f09049b0f5"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\T02-prompt.txt",
+      "sha256": "4b0db94f8eb0ecabd71f0bd0c602659ed021e0b9471225225fab4bbc27c624b2",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-fda41506-c5ca-4fb2-882d-dbd367b4811c.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "1240acda87a6aeb3d4e7a28c463d879731504bbc286666a38296237c33fbd9b0"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-fda41506-c5ca-4fb2-882d-dbd367b4811c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": false
+  }
+}

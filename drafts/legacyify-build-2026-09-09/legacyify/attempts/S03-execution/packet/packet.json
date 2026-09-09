@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "S03",
+  "action": "scene",
+  "created_at": "2026-09-09T11:49:42+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png",
+      "sha256": "e7b08dc491d9cf959d9a3b74a33fdd292fa46d8621a41df3d907ceedcfcaf912",
+      "bytes": 2592840,
+      "width": 1672,
+      "height": 941,
+      "format": "PNG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    }
+  ],
+  "parent_attempts": [
+    "S02"
+  ],
+  "request": "Use case: style-transfer. Create one standalone 16:9 finished image, not a contact sheet, analysis panel or diagram. The attached alpine terrace is the sole scene authority. Convert it into handcrafted pixel art with disciplined Legacy art direction while keeping its spatial story.\n\nPreserve the camera and composition, including: left pavilion, glass entrance and timber strip; one long right-side bench; one thin far-right lamp with a ROUND FLAT DISK canopy (seen as an ellipse, never a rectangle); two low railings framing the central gently descending paved path; the single small RED CANOE near the right lakeshore; blue-green lake, pine slopes and distinctive craggy mountain skyline. Keep the pavilion roof corners, bench seat height, lake horizon and lamp in the same relative positions. Keep the central path's gentle descent; no new steep staircase. Do not reshape the mountains into a different range. Small details may simplify to clusters but no important object may change category, shape family, count or spatial relationship.\n\nUse an unmistakable native pixel-art medium: crisp coherent square-pixel clusters, intentional stepped contour edges, palette/value grouping, selective dithering, consistent detail scale as though hand-painted on a 480x270 game-background canvas and enlarged cleanly. The circular lamp canopy must remain an ELLIPSE OF PIXEL CLUSTERS; pixel art is not a reason to make it a rectangular fixture. Avoid photographic texture under a filter, smooth vector surfaces or airbrushed gradient shading.\n\nPreserve clear afternoon atmosphere and right-side sunshine. Use Legacy's premium authored finish, strong readable silhouettes, warm golden-orange highlights against cool/deep structured shadows, restrained color and atmospheric depth. Retain natural blue-green water/forest and pale warm stone, without turning the whole scene into a black/gold filter. No new branding, symbols, writing, people, furniture or objects. Incidental foliage specks, stone microtexture and small cloud shapes may change; major skyline peaks and source lighting direction must remain recognizable. One source, one image. Output only the finished art.",
+  "preserve": [
+    "Round disk lamp, recognizable source skyline, source composition, single red canoe, no added stairs or objects"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "A clearly structured scene; fine text, crowds, and intricate geometry need separate review.",
+  "review_checklist": [
+    "Camera and major geometry",
+    "Object presence and placement",
+    "Weather and scene state",
+    "Luminance and lighting",
+    "Legacy visual treatment",
+    "Secondary details"
+  ],
+  "prompt": "Use case: style-transfer. Create one standalone 16:9 finished image, not a contact sheet, analysis panel or diagram. The attached alpine terrace is the sole scene authority. Convert it into handcrafted pixel art with disciplined Legacy art direction while keeping its spatial story.\n\nPreserve the camera and composition, including: left pavilion, glass entrance and timber strip; one long right-side bench; one thin far-right lamp with a ROUND FLAT DISK canopy (seen as an ellipse, never a rectangle); two low railings framing the central gently descending paved path; the single small RED CANOE near the right lakeshore; blue-green lake, pine slopes and distinctive craggy mountain skyline. Keep the pavilion roof corners, bench seat height, lake horizon and lamp in the same relative positions. Keep the central path's gentle descent; no new steep staircase. Do not reshape the mountains into a different range. Small details may simplify to clusters but no important object may change category, shape family, count or spatial relationship.\n\nUse an unmistakable native pixel-art medium: crisp coherent square-pixel clusters, intentional stepped contour edges, palette/value grouping, selective dithering, consistent detail scale as though hand-painted on a 480x270 game-background canvas and enlarged cleanly. The circular lamp canopy must remain an ELLIPSE OF PIXEL CLUSTERS; pixel art is not a reason to make it a rectangular fixture. Avoid photographic texture under a filter, smooth vector surfaces or airbrushed gradient shading.\n\nPreserve clear afternoon atmosphere and right-side sunshine. Use Legacy's premium authored finish, strong readable silhouettes, warm golden-orange highlights against cool/deep structured shadows, restrained color and atmospheric depth. Retain natural blue-green water/forest and pale warm stone, without turning the whole scene into a black/gold filter. No new branding, symbols, writing, people, furniture or objects. Incidental foliage specks, stone microtexture and small cloud shapes may change; major skyline peaks and source lighting direction must remain recognizable. One source, one image. Output only the finished art.",
+  "prompt_sha256": "bd8ff5ab045cf2b274cde73eff9b11912d85388c56b0087f2978262639bcf782",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer. Create one standalone 16:9 finished image, not a contact sheet, analysis panel or diagram. The attached alpine terrace is the sole scene authority. Convert it into handcrafted pixel art with disciplined Legacy art direction while keeping its spatial story.\n\nPreserve the camera and composition, including: left pavilion, glass entrance and timber strip; one long right-side bench; one thin far-right lamp with a ROUND FLAT DISK canopy (seen as an ellipse, never a rectangle); two low railings framing the central gently descending paved path; the single small RED CANOE near the right lakeshore; blue-green lake, pine slopes and distinctive craggy mountain skyline. Keep the pavilion roof corners, bench seat height, lake horizon and lamp in the same relative positions. Keep the central path's gentle descent; no new steep staircase. Do not reshape the mountains into a different range. Small details may simplify to clusters but no important object may change category, shape family, count or spatial relationship.\n\nUse an unmistakable native pixel-art medium: crisp coherent square-pixel clusters, intentional stepped contour edges, palette/value grouping, selective dithering, consistent detail scale as though hand-painted on a 480x270 game-background canvas and enlarged cleanly. The circular lamp canopy must remain an ELLIPSE OF PIXEL CLUSTERS; pixel art is not a reason to make it a rectangular fixture. Avoid photographic texture under a filter, smooth vector surfaces or airbrushed gradient shading.\n\nPreserve clear afternoon atmosphere and right-side sunshine. Use Legacy's premium authored finish, strong readable silhouettes, warm golden-orange highlights against cool/deep structured shadows, restrained color and atmospheric depth. Retain natural blue-green water/forest and pale warm stone, without turning the whole scene into a black/gold filter. No new branding, symbols, writing, people, furniture or objects. Incidental foliage specks, stone microtexture and small cloud shapes may change; major skyline peaks and source lighting direction must remain recognizable. One source, one image. Output only the finished art.",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\DEVELOPMENT_ALPINE_TERRACE.png"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 10,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 10
+    },
+    "actual_tool_arguments_sha256": "e48fec293824bb36ab452c3f3f5077ff7a7370fbca975d3d9836e7a7a313d4df",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\S03-packet\\packet.json",
+      "sha256": "7b404953f6f6a3c567fac0e7fb140b494a0394df1b647950c3646fc9e363fdd6"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\S03-prompt.txt",
+      "sha256": "91e8edd69f12589fb77d7959426c7e019338d8ea723a42aaefe2e02df18f5732",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-a4b9ce9f-0516-4a73-8871-3af1f7d7c719.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "72470d59486324ec9aea0e1a48b08bed6f3b187a088eb501ad8ef1b73eadcf7e"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-a4b9ce9f-0516-4a73-8871-3af1f7d7c719.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": false
+  }
+}

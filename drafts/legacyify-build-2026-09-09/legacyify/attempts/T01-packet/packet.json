@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "T01",
+  "action": "together",
+  "created_at": "2026-09-09T07:04:28+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "bytes": 225506,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "identity"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_OFFICE_MASTER.jpg",
+      "sha256": "bf5325630ceb0c66cf38b8f8fc4c32b6bf849fe33347aef4ddbd18f9b869648f",
+      "bytes": 229835,
+      "width": 1536,
+      "height": 864,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    },
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_LOGO_MASTER.jpg",
+      "sha256": "68bc3c93ef900e5b3f25e2f7fb1e987661d60f0b6baec93f0ded0bbb841eb76b",
+      "bytes": 255254,
+      "width": 1536,
+      "height": 1536,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "support"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: compositing and identity-preserve. Create ONE standalone finished widescreen 16:9 image. No comparison board, labels, explanatory writing, or multi-panel layout.\n\nThree reference roles, strictly separate:\nIMAGE 1: the canonical Legacy FEMALE lioness character sheet. All views show the SAME character, not multiple people. This is the ONLY authority for her facial proportions, eyes, brows, small pale feline muzzle, black nose, swept wavy golden hair/mane, tawny fur, athletic build, black fitted short-sleeve shirt and trousers, and semi-realistic illustrated mascot rendering.\nIMAGE 2: the exact Legacy office scene, camera and furniture arrangement. This is ONLY the environment and scene-content authority; do not use its decorative symbols as character or logo references.\nIMAGE 3: the Legacy mirrored-lion emblem with THE LEGACY lettering, ONLY for the main left wall sign.\n\nRequested transformation: seat exactly ONE canonical lioness naturally in the existing central black office chair, facing the camera in a slight three-quarter angle. Her head and upper torso must be clearly visible in the open central space, left of the monitor, at a believable scale for the chair. Relaxed confident expression matching the reference; closed mouth, controlled almond-shaped amber eyes, same narrow feline muzzle and sculpted face. Keep her canonical facial structure: do not round/enlarge her eyes, widen or fill out the muzzle, soften the jaw into a human face, enlarge the mane, or increase shoulder/arm bulk. No jewelry, extra accessories, or wardrobe change. Her forearms rest naturally on the chair armrests; desk and monitor create ordinary occlusion of lower body. Do not invent a visible tail coming through furniture; it may remain naturally hidden behind the chair.\n\nVisual integration: the lioness REMAINS a clean semi-realistic illustrated character with confident contour lines and soft cel shading. The OFFICE REMAINS a richly rendered cinematic CGI environment with believable leather, wood, metal, glass and sunset. Integrate the two mediums through matching camera, scale, right-side warm sunset illumination, subtle contact/occlusion shadows, and local reflected warm light. Do not convert the lioness into a plastic/photoreal 3D character; do not flatten the room into cartoon illustration. Make the coexistence deliberate and polished.\n\nPreserve the source camera/frame and major spatial arrangement: foreground desk, centered chair, left plant, left wall sign, small wall shelves, right sunset window, curved monitor/webcam/stand on right, laptop center foreground, trophy left, mug beside it, notebook/pen left foreground, headphones at right, desk hub. Keep the monitor from covering her face. Exactly ONE main Legacy sign on the left wall, complete and contained, derived from Image 3. Intentionally simplify ALL other small emblems, brand words and tiny decorative text to plain materials while keeping the objects; no Allstate branding. Do not add office furniture or new props. Rich charcoal grounding, restrained warm-gold light, clear silhouette separation, premium commercial finish. Output only the finished picture.",
+  "preserve": [
+    "Female identity, CGI office spatial story, illustrated character integration"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One canonical character in a relatively simple target scene; this action is experimental until tested on fresh inputs.",
+  "review_checklist": [
+    "Character identity",
+    "Scene geometry and contents",
+    "Requested placement and action",
+    "Scale, contact, and perspective",
+    "Lighting integration",
+    "Legacy visual treatment"
+  ],
+  "prompt": "Use case: compositing and identity-preserve. Create ONE standalone finished widescreen 16:9 image. No comparison board, labels, explanatory writing, or multi-panel layout.\n\nThree reference roles, strictly separate:\nIMAGE 1: the canonical Legacy FEMALE lioness character sheet. All views show the SAME character, not multiple people. This is the ONLY authority for her facial proportions, eyes, brows, small pale feline muzzle, black nose, swept wavy golden hair/mane, tawny fur, athletic build, black fitted short-sleeve shirt and trousers, and semi-realistic illustrated mascot rendering.\nIMAGE 2: the exact Legacy office scene, camera and furniture arrangement. This is ONLY the environment and scene-content authority; do not use its decorative symbols as character or logo references.\nIMAGE 3: the Legacy mirrored-lion emblem with THE LEGACY lettering, ONLY for the main left wall sign.\n\nRequested transformation: seat exactly ONE canonical lioness naturally in the existing central black office chair, facing the camera in a slight three-quarter angle. Her head and upper torso must be clearly visible in the open central space, left of the monitor, at a believable scale for the chair. Relaxed confident expression matching the reference; closed mouth, controlled almond-shaped amber eyes, same narrow feline muzzle and sculpted face. Keep her canonical facial structure: do not round/enlarge her eyes, widen or fill out the muzzle, soften the jaw into a human face, enlarge the mane, or increase shoulder/arm bulk. No jewelry, extra accessories, or wardrobe change. Her forearms rest naturally on the chair armrests; desk and monitor create ordinary occlusion of lower body. Do not invent a visible tail coming through furniture; it may remain naturally hidden behind the chair.\n\nVisual integration: the lioness REMAINS a clean semi-realistic illustrated character with confident contour lines and soft cel shading. The OFFICE REMAINS a richly rendered cinematic CGI environment with believable leather, wood, metal, glass and sunset. Integrate the two mediums through matching camera, scale, right-side warm sunset illumination, subtle contact/occlusion shadows, and local reflected warm light. Do not convert the lioness into a plastic/photoreal 3D character; do not flatten the room into cartoon illustration. Make the coexistence deliberate and polished.\n\nPreserve the source camera/frame and major spatial arrangement: foreground desk, centered chair, left plant, left wall sign, small wall shelves, right sunset window, curved monitor/webcam/stand on right, laptop center foreground, trophy left, mug beside it, notebook/pen left foreground, headphones at right, desk hub. Keep the monitor from covering her face. Exactly ONE main Legacy sign on the left wall, complete and contained, derived from Image 3. Intentionally simplify ALL other small emblems, brand words and tiny decorative text to plain materials while keeping the objects; no Allstate branding. Do not add office furniture or new props. Rich charcoal grounding, restrained warm-gold light, clear silhouette separation, premium commercial finish. Output only the finished picture.\n",
+  "prompt_sha256": "b38ee8cb560fd6066699ba3c35e9c5a2c40e7c9725165ddeff93f8b3dd70a402",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: compositing and identity-preserve. Create ONE standalone finished widescreen 16:9 image. No comparison board, labels, explanatory writing, or multi-panel layout.\n\nThree reference roles, strictly separate:\nIMAGE 1: the canonical Legacy FEMALE lioness character sheet. All views show the SAME character, not multiple people. This is the ONLY authority for her facial proportions, eyes, brows, small pale feline muzzle, black nose, swept wavy golden hair/mane, tawny fur, athletic build, black fitted short-sleeve shirt and trousers, and semi-realistic illustrated mascot rendering.\nIMAGE 2: the exact Legacy office scene, camera and furniture arrangement. This is ONLY the environment and scene-content authority; do not use its decorative symbols as character or logo references.\nIMAGE 3: the Legacy mirrored-lion emblem with THE LEGACY lettering, ONLY for the main left wall sign.\n\nRequested transformation: seat exactly ONE canonical lioness naturally in the existing central black office chair, facing the camera in a slight three-quarter angle. Her head and upper torso must be clearly visible in the open central space, left of the monitor, at a believable scale for the chair. Relaxed confident expression matching the reference; closed mouth, controlled almond-shaped amber eyes, same narrow feline muzzle and sculpted face. Keep her canonical facial structure: do not round/enlarge her eyes, widen or fill out the muzzle, soften the jaw into a human face, enlarge the mane, or increase shoulder/arm bulk. No jewelry, extra accessories, or wardrobe change. Her forearms rest naturally on the chair armrests; desk and monitor create ordinary occlusion of lower body. Do not invent a visible tail coming through furniture; it may remain naturally hidden behind the chair.\n\nVisual integration: the lioness REMAINS a clean semi-realistic illustrated character with confident contour lines and soft cel shading. The OFFICE REMAINS a richly rendered cinematic CGI environment with believable leather, wood, metal, glass and sunset. Integrate the two mediums through matching camera, scale, right-side warm sunset illumination, subtle contact/occlusion shadows, and local reflected warm light. Do not convert the lioness into a plastic/photoreal 3D character; do not flatten the room into cartoon illustration. Make the coexistence deliberate and polished.\n\nPreserve the source camera/frame and major spatial arrangement: foreground desk, centered chair, left plant, left wall sign, small wall shelves, right sunset window, curved monitor/webcam/stand on right, laptop center foreground, trophy left, mug beside it, notebook/pen left foreground, headphones at right, desk hub. Keep the monitor from covering her face. Exactly ONE main Legacy sign on the left wall, complete and contained, derived from Image 3. Intentionally simplify ALL other small emblems, brand words and tiny decorative text to plain materials while keeping the objects; no Allstate branding. Do not add office furniture or new props. Rich charcoal grounding, restrained warm-gold light, clear silhouette separation, premium commercial finish. Output only the finished picture.\n",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_OFFICE_MASTER.jpg",
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_LOGO_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee."
+}

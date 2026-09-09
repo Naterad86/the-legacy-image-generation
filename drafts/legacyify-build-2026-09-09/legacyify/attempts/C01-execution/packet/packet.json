@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C01",
+  "action": "character",
+  "created_at": "2026-09-09T11:49:39+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg",
+      "sha256": "af190b6aefdab43bb76d9818c18cdfb22ad2bab7f146a031623bff21641fa08a",
+      "bytes": 210216,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: identity-preserve. Create one finished full-body character illustration, not a reference sheet, board, collage, or explanatory graphic. The attached image is the sole identity and illustration-rendering reference for the canonical Legacy MALE lion. All five depicted views are the SAME ONE character; output exactly ONE character.\n\nRequested change: put this exact character in a confident welcoming presentation pose: torso in three-quarter view, looking toward the viewer, his left hand resting naturally on his hip and his right arm extended to the side at lower-chest height with palm up, as if inviting someone into a room. Keep the same plain fitted black short-sleeve shirt, black trousers and black sneakers. No added accessories, text or logos.\n\nIdentity invariants: recognizable master face, broad pale muzzle with subtle whisker points, dark triangular nose, golden amber eyes beneath the same assertive eyebrows; layered swept-back golden-brown mane framing the face and tapering at the chest; adult heroic but master-matched athletic build, same head-to-body proportions and arm size, golden fur on exposed arms, one long golden tail with the same dark-gold tuft. Maintain the master’s semi-realistic illustrated mascot language: crisp confident contour lines, soft cel-shading, sculpted forms, controlled highlights. Do not inflate the muscles, turn him into a different generic lion, make him photorealistic or a plastic 3D toy.\n\nComposition: one complete character head to feet, generous safe margins, 4:5 portrait. Both hands and both feet fully visible and anatomically coherent. Tail visible with a single continuous attachment. A clean warm-ivory studio backdrop like the reference, with a subtle contact shadow beneath his shoes. Neutral illumination allows direct identity comparison. Output the standalone finished image only.",
+  "preserve": [
+    "Canonical male identity, outfit and rendering; welcoming gesture"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Use case: identity-preserve. Create one finished full-body character illustration, not a reference sheet, board, collage, or explanatory graphic. The attached image is the sole identity and illustration-rendering reference for the canonical Legacy MALE lion. All five depicted views are the SAME ONE character; output exactly ONE character.\n\nRequested change: put this exact character in a confident welcoming presentation pose: torso in three-quarter view, looking toward the viewer, his left hand resting naturally on his hip and his right arm extended to the side at lower-chest height with palm up, as if inviting someone into a room. Keep the same plain fitted black short-sleeve shirt, black trousers and black sneakers. No added accessories, text or logos.\n\nIdentity invariants: recognizable master face, broad pale muzzle with subtle whisker points, dark triangular nose, golden amber eyes beneath the same assertive eyebrows; layered swept-back golden-brown mane framing the face and tapering at the chest; adult heroic but master-matched athletic build, same head-to-body proportions and arm size, golden fur on exposed arms, one long golden tail with the same dark-gold tuft. Maintain the master’s semi-realistic illustrated mascot language: crisp confident contour lines, soft cel-shading, sculpted forms, controlled highlights. Do not inflate the muscles, turn him into a different generic lion, make him photorealistic or a plastic 3D toy.\n\nComposition: one complete character head to feet, generous safe margins, 4:5 portrait. Both hands and both feet fully visible and anatomically coherent. Tail visible with a single continuous attachment. A clean warm-ivory studio backdrop like the reference, with a subtle contact shadow beneath his shoes. Neutral illumination allows direct identity comparison. Output the standalone finished image only.",
+  "prompt_sha256": "6de67996291916feff4aeb15fbc943ea3e2babef284e23a079e10f7cf0ea93dc",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: identity-preserve. Create one finished full-body character illustration, not a reference sheet, board, collage, or explanatory graphic. The attached image is the sole identity and illustration-rendering reference for the canonical Legacy MALE lion. All five depicted views are the SAME ONE character; output exactly ONE character.\n\nRequested change: put this exact character in a confident welcoming presentation pose: torso in three-quarter view, looking toward the viewer, his left hand resting naturally on his hip and his right arm extended to the side at lower-chest height with palm up, as if inviting someone into a room. Keep the same plain fitted black short-sleeve shirt, black trousers and black sneakers. No added accessories, text or logos.\n\nIdentity invariants: recognizable master face, broad pale muzzle with subtle whisker points, dark triangular nose, golden amber eyes beneath the same assertive eyebrows; layered swept-back golden-brown mane framing the face and tapering at the chest; adult heroic but master-matched athletic build, same head-to-body proportions and arm size, golden fur on exposed arms, one long golden tail with the same dark-gold tuft. Maintain the master’s semi-realistic illustrated mascot language: crisp confident contour lines, soft cel-shading, sculpted forms, controlled highlights. Do not inflate the muscles, turn him into a different generic lion, make him photorealistic or a plastic 3D toy.\n\nComposition: one complete character head to feet, generous safe margins, 4:5 portrait. Both hands and both feet fully visible and anatomically coherent. Tail visible with a single continuous attachment. A clean warm-ivory studio backdrop like the reference, with a subtle contact shadow beneath his shoes. Neutral illumination allows direct identity comparison. Output the standalone finished image only.",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_MALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 1,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 1
+    },
+    "actual_tool_arguments_sha256": "63f62cdfbea0821ca39dd87bd11b6baeb15149ae59f353d27b43b9e102a16a0b",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C01-packet\\packet.json",
+      "sha256": "766d6ff052e9f6287f7c452e7b669f6c4466b256fd6bcf7530b3062894caf5f5"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C01-prompt.txt",
+      "sha256": "686b7e80fe6e2e848ff28b4d560ffd32e9c25c1f9af21fd9a5934de83742ec5a",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-16f32dc6-0dfa-4b09-a325-b5ef0799fe0b.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "96ab096cfbe69bc152b5949013681bf26acaa836d64cecdfb92f4282ee29db72"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-16f32dc6-0dfa-4b09-a325-b5ef0799fe0b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": false
+  }
+}

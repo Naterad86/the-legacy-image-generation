@@ -1,0 +1,11 @@
+{
+  "attempt_id": "E01",
+  "action": "source_setup",
+  "purpose": "synthetic development scene for honest transfer tests; not real photograph or held-out evidence",
+  "status": "requested",
+  "inputs": [],
+  "recorded_at_utc": "2026-09-09 06:56:18 UTC",
+  "tool": "built-in image_gen",
+  "output_count_requested": 1,
+  "prompt_file": "E01-prompt.txt"
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "kind": "legacyify_action_packet",
+  "attempt_id": "C02",
+  "action": "character",
+  "created_at": "2026-09-09T11:49:40+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg",
+      "sha256": "04b9faf4df2426f646d927ae810582c5ab80007d31309cf1a4040132258773b0",
+      "bytes": 225506,
+      "width": 1536,
+      "height": 1152,
+      "format": "JPEG",
+      "mode": "RGB",
+      "frames": 1,
+      "role": "target"
+    }
+  ],
+  "parent_attempts": [],
+  "request": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.",
+  "preserve": [
+    "Front bust facial geometry, eye shape, muzzle width, hair volume, body scale and outfit"
+  ],
+  "prompt_mode": "exact_import",
+  "scope_boundary": "One principal character; bounded, explicitly requested changes.",
+  "review_checklist": [
+    "Identity and signature features",
+    "Requested change",
+    "Explicit invariants",
+    "Legacy visual treatment",
+    "Anatomy and artifact inspection"
+  ],
+  "prompt": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.",
+  "prompt_sha256": "6ee14c9c1dfb54f915d8321f671bde63a8492802f1cf580f5c9b27db2b38e33f",
+  "tool": "image_gen.imagegen",
+  "tool_arguments": {
+    "prompt": "Use case: identity-preserve. Produce ONE full-body standalone illustration of the canonical Legacy FEMALE lioness in the attached identity master. The sheet shows several views of the SAME character. Output exactly one character; no sheet, labels, collage or graphic text.\n\nMake just this performance change: she stands facing straight toward the viewer with her arms comfortably folded across her mid torso, a quiet confident closed-mouth expression, and weight resting lightly on one leg. Her face should use the FRONT BUST view's exact orientation and design, not an invented three-quarter face. Preserve the master’s eye size and almond silhouette, precise brow shape and spacing, small black feline nose, restrained narrow pale muzzle/whisker pads, cheek and chin construction, ears and golden wavy swept-back hair silhouette. The facial expression stays very close to the master. Do not make the eyes rounder/larger, widen the muzzle, add a human face, thicken brows, widen the jaw, or increase mane volume.\n\nPreserve the master’s golden fur, exact athletic body proportions and head/body scale; same fitted plain black short-sleeve shirt, black trousers and black sneakers; one continuous slender golden lion tail with the canonical tuft. Maintain arm size and shoulder width; avoid exaggerated muscles. Folded arms must have coherent elbows, wrists and naturally placed hands. Show both feet and the full tail clearly with comfortable margins.\n\nStyle must remain the SAME semi-realistic illustrated mascot drawing as the reference: crisp confident contour lines, clean soft cel shading and subtle gradients modeling fur and form. No 3D plastic render, photoreal fur, generic Disney-like redesign or extra accessories. Warm ivory studio backdrop matching the reference; soft neutral light and subtle ground-contact shadow. 4:5 portrait composition, full figure at useful detail. No logo or lettering. Output the finished character only.",
+    "referenced_image_paths": [
+      "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\sources\\LEGACY_FEMALE_CHARACTER_MASTER.jpg"
+    ]
+  },
+  "execution": "This packet does not generate. In Codex, inspect each local input with view_image first if references exist, review the prompt, log started, then call the built-in image tool. For source_setup omit both image-reference arguments. Save untouched output bytes under a new filename and log the result. No API key is needed.",
+  "qualification": "Unvalidated action packet. A prompt constraint is a target, not a preservation guarantee.",
+  "execution_order": 6,
+  "audit_import": {
+    "retrospective": true,
+    "materialized_at_utc": "2026-09-09T11:49:39+00:00",
+    "timing_semantics": "This packet and lifecycle ledger were materialized after the image call completed. created_at and recorded_at are import times, not generation start/end times. execution_order is the actual call order from the orchestration capture.",
+    "transport_capture": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\records\\ACTUAL_TOOL_CALLS.json",
+      "sha256": "8db8d6a65d9790a36228036a5f9fd060d9b77d73ed9baf6c776239bfcb190556",
+      "execution_order": 6
+    },
+    "actual_tool_arguments_sha256": "afcf801e4e47b8c879a5a31966edbbb42948aa7359283de4d7358357e17a4917",
+    "original_packet": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C02-packet\\packet.json",
+      "sha256": "ce5d3aa0d601fbcadfba49abe616715fc4dca38ea5a48a89166294a4478fa6c9"
+    },
+    "original_prompt_file": {
+      "path": "C:\\Users\\galip\\Documents\\Codex\\2026-09-09\\t\\outputs\\legacyify\\attempts\\C02-prompt.txt",
+      "sha256": "dda5615644d6c0389187a2720068ad03200e093f433fa849132f6e48f3c5ab91",
+      "difference": "Original file contains exactly one extra terminal LF byte (0x0A). This execution packet uses the exact transport prompt without that extra byte."
+    },
+    "original_generated_output": {
+      "path": "C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-5e7717d7-d561-4688-8afb-ad6fe344c070.png",
+      "exists": true,
+      "sha256_matches_saved_raw": true,
+      "sha256": "757bb87183eeb886d424e64fd67be3c2e284d0de787e05b7a7c559049fa79650"
+    },
+    "original_tool_result_output_hint": "Generated images are saved to C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3 as C:\\Users\\galip\\.codex\\generated_images\\01a084d8-1a6d-7d72-b317-874654613fd3\\exec-5e7717d7-d561-4688-8afb-ad6fe344c070.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "setup_only": false
+  }
+}

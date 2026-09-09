@@ -1,0 +1,34 @@
+{
+  "attempt_id": "T04",
+  "verdict": "conditional",
+  "assessor": "Separate Codex visual evaluator; not a blinded external human panel",
+  "summary": "Seated illustrated-character integration is convincing; exact female identity, neckline and existing scene/mark fidelity vary.",
+  "checks": [
+    {
+      "criterion": "Canonical identity and wardrobe",
+      "result": "conditional",
+      "evidence": "One recognizable female with golden hair and illustrated construction. Eyes/muzzle appear slightly rounder/fuller; hair and facial shapes are reconstructed. Shirt opening becomes a more distinct V than the master's shallow rounded neckline. No polo/placket, added buckle or accessory."
+    },
+    {
+      "criterion": "Seating, visible anatomy and contact",
+      "result": "pass_with_limits",
+      "evidence": "Plausible adult scale between chair bolsters, bent forearms and relaxed blunt-nailed hands near armrests. No obvious clipping or malformed visible limb. Hidden hips, legs and underlying support cannot be directly verified."
+    },
+    {
+      "criterion": "Lighting and component mediums",
+      "result": "pass",
+      "evidence": "Character retains drawn contours/shading, room retains its realistic rendered materials, and warm right-side light/local shadow make the combination coherent."
+    },
+    {
+      "criterion": "Environment geometry and contents",
+      "result": "conditional",
+      "evidence": "Camera, major furniture and named props remain recognizable. Desktop/prop contours and positions, especially the headset, are re-created rather than exactly preserved. Natural character occlusion is allowed; no extra person or prop appears."
+    },
+    {
+      "criterion": "Preservation of supplied branding",
+      "result": "conditional",
+      "evidence": "Existing Legacy/Allstate wording and mark locations broadly survive. Emblem shapes and small lettering are reconstructed, so the prompt's exact supplied-mark preservation does not pass. No additional logo master was required or used as the comparison authority."
+    }
+  ],
+  "boundary": "One request supports convincing seated illustrated-character integration, not exact identity, neckline, environment/branding geometry, hidden anatomy or a reliability rate. User-attachment provenance beyond its supply is unknown."
+}

@@ -1,0 +1,13 @@
+{
+  "attempt_id": "C01",
+  "action": "character",
+  "purpose": "development first-pass: male welcoming pose",
+  "status": "requested",
+  "inputs": [
+    "sources/LEGACY_MALE_CHARACTER_MASTER.jpg"
+  ],
+  "requested_at_utc": "2026-09-09T06:54:00Z",
+  "tool": "built-in image_gen",
+  "output_count_requested": 1,
+  "prompt_file": "C01-prompt.txt"
+}
